@@ -1,0 +1,10 @@
+Stackexchange data obtained from here:
+https://archive.org/details/stackexchange
+How to get this working:
+Indexing:
+python simple_index.py --i ~/Dropbox/data/stackoverflow/posts.json
+
+simple backend service:
+python simplify_es_output.py 8080
+
+start es.html

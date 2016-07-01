@@ -1,0 +1,13 @@
+How to run simple indexing and search.
+
+Start an instance of elastic search:
+es/bin/elasticsearch
+
+Indexing:
+python apps/stackexchange/indexing/simple_index.py --i data/stackoverflow/posts_10K.json
+
+Start simple backend service to parse es data:
+
+python apps/stackexchange/backend/simplify_es_output.py 
+
+Open typeahead/es.html

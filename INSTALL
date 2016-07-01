@@ -1,0 +1,11 @@
+On Mac, brew is the easiest way to install and update software packages
+
+Install and update brew
+=======================
+Install brew: http://brew.sh/
+
+brew update
+
+Install elasticsearch
+=====================
+brew install elasticsearch

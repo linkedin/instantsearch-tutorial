@@ -49,9 +49,8 @@ def create_index():
             "properties": {
                 "name": {
                     "type": "string",
-                    "index_analyzer": "autocomplete",
+                    "analyzer": "autocomplete",
                     "search_analyzer": "standard",
-                    "payloads": True,
                 },
                 "popularity": {
                     "type": "float",

@@ -47,22 +47,31 @@ def construct_simple_query(raw_query, num_docs):
 
 
 class Search:
+    def _makeSuggestion(self, tag):
+        return {"text": tag,
+                "type": "suggestion",
+                "href": "http://stackoverflow.com/questions/tagged/" + tag.lower()
+               }
 
-    def GET(self):
-        web.header('Access-Control-Allow-Origin', '*')
-        web.header('Access-Control-Allow-Credentials', 'true')
-        web.header('Content-Type', 'application/json')
-        params = web.input()
-        query = params['q']
+    def getQuerySuggestions(self, query):
+        # TODO implement me
+        return [
+                self._makeSuggestion("java"),
+                self._makeSuggestion("javascript"),
+                self._makeSuggestion("jquery")
+               ]
+
+    def getInstantResults(self, query):
         url = LOCAL_HOST + '/' + INDEX_NAME + '/' + FIELD_NAME + '/_search'
         query = construct_simple_query(raw_query=query,
                                        num_docs=NUM_TO_RETRIEVE)
         response = requests.get(url=url, data=json.dumps(query))
         output = response.json()
         hits = output.get('hits')
+        response = []
         if hits:
             hits = hits.get('hits')
-            final_response = list()
+            response = list()
             for hit in hits:
                 source = hit['_source']
                 post_id = hit['_id']
@@ -70,12 +79,26 @@ class Search:
                     text = source.get('name')
                     score = source.get('popularity')
                     if text:
-                        final_response.append({'text': text,
-                                               'post_id': post_id,
-                                               'score': score})
+                        response.append({'text': text,
+                                         'post_id': post_id,
+                                         'score': score,
+                                         'type': 'instant',
+                                         'href': 'http://stackoverflow.com/questions/' + post_id
+                                        })
             # sort the output by score, this is custom ranking
-            final_response.sort(key=lambda x: x['score'], reverse=True)
-            return json.dumps(final_response[:NUM_TO_CUSTOM_SCORE])
+            response.sort(key=lambda x: x['score'], reverse=True)
+        return response[:NUM_TO_CUSTOM_SCORE]
+
+    def GET(self):
+        web.header('Access-Control-Allow-Origin', '*')
+        web.header('Access-Control-Allow-Credentials', 'true')
+        web.header('Content-Type', 'application/json')
+        params = web.input()
+        query = params['q']
+        query_suggestions = self.getQuerySuggestions(query)
+        instant_results = self.getInstantResults(query)
+        final_results = query_suggestions + instant_results
+        return json.dumps(final_results)
 
 
 if __name__ == '__main__':

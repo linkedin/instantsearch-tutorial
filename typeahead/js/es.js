@@ -12,7 +12,7 @@ var search = new Bloodhound({
 
 
 $(document).ready(function() {
-    $('#remote .typeahead').typeahead(null, {
+    $('.typeahead').typeahead(null, {
         name: 'search-autocomplete',
         display: 'text',
         source: search,
@@ -20,12 +20,12 @@ $(document).ready(function() {
         templates: {
             suggestion: function(data) {
                 //return '<p><strong>' + data.text + '</strong>' + '<br>' + ' id: ' + data.payload.id + '</p>';
-                return '<p>' + data.text + '</p>';
+                return "<div class='result " + data.type + "'>" + data.text + "</div>";
             }
         }
     });
     $('.typeahead').on('typeahead:selected', function(evt, item) {
         // do what you want with the item here
-        window.location.href = 'http://stackoverflow.com/questions/' + item.post_id
+        window.location.href = item.href;
     })
 });

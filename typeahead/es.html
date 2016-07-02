@@ -57,11 +57,26 @@
 .tt-suggestion p {
 	margin: 0;
 }
+
+#demo {
+  margin: auto;
+  position: fixed;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
 </style>
 </head>
 <body>
-<div id="remote">
-	<input class="typeahead" type="text" placeholder="names">
+  <div id="demo">
+    <div id="remote">
+      <input id="search" class="typeahead" type="text" placeholder="Search for topics or questions...">
+    </div>
 </div>
+<script>
+  $(document).ready(function() {
+    $("#search").focus();
+  });
+</script>
 </body>
 </html>                                		

@@ -71,7 +71,6 @@ class Search:
         response = []
         if hits:
             hits = hits.get('hits')
-            response = list()
             for hit in hits:
                 source = hit['_source']
                 post_id = hit['_id']

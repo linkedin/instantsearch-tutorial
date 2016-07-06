@@ -10,6 +10,7 @@ INDEX_NAME = 'stackoverflow'
 FIELD_NAME = 'posts'
 NUM_TO_RETRIEVE = 100
 NUM_TO_CUSTOM_SCORE = 10
+MAX_QUERY_AUTOCOMPLETE_RESULTS = 3
 
 
 def construct_custom_scoring_query(raw_query):
@@ -101,7 +102,7 @@ def get_query_suggestions(query):
     output = response.json()
     results = output['tag-suggest'][0]['options']
     # arbitrary cut-off for number of results
-    max_results = min(5, len(results))
+    max_results = min(MAX_QUERY_AUTOCOMPLETE_RESULTS, len(results))
     text_results = [r['text'] for r in results[:max_results]]
     return [make_suggestion(r) for r in text_results]
 

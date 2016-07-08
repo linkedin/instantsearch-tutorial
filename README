@@ -4,11 +4,12 @@ $ /path/to/elasticsearch
 
 Index posts and tags
 ====================
+(Adjust the numbers in "head" for smaller or larger indexes)
+
 Posts (for instant results):
-$ python indexing/instant_results.py --i data/stackoverflow/posts.json
+$ cat data/stackoverflow/posts.json | head -n 10000 | python indexing/instant_results.py
 
 Tags (for query autocomplete):
-(Adjust number for smaller or larger index)
 $ cat data/stackoverflow/tags.xml | grep "<row" | head -n 1000 | python indexing/query_autocomplete.py
 
 Start web server

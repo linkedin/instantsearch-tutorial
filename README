@@ -1,17 +1,17 @@
-How to run simple indexing and search.
+Start an instance of elastic search
+===================================
+$ /path/to/elasticsearch
 
-Start an instance of elastic search:
-/path/to/elasticsearch
+Index posts and tags
+====================
+Posts (for instant results):
+$ python apps/stackexchange/indexing/simple_index.py --i data/stackoverflow/posts.json
 
-Indexing:
-Instant results:
-python apps/stackexchange/indexing/simple_index.py --i data/stackoverflow/posts.json
+Tags (for query autocomplete):
+$ python apps/stackexchange/indexing/query_autocomplete.py --i data/stackoverflow/tags.xml
 
-Query autocomplete
-python apps/stackexchange/indexing/query_autocomplete.py --i data/stackoverflow/tags.xml
+Start web server
+================
+$ cd typeahead/ && python server.py
 
-Start simple backend service to parse es data:
-
-python apps/stackexchange/backend/simplify_es_output.py 
-
-Open typeahead/es.html
+Point your browser to http://localhost:8080

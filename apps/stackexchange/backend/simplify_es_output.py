@@ -54,8 +54,8 @@ def get_instant_results(query):
     query = construct_simple_query(raw_query=query,
                                    num_docs=NUM_TO_RETRIEVE)
     response = requests.get(url=url, data=json.dumps(query))
-    time_taken = response.elapsed.microseconds / 100.0
-    print 'Time taken for query: %s : %2.2f', (query, time_taken)
+    time_taken = response.elapsed.microseconds / 1000.0
+    print 'Time taken for query: %s : %4.2fms' % (query, time_taken)
     output = response.json()
     hits = output.get('hits')
     response = []

@@ -1,0 +1,100 @@
+{"@Score": "358", "@Id": "4", "@Title": "When setting a form's opacity should I use a decimal or double?"}
+{"@Score": "156", "@Id": "6", "@Title": "Why doesn't the percentage width child in absolutely positioned parent work?"}
+{"@Score": "1023", "@Id": "9", "@Title": "How do I calculate someone's age in C#?"}
+{"@Score": "890", "@Id": "11", "@Title": "How do I calculate relative time?"}
+{"@Score": "357", "@Id": "13", "@Title": "Determining a web user's time zone"}
+{"@Score": "228", "@Id": "14", "@Title": "Difference between Math.Floor() and Math.Truncate()"}
+{"@Score": "48", "@Id": "16", "@Title": "Filling a DataSet or DataTable from a LINQ query result set"}
+{"@Score": "71", "@Id": "17", "@Title": "Binary Data in MySQL"}
+{"@Score": "175", "@Id": "19", "@Title": "What is the fastest way to get the value of \u03c0?"}
+{"@Score": "61", "@Id": "24", "@Title": "Throw an error in a MySQL trigger"}
+{"@Score": "62", "@Id": "25", "@Title": "How to use the C socket API in C++ on z/OS"}
+{"@Score": "30", "@Id": "34", "@Title": "Unloading a ByteArray in Actionscript 3"}
+{"@Score": "76", "@Id": "36", "@Title": "Check for changes to an SQL Server table?"}
+{"@Score": "36", "@Id": "39", "@Title": "Reliable timer in a console application"}
+{"@Score": "169", "@Id": "42", "@Title": "Best way to allow plugins for a PHP application"}
+{"@Score": "148", "@Id": "48", "@Title": "Multiple submit buttons in an HTML form"}
+{"@Score": "40", "@Id": "59", "@Title": "How do I get a distinct, ordered list of names from a DataTable using LINQ?"}
+{"@Score": "19", "@Id": "61", "@Title": "Office 2007 File Type, Mime Types and Identifying Characters"}
+{"@Score": "41", "@Id": "66", "@Title": "Paging a collection with LINQ"}
+{"@Score": "16", "@Id": "72", "@Title": "How do I add existing comments to RDoc in Ruby?"}
+{"@Score": "18", "@Id": "79", "@Title": "How can you get Subclipse in Aptana to work with the newest release of Subversion?"}
+{"@Score": "18", "@Id": "80", "@Title": "SQLStatement.execute() - multiple queries in one statement"}
+{"@Score": "60", "@Id": "85", "@Title": "Flat File Databases"}
+{"@Score": "58", "@Id": "88", "@Title": "Is gettimeofday() guaranteed to be of microsecond resolution?"}
+{"@Score": "134", "@Id": "90", "@Title": "Good branching and merging tutorials for TortoiseSVN?"}
+{"@Score": "116", "@Id": "104", "@Title": "Anatomy of a \"Memory Leak\""}
+{"@Score": "29", "@Id": "108", "@Title": "Best Subversion clients for Windows Vista (64bit)"}
+{"@Score": "23", "@Id": "109", "@Title": "Decoding T-SQL CAST in C#/VB.NET"}
+{"@Score": "16", "@Id": "120", "@Title": "ASP.NET Site Maps"}
+{"@Score": "52", "@Id": "123", "@Title": "Java lib or app to convert CSV to XML file?"}
+{"@Score": "43", "@Id": "126", "@Title": "How would you access Object properties from within an object method?"}
+{"@Score": "54", "@Id": "129", "@Title": "How to export data from SQL Server 2005 to MySQL"}
+{"@Score": "13", "@Id": "134", "@Title": "XSD DataSets and ignoring foreign keys"}
+{"@Score": "19", "@Id": "145", "@Title": "Compressing / Decompressing Folders & Files"}
+{"@Score": "28", "@Id": "146", "@Title": "How do I track file downloads"}
+{"@Score": "65", "@Id": "163", "@Title": "How do I sync the SVN revision number with my ASP.NET web site?"}
+{"@Score": "35", "@Id": "164", "@Title": "Embedding Windows Media Player for all browsers"}
+{"@Score": "217", "@Id": "173", "@Title": "How do I version my SQL Server database"}
+{"@Score": "43", "@Id": "174", "@Title": "How do I print an HTML document from a web service?"}
+{"@Score": "22", "@Id": "175", "@Title": "Annotating YouTube videos programmatically"}
+{"@Score": "60", "@Id": "176", "@Title": "error_log per Virtual Host?"}
+{"@Score": "40", "@Id": "180", "@Title": "Function for creating color wheels"}
+{"@Score": "32", "@Id": "192", "@Title": "Floating Point Number parsing: Is there a Catch All algorithm?"}
+{"@Score": "16", "@Id": "194", "@Title": "Upgrading SQL Server 6.5"}
+{"@Score": "34", "@Id": "227", "@Title": "What's the best way to generate a tag cloud from an array using h1 through h6 for sizing?"}
+{"@Score": "16", "@Id": "231", "@Title": "Register Windows program with the mailto protocol programmatically"}
+{"@Score": "40", "@Id": "234", "@Title": "SQL Server 2005 implementation of MySQL REPLACE INTO?"}
+{"@Score": "13", "@Id": "246", "@Title": "Create a SQLite database based on an XSD Data Set"}
+{"@Score": "39", "@Id": "260", "@Title": "Adding scripting functionality to .NET applications"}
+{"@Score": "16", "@Id": "263", "@Title": "GTK implementation of MessageBox"}
+{"@Score": "14", "@Id": "264", "@Title": "BerkeleyDB Concurrency"}
+{"@Score": "15", "@Id": "265", "@Title": "Best Practice: Collaborative Environment, Bin Directory, SVN"}
+{"@Score": "448", "@Id": "289", "@Title": "How do you sort a dictionary by value?"}
+{"@Score": "76", "@Id": "308", "@Title": "Is there a version control system for database structure changes?"}
+{"@Score": "125", "@Id": "328", "@Title": "PHP Session Security"}
+{"@Score": "23", "@Id": "330", "@Title": "Should I use nested classes in this case?"}
+{"@Score": "32", "@Id": "336", "@Title": "When to use unsigned values over signed ones?"}
+{"@Score": "43", "@Id": "337", "@Title": "XML Processing in Python"}
+{"@Score": "99", "@Id": "361", "@Title": "Generate list of all possible permutations of a string"}
+{"@Score": "317", "@Id": "371", "@Title": "How do you make sure email you send programmatically is not automatically marked as spam?"}
+{"@Score": "31", "@Id": "382", "@Title": "What is the meaning of the type safety warning in certain Java generics casts?"}
+{"@Score": "23", "@Id": "387", "@Title": "Lucene Score results"}
+{"@Score": "69", "@Id": "402", "@Title": "iPhone app in landscape mode, 2008 systems"}
+{"@Score": "17", "@Id": "419", "@Title": "Unload a COM control when working in VB6 IDE"}
+{"@Score": "12", "@Id": "427", "@Title": "Programmatically Launch IE Mobile Favorites screen"}
+{"@Score": "31", "@Id": "438", "@Title": "Implementation of \"Remember me\" in a Rails application"}
+{"@Score": "10", "@Id": "469", "@Title": "How can I find the full path to a font from its display name on a Mac?"}
+{"@Score": "8", "@Id": "470", "@Title": "Homegrown consumption of web services"}
+{"@Score": "25", "@Id": "482", "@Title": "WinForms ComboBox data binding gotcha"}
+{"@Score": "17", "@Id": "502", "@Title": "Get a preview JPEG of a PDF on Windows?"}
+{"@Score": "10", "@Id": "514", "@Title": "Frequent SystemExit in Ruby when making HTTP calls"}
+{"@Score": "32", "@Id": "535", "@Title": "Continuous Integration System for a Python Codebase"}
+{"@Score": "3324", "@Id": "549", "@Title": "The definitive guide to form-based website authentication"}
+{"@Score": "10", "@Id": "561", "@Title": "How to use combinations of sets as test data"}
+{"@Score": "22", "@Id": "562", "@Title": "How to write to Web.Config in Medium Trust?"}
+{"@Score": "115", "@Id": "564", "@Title": "What is the difference between an int and an Integer in Java and C#?"}
+{"@Score": "16", "@Id": "580", "@Title": "Deploying SQL Server Databases from Test to Live"}
+{"@Score": "31", "@Id": "588", "@Title": "Best way to access Exchange using PHP?"}
+{"@Score": "14", "@Id": "594", "@Title": "cx_Oracle - what is the best way to iterate over a result set?"}
+{"@Score": "21", "@Id": "601", "@Title": "Robust Random Number Generation"}
+{"@Score": "9", "@Id": "609", "@Title": "Build for Windows NT 4.0 using Visual Studio 2005?"}
+{"@Score": "33", "@Id": "622", "@Title": "Most efficient code for the first 10000 prime numbers?"}
+{"@Score": "250", "@Id": "626", "@Title": "When to use lambda, when to use Proc.new?"}
+{"@Score": "25", "@Id": "644", "@Title": "Swap unique indexed column values in database"}
+{"@Score": "64", "@Id": "650", "@Title": "Automatically update version number"}
+{"@Score": "15", "@Id": "651", "@Title": "Checklist for IIS 6/ASP.NET Windows Authentication?"}
+{"@Score": "12", "@Id": "657", "@Title": "Encrypting Passwords"}
+{"@Score": "20", "@Id": "683", "@Title": "Using 'in' to match an attribute of Python objects in an array"}
+{"@Score": "16", "@Id": "696", "@Title": "Connect PHP to IBM i (AS/400)"}
+{"@Score": "19", "@Id": "705", "@Title": "Embedded Database for .net that can run off a network"}
+{"@Score": "29", "@Id": "709", "@Title": ".NET Testing Framework Advice"}
+{"@Score": "11", "@Id": "717", "@Title": "Why doesn't VFP .NET OLEdb provider work in 64 bit Windows?"}
+{"@Score": "23", "@Id": "742", "@Title": "Class views in Django"}
+{"@Score": "13", "@Id": "746", "@Title": "Format string to title case"}
+{"@Score": "295", "@Id": "752", "@Title": "Get a new object instance from a Type"}
+{"@Score": "6", "@Id": "761", "@Title": "Localising date format descriptors"}
+{"@Score": "10", "@Id": "766", "@Title": "Python and MySQL"}
+{"@Score": "23", "@Id": "769", "@Title": "Solving a linear equation"}
+{"@Score": "173", "@Id": "773", "@Title": "How do I use Python's itertools.groupby()?"}
+{"@Score": "5", "@Id": "805", "@Title": "ASP, need to use SFTP"}

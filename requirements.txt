@@ -5,3 +5,4 @@ virtualenv==1.5.2
 web.py==0.37
 wheel==0.26.0
 wsgiref==0.1.2
+xmltodict==0.10.2

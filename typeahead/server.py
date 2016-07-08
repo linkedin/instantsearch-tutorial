@@ -4,7 +4,11 @@ import json
 import web
 import requests
 
-urls = ('/search', 'Search')
+urls = (
+        '/', 'Home',
+        '/search', 'Search'
+       )
+
 LOCAL_HOST = 'http://localhost:9200'
 INDEX_NAME = 'stackoverflow'
 FIELD_NAME = 'posts'
@@ -106,6 +110,9 @@ def get_query_suggestions(query):
     text_results = [r['text'] for r in results[:max_results]]
     return [make_suggestion(r) for r in text_results]
 
+class Home:
+    def GET(self):
+        raise web.seeother('/static/index.html')
 
 class Search:
     def __init__(self):

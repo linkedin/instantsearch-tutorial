@@ -6,7 +6,6 @@
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
   <script  type="text/javascript" src="js/typeahead.bundle.js"></script>
-  <script  type="text/javascript" src="js/es.js"></script>
 
   <link rel="stylesheet" href="https://twitter.github.io/typeahead.js/css/examples.css">
 
@@ -44,10 +43,39 @@
     <div id="remote">
       <input id="search" class="typeahead" type="text" placeholder="Search for topics or questions...">
     </div>
-</div>
+  </div>
+
 <script>
+  var search = new Bloodhound({
+      name: 'search',
+      datumTokenizer: function (datum) { return Bloodhound.tokenizers.whitespace(datum); },
+      queryTokenizer: Bloodhound.tokenizers.whitespace,
+      remote: {
+          url: 'http://localhost:8080/search?q=%QUERY',
+          wildcard: '%QUERY',
+          rateLimitWait: 20,
+      },
+      limit: 20
+  });
+
+
   $(document).ready(function() {
-    $("#search").focus();
+      $('.typeahead').typeahead(null, {
+          name: 'search-autocomplete',
+          display: 'text',
+          source: search,
+          limit: 20,
+          templates: {
+              suggestion: function(data) {
+                  return "<div class='result " + data.type + "'>" + data.text + "</div>";
+              }
+          }
+      });
+      $('.typeahead').on('typeahead:selected', function(evt, item) {
+          window.location.href = item.href;
+      })
+
+      $("#search").focus();
   });
 </script>
 </body>

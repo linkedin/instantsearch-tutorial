@@ -1,3 +1,5 @@
+(See INSTALL first for required modules and other software)
+
 Start an instance of elastic search
 ===================================
 $ /path/to/elasticsearch

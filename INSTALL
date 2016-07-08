@@ -1,11 +1,13 @@
-On Mac, brew is the easiest way to install and update software packages
+Instant required python modules
+===============================
+$ sudo easy_install requests
+$ sudo easy_install web.py
 
 Install and update brew
 =======================
-Install brew: http://brew.sh/
-
-brew update
+Install brew from http://brew.sh/
+$ brew update
 
 Install elasticsearch
 =====================
-brew install elasticsearch
+$ brew install elasticsearch

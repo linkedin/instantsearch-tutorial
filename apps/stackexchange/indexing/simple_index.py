@@ -5,7 +5,6 @@ https://www.elastic.co/guide/en/elasticsearch/guide/current/_index_time_search_a
 from __future__ import unicode_literals
 
 import argparse
-from elasticsearch import Elasticsearch
 import json
 import requests
 
@@ -16,8 +15,11 @@ FIELD_NAME = 'posts'
 
 
 def create_index():
-    conn = Elasticsearch()
-    conn.indices.delete(INDEX_NAME, ignore=[400, 404])
+    # Delete the index if it exists
+    url = LOCAL_HOST + '/' + INDEX_NAME
+    requests.delete(url)
+
+    # Recreate the index with our choice of analyzer
     index_settings = {
         "settings": {
             "number_of_shards": 1,
@@ -44,6 +46,8 @@ def create_index():
     }
     url = LOCAL_HOST + '/' + INDEX_NAME
     requests.put(url=url, data=json.dumps(index_settings))
+
+    # Set up field mappings
     index_mapping = {
         FIELD_NAME: {
             "properties": {

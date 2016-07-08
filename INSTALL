@@ -1,4 +1,4 @@
-Instant required python modules
+Install required python modules
 ===============================
 $ sudo easy_install requests
 $ sudo easy_install web.py

@@ -1,14 +1,14 @@
 How to run simple indexing and search.
 
 Start an instance of elastic search:
-es/bin/elasticsearch
+/path/to/elasticsearch
 
 Indexing:
 Instant results:
-python apps/stackexchange/indexing/simple_index.py --i data/stackoverflow/posts_100.json
+python apps/stackexchange/indexing/simple_index.py --i data/stackoverflow/posts.json
 
 Query autocomplete
-python apps/stackexchange/indexing/query_autocomplete.py --i data/stackoverflow/Tags.xml
+python apps/stackexchange/indexing/query_autocomplete.py --i data/stackoverflow/tags.xml
 
 Start simple backend service to parse es data:
 

@@ -1,9 +1,9 @@
 from __future__ import unicode_literals
 
-import argparse
+import sys
+import re
 import json
 import requests
-import xmltodict
 
 
 def create_index():
@@ -25,36 +25,28 @@ def create_index():
     url = 'http://localhost:9200/stackoverflowtags/tag/_mapping'
     requests.put(url=url, data=json.dumps(mapping))
 
-
-def run(input_file):
-    create_index()
-    with open(input_file, 'rb') as f_input:
-        doc = xmltodict.parse(f_input.read())
-        rows = doc['tags']['row']
-        for row_number, row in enumerate(rows):
-            if (row_number % 1000) == 0:
-                print 'Done with indexing: %d posts' % row_number
-            url = 'http://localhost:9200/stackoverflowtags/tag/' + \
-                  str(row_number+1) + '?refresh=true'
-            tag_name = row['@TagName'].lower()
-            weight = int(row['@Count'])
-            data = {
-                "name": tag_name,
-                "suggest": {
-                    "input": tag_name,
-                    "output": tag_name,
-                    "weight": weight,
-                }
-            }
-            requests.put(url, data=json.dumps(data))
-
-
 def main():
-    arg_parser = argparse.ArgumentParser()
-    arg_parser.add_argument('--i', action='store', dest='input', )
-    args = arg_parser.parse_args()
-    run(input_file=args.input)
-
+    create_index()
+    # Regex for extracting key="value" pairs from XML entries
+    rx = re.compile(r'(?P<key>[a-z]+)="(?P<val>[^"]+)"', re.I)
+    doc_id = 0
+    for line in sys.stdin:
+        attrs = dict((m.group('key'), m.group('val')) for m in rx.finditer(line))
+        doc_id += 1
+        if (doc_id % 100) == 0:
+            print 'Done with indexing %d tags' % doc_id
+        url = 'http://localhost:9200/stackoverflowtags/tag/' + str(doc_id) + '?refresh=true'
+        tag_name = attrs['TagName'].lower()
+        weight = int(attrs['Count'])
+        data = {
+            "name": tag_name,
+            "suggest": {
+                "input": tag_name,
+                "output": tag_name,
+                "weight": weight,
+            }
+        }
+        requests.put(url, data=json.dumps(data))
 
 if __name__ == '__main__':
     main()

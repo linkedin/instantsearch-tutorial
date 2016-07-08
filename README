@@ -8,7 +8,8 @@ Posts (for instant results):
 $ python indexing/instant_results.py --i data/stackoverflow/posts.json
 
 Tags (for query autocomplete):
-$ python indexing/query_autocomplete.py --i data/stackoverflow/tags.xml
+(Adjust number for smaller or larger index)
+$ cat data/stackoverflow/tags.xml | grep "<row" | head -n 1000 | python indexing/query_autocomplete.py
 
 Start web server
 ================

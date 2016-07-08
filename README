@@ -5,10 +5,10 @@ $ /path/to/elasticsearch
 Index posts and tags
 ====================
 Posts (for instant results):
-$ python apps/stackexchange/indexing/simple_index.py --i data/stackoverflow/posts.json
+$ python indexing/instant_results.py --i data/stackoverflow/posts.json
 
 Tags (for query autocomplete):
-$ python apps/stackexchange/indexing/query_autocomplete.py --i data/stackoverflow/tags.xml
+$ python indexing/query_autocomplete.py --i data/stackoverflow/tags.xml
 
 Start web server
 ================

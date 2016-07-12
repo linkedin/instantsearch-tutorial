@@ -1,0 +1,8 @@
+elasticsearch==2.3.0
+requests==2.10.0
+urllib3==1.16
+virtualenv==1.5.2
+web.py==0.37
+wheel==0.26.0
+wsgiref==0.1.2
+xmltodict==0.10.2

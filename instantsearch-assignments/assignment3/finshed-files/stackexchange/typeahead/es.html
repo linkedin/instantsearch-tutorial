@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Stackoverflow search</title>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script  type="text/javascript" src="js/typeahead.bundle.js"></script>
+  <script  type="text/javascript" src="js/es.js"></script>
+
+  <link rel="stylesheet" href="https://twitter.github.io/typeahead.js/css/examples.css">
+
+  <style type="text/css">
+    #demo {
+      margin: auto;
+      position: fixed;
+      top: 20%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+    }
+
+    .result {
+      padding-left: 50px;
+      line-height: 35px;
+    }
+
+    .suggestion {
+      background: url('img/search.png') no-repeat;
+      background-position: 10px 4px;
+      background-size: 30px 30px;
+      font-weight: bold;
+    }
+
+    .instant {
+      background: url('img/icon-stackoverflow.svg') no-repeat;
+      background-position: 10px 2px;
+      background-size: 32px 32px;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="demo">
+    <div id="remote">
+      <input id="search" class="typeahead" type="text" placeholder="Search for topics or questions...">
+    </div>
+</div>
+<script>
+  $(document).ready(function() {
+    $("#search").focus();
+  });
+</script>
+</body>
+</html>

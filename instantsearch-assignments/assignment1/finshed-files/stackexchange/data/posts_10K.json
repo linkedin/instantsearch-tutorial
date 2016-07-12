@@ -1,0 +1,2008 @@
+{"@Score": "358", "@Id": "4", "@Title": "When setting a form's opacity should I use a decimal or double?"}
+{"@Score": "156", "@Id": "6", "@Title": "Why doesn't the percentage width child in absolutely positioned parent work?"}
+{"@Score": "1023", "@Id": "9", "@Title": "How do I calculate someone's age in C#?"}
+{"@Score": "890", "@Id": "11", "@Title": "How do I calculate relative time?"}
+{"@Score": "357", "@Id": "13", "@Title": "Determining a web user's time zone"}
+{"@Score": "228", "@Id": "14", "@Title": "Difference between Math.Floor() and Math.Truncate()"}
+{"@Score": "48", "@Id": "16", "@Title": "Filling a DataSet or DataTable from a LINQ query result set"}
+{"@Score": "71", "@Id": "17", "@Title": "Binary Data in MySQL"}
+{"@Score": "175", "@Id": "19", "@Title": "What is the fastest way to get the value of \u03c0?"}
+{"@Score": "61", "@Id": "24", "@Title": "Throw an error in a MySQL trigger"}
+{"@Score": "62", "@Id": "25", "@Title": "How to use the C socket API in C++ on z/OS"}
+{"@Score": "30", "@Id": "34", "@Title": "Unloading a ByteArray in Actionscript 3"}
+{"@Score": "76", "@Id": "36", "@Title": "Check for changes to an SQL Server table?"}
+{"@Score": "36", "@Id": "39", "@Title": "Reliable timer in a console application"}
+{"@Score": "169", "@Id": "42", "@Title": "Best way to allow plugins for a PHP application"}
+{"@Score": "148", "@Id": "48", "@Title": "Multiple submit buttons in an HTML form"}
+{"@Score": "40", "@Id": "59", "@Title": "How do I get a distinct, ordered list of names from a DataTable using LINQ?"}
+{"@Score": "19", "@Id": "61", "@Title": "Office 2007 File Type, Mime Types and Identifying Characters"}
+{"@Score": "41", "@Id": "66", "@Title": "Paging a collection with LINQ"}
+{"@Score": "16", "@Id": "72", "@Title": "How do I add existing comments to RDoc in Ruby?"}
+{"@Score": "18", "@Id": "79", "@Title": "How can you get Subclipse in Aptana to work with the newest release of Subversion?"}
+{"@Score": "18", "@Id": "80", "@Title": "SQLStatement.execute() - multiple queries in one statement"}
+{"@Score": "60", "@Id": "85", "@Title": "Flat File Databases"}
+{"@Score": "58", "@Id": "88", "@Title": "Is gettimeofday() guaranteed to be of microsecond resolution?"}
+{"@Score": "134", "@Id": "90", "@Title": "Good branching and merging tutorials for TortoiseSVN?"}
+{"@Score": "116", "@Id": "104", "@Title": "Anatomy of a \"Memory Leak\""}
+{"@Score": "29", "@Id": "108", "@Title": "Best Subversion clients for Windows Vista (64bit)"}
+{"@Score": "23", "@Id": "109", "@Title": "Decoding T-SQL CAST in C#/VB.NET"}
+{"@Score": "16", "@Id": "120", "@Title": "ASP.NET Site Maps"}
+{"@Score": "52", "@Id": "123", "@Title": "Java lib or app to convert CSV to XML file?"}
+{"@Score": "43", "@Id": "126", "@Title": "How would you access Object properties from within an object method?"}
+{"@Score": "54", "@Id": "129", "@Title": "How to export data from SQL Server 2005 to MySQL"}
+{"@Score": "13", "@Id": "134", "@Title": "XSD DataSets and ignoring foreign keys"}
+{"@Score": "19", "@Id": "145", "@Title": "Compressing / Decompressing Folders & Files"}
+{"@Score": "28", "@Id": "146", "@Title": "How do I track file downloads"}
+{"@Score": "65", "@Id": "163", "@Title": "How do I sync the SVN revision number with my ASP.NET web site?"}
+{"@Score": "35", "@Id": "164", "@Title": "Embedding Windows Media Player for all browsers"}
+{"@Score": "217", "@Id": "173", "@Title": "How do I version my SQL Server database"}
+{"@Score": "43", "@Id": "174", "@Title": "How do I print an HTML document from a web service?"}
+{"@Score": "22", "@Id": "175", "@Title": "Annotating YouTube videos programmatically"}
+{"@Score": "60", "@Id": "176", "@Title": "error_log per Virtual Host?"}
+{"@Score": "40", "@Id": "180", "@Title": "Function for creating color wheels"}
+{"@Score": "32", "@Id": "192", "@Title": "Floating Point Number parsing: Is there a Catch All algorithm?"}
+{"@Score": "16", "@Id": "194", "@Title": "Upgrading SQL Server 6.5"}
+{"@Score": "34", "@Id": "227", "@Title": "What's the best way to generate a tag cloud from an array using h1 through h6 for sizing?"}
+{"@Score": "16", "@Id": "231", "@Title": "Register Windows program with the mailto protocol programmatically"}
+{"@Score": "40", "@Id": "234", "@Title": "SQL Server 2005 implementation of MySQL REPLACE INTO?"}
+{"@Score": "13", "@Id": "246", "@Title": "Create a SQLite database based on an XSD Data Set"}
+{"@Score": "39", "@Id": "260", "@Title": "Adding scripting functionality to .NET applications"}
+{"@Score": "16", "@Id": "263", "@Title": "GTK implementation of MessageBox"}
+{"@Score": "14", "@Id": "264", "@Title": "BerkeleyDB Concurrency"}
+{"@Score": "15", "@Id": "265", "@Title": "Best Practice: Collaborative Environment, Bin Directory, SVN"}
+{"@Score": "448", "@Id": "289", "@Title": "How do you sort a dictionary by value?"}
+{"@Score": "76", "@Id": "308", "@Title": "Is there a version control system for database structure changes?"}
+{"@Score": "125", "@Id": "328", "@Title": "PHP Session Security"}
+{"@Score": "23", "@Id": "330", "@Title": "Should I use nested classes in this case?"}
+{"@Score": "32", "@Id": "336", "@Title": "When to use unsigned values over signed ones?"}
+{"@Score": "43", "@Id": "337", "@Title": "XML Processing in Python"}
+{"@Score": "99", "@Id": "361", "@Title": "Generate list of all possible permutations of a string"}
+{"@Score": "317", "@Id": "371", "@Title": "How do you make sure email you send programmatically is not automatically marked as spam?"}
+{"@Score": "31", "@Id": "382", "@Title": "What is the meaning of the type safety warning in certain Java generics casts?"}
+{"@Score": "23", "@Id": "387", "@Title": "Lucene Score results"}
+{"@Score": "69", "@Id": "402", "@Title": "iPhone app in landscape mode, 2008 systems"}
+{"@Score": "17", "@Id": "419", "@Title": "Unload a COM control when working in VB6 IDE"}
+{"@Score": "12", "@Id": "427", "@Title": "Programmatically Launch IE Mobile Favorites screen"}
+{"@Score": "31", "@Id": "438", "@Title": "Implementation of \"Remember me\" in a Rails application"}
+{"@Score": "10", "@Id": "469", "@Title": "How can I find the full path to a font from its display name on a Mac?"}
+{"@Score": "8", "@Id": "470", "@Title": "Homegrown consumption of web services"}
+{"@Score": "25", "@Id": "482", "@Title": "WinForms ComboBox data binding gotcha"}
+{"@Score": "17", "@Id": "502", "@Title": "Get a preview JPEG of a PDF on Windows?"}
+{"@Score": "10", "@Id": "514", "@Title": "Frequent SystemExit in Ruby when making HTTP calls"}
+{"@Score": "32", "@Id": "535", "@Title": "Continuous Integration System for a Python Codebase"}
+{"@Score": "3324", "@Id": "549", "@Title": "The definitive guide to form-based website authentication"}
+{"@Score": "10", "@Id": "561", "@Title": "How to use combinations of sets as test data"}
+{"@Score": "22", "@Id": "562", "@Title": "How to write to Web.Config in Medium Trust?"}
+{"@Score": "115", "@Id": "564", "@Title": "What is the difference between an int and an Integer in Java and C#?"}
+{"@Score": "16", "@Id": "580", "@Title": "Deploying SQL Server Databases from Test to Live"}
+{"@Score": "31", "@Id": "588", "@Title": "Best way to access Exchange using PHP?"}
+{"@Score": "14", "@Id": "594", "@Title": "cx_Oracle - what is the best way to iterate over a result set?"}
+{"@Score": "21", "@Id": "601", "@Title": "Robust Random Number Generation"}
+{"@Score": "9", "@Id": "609", "@Title": "Build for Windows NT 4.0 using Visual Studio 2005?"}
+{"@Score": "33", "@Id": "622", "@Title": "Most efficient code for the first 10000 prime numbers?"}
+{"@Score": "250", "@Id": "626", "@Title": "When to use lambda, when to use Proc.new?"}
+{"@Score": "25", "@Id": "644", "@Title": "Swap unique indexed column values in database"}
+{"@Score": "64", "@Id": "650", "@Title": "Automatically update version number"}
+{"@Score": "15", "@Id": "651", "@Title": "Checklist for IIS 6/ASP.NET Windows Authentication?"}
+{"@Score": "12", "@Id": "657", "@Title": "Encrypting Passwords"}
+{"@Score": "20", "@Id": "683", "@Title": "Using 'in' to match an attribute of Python objects in an array"}
+{"@Score": "16", "@Id": "696", "@Title": "Connect PHP to IBM i (AS/400)"}
+{"@Score": "19", "@Id": "705", "@Title": "Embedded Database for .net that can run off a network"}
+{"@Score": "29", "@Id": "709", "@Title": ".NET Testing Framework Advice"}
+{"@Score": "11", "@Id": "717", "@Title": "Why doesn't VFP .NET OLEdb provider work in 64 bit Windows?"}
+{"@Score": "23", "@Id": "742", "@Title": "Class views in Django"}
+{"@Score": "13", "@Id": "746", "@Title": "Format string to title case"}
+{"@Score": "295", "@Id": "752", "@Title": "Get a new object instance from a Type"}
+{"@Score": "6", "@Id": "761", "@Title": "Localising date format descriptors"}
+{"@Score": "10", "@Id": "766", "@Title": "Python and MySQL"}
+{"@Score": "23", "@Id": "769", "@Title": "Solving a linear equation"}
+{"@Score": "173", "@Id": "773", "@Title": "How do I use Python's itertools.groupby()?"}
+{"@Score": "5", "@Id": "805", "@Title": "ASP, need to use SFTP"}
+{"@Score": "7", "@Id": "810", "@Title": "Visual Studio Setup Project - Per User Registry Settings"}
+{"@Score": "9", "@Id": "826", "@Title": "Efficiently get sorted sums of a sorted list"}
+{"@Score": "6", "@Id": "832", "@Title": "How do I most elegantly express left join with aggregate SQL as LINQ query"}
+{"@Score": "9", "@Id": "833", "@Title": "Editing database records by multiple users"}
+{"@Score": "5", "@Id": "835", "@Title": "CruiseControl.net, msbuild, /p:OutputPath and CCNetArtifactDirectory"}
+{"@Score": "65", "@Id": "845", "@Title": "How can I detect which font was used in a web page?"}
+{"@Score": "7", "@Id": "855", "@Title": ".Net XML comment into API Documentation"}
+{"@Score": "394", "@Id": "871", "@Title": "Why is Git better than Subversion?"}
+{"@Score": "84", "@Id": "879", "@Title": "Are PHP Variables passed by value or by reference?"}
+{"@Score": "350", "@Id": "888", "@Title": "How do you debug PHP scripts?"}
+{"@Score": "38", "@Id": "898", "@Title": "Internationalization in your projects"}
+{"@Score": "40", "@Id": "904", "@Title": "In HTML, how to word-break on a dash?"}
+{"@Score": "4", "@Id": "905", "@Title": "Client collation and SQL Server 2005"}
+{"@Score": "25", "@Id": "930", "@Title": "How do I connect to a database and loop over a recordset in C#?"}
+{"@Score": "58", "@Id": "935", "@Title": "String literals and escape characters in postgresql"}
+{"@Score": "11", "@Id": "944", "@Title": "Unhandled Exception Handler in .NET 1.1"}
+{"@Score": "10", "@Id": "947", "@Title": "How to use a mutex in Visual Basic"}
+{"@Score": "283", "@Id": "972", "@Title": "Adding a Method to an Existing Object"}
+{"@Score": "170", "@Id": "1005", "@Title": "Getting root permissions on a file inside of vi?"}
+{"@Score": "9", "@Id": "1010", "@Title": "How to get the value of built, encoded ViewState?"}
+{"@Score": "10", "@Id": "1024", "@Title": "How do I fix 'Unprocessed view path found' error with ExceptionNotifier plugin in rails 2.1?"}
+{"@Score": "45", "@Id": "1033", "@Title": "How to get the Country according to a certain IP?"}
+{"@Score": "17", "@Id": "1037", "@Title": "Displaying Flash content in a C# WinForms application"}
+{"@Score": "37", "@Id": "1040", "@Title": "How do I delete a file which is locked by another process in C#?"}
+{"@Score": "12", "@Id": "1041", "@Title": "Easy-to-Use Regular Expression Support in C++?"}
+{"@Score": "7", "@Id": "1042", "@Title": "Why doesn't SQL Full Text Indexing return results for words containing #?"}
+{"@Score": "7", "@Id": "1053", "@Title": "A little diversion into floating point (im)precision, part 1"}
+{"@Score": "5", "@Id": "1064", "@Title": "How To Display 100 Floating Cubes Using DirectX OR OpenGL?"}
+{"@Score": "36", "@Id": "1069", "@Title": "Heap corruption under Win32; how to locate?"}
+{"@Score": "12", "@Id": "1070", "@Title": "Process size on UNIX"}
+{"@Score": "15", "@Id": "1083", "@Title": "Bayesian filtering for spam"}
+{"@Score": "12", "@Id": "1104", "@Title": "Ensuring that Exceptions are always Caught"}
+{"@Score": "805", "@Id": "1108", "@Title": "How does database indexing work?"}
+{"@Score": "24", "@Id": "1131", "@Title": "Windows Help files - what are the options?"}
+{"@Score": "3", "@Id": "1145", "@Title": "Why am I getting a malloc: double free error with realloc()?"}
+{"@Score": "27", "@Id": "1156", "@Title": "How do I index a database column"}
+{"@Score": "31", "@Id": "1160", "@Title": "Use SVN Revision to label build in CCNET"}
+{"@Score": "34", "@Id": "1171", "@Title": "What is the most efficient graph data structure in Python?"}
+{"@Score": "21", "@Id": "1176", "@Title": "Open Source Ruby Projects"}
+{"@Score": "12", "@Id": "1180", "@Title": "How to make subdomain user accounts in a webapp"}
+{"@Score": "4", "@Id": "1189", "@Title": "ViewState invalid only in Safari"}
+{"@Score": "6", "@Id": "1229", "@Title": "How do I hyperlink to a specific slide of a .ppt file?"}
+{"@Score": "29", "@Id": "1237", "@Title": "Regex: To pull out a sub-string between two tags in a string"}
+{"@Score": "7", "@Id": "1241", "@Title": "Asynchronous multi-direction server-client communication over the same open socket?"}
+{"@Score": "39", "@Id": "1261", "@Title": "What are the advantages of using SVN over CVS?"}
+{"@Score": "159", "@Id": "1276", "@Title": "How big can a MySQL database get before performance starts to degrade"}
+{"@Score": "11", "@Id": "1284", "@Title": "Catching SQL Injection and other Malicious Web Requests"}
+{"@Score": "39", "@Id": "1292", "@Title": "Limit size of Queue<T> in .NET?"}
+{"@Score": "19", "@Id": "1300", "@Title": "Is nAnt still supported and suitable for .net 3.5/VS2008?"}
+{"@Score": "169", "@Id": "1304", "@Title": "How to check for file lock?"}
+{"@Score": "33", "@Id": "1306", "@Title": "How do I use (n)curses in Ruby?"}
+{"@Score": "4", "@Id": "1311", "@Title": "Rockbox audio format"}
+{"@Score": "33", "@Id": "1313", "@Title": "Followup: Finding an accurate \"distance\" between colors"}
+{"@Score": "7", "@Id": "1314", "@Title": "Using MSTest with CruiseControl.NET"}
+{"@Score": "10", "@Id": "1323", "@Title": "Followup: \"Sorting\" colors by distinctiveness"}
+{"@Score": "38", "@Id": "1329", "@Title": "What is a better file copy alternative than the Windows default?"}
+{"@Score": "7", "@Id": "1376", "@Title": "Get the current logged in OS user in Adobe Air"}
+{"@Score": "150", "@Id": "1383", "@Title": "What is unit testing?"}
+{"@Score": "64", "@Id": "1384", "@Title": "Subsonic Vs NHibernate"}
+{"@Score": "10", "@Id": "1387", "@Title": "What are the current best options for parallelizing a CPU-intensive .NET app?"}
+{"@Score": "13", "@Id": "1390", "@Title": "Is Windows Server 2008 \"Server Core\" appropriate for a SQL Server instance?"}
+{"@Score": "14", "@Id": "1401", "@Title": "ASP.Net Custom Client-Side Validation"}
+{"@Score": "163", "@Id": "1408", "@Title": "Make XAMPP/Apache serve file outside of htdocs"}
+{"@Score": "7", "@Id": "1409", "@Title": "Bandwith throttling in IIS 6 by IP Address"}
+{"@Score": "20", "@Id": "1417", "@Title": "How can I get the authenticated user name under Apache using plain HTTP authentication and PHP?"}
+{"@Score": "11", "@Id": "1451", "@Title": "What is the best way to handle multiple permission types?"}
+{"@Score": "9", "@Id": "1453", "@Title": "Using object property as default for method property"}
+{"@Score": "138", "@Id": "1457", "@Title": "Modify Address Bar URL in AJAX App to Match Current State"}
+{"@Score": "198", "@Id": "1476", "@Title": "How do you express binary literals in Python?"}
+{"@Score": "24", "@Id": "1496", "@Title": "What are the preferred versions of Vim and Emacs on Mac OS X?"}
+{"@Score": "11", "@Id": "1503", "@Title": "Integrating Visual Studio Test Project with Cruise Control"}
+{"@Score": "16", "@Id": "1505", "@Title": "How do I give my web sites an icon for iPhone?"}
+{"@Score": "6", "@Id": "1508", "@Title": "Different Distributed Version Control Systems working together"}
+{"@Score": "27", "@Id": "1528", "@Title": "Hiding inherited members"}
+{"@Score": "21", "@Id": "1535", "@Title": "Reducing duplicate error handling code in C#?"}
+{"@Score": "102", "@Id": "1576", "@Title": "What should a longtime Windows user know when starting to use Linux?"}
+{"@Score": "8", "@Id": "1584", "@Title": "Linux shell equivalent on IIS"}
+{"@Score": "58", "@Id": "1598", "@Title": "What are the correct pixel dimensions for an apple-touch-icon?"}
+{"@Score": "13", "@Id": "1600", "@Title": "What is the best way to copy a database?"}
+{"@Score": "97", "@Id": "1607", "@Title": "Mechanisms for tracking DB schema changes"}
+{"@Score": "47", "@Id": "1610", "@Title": "Can I logically reorder columns in a table?"}
+{"@Score": "4", "@Id": "1615", "@Title": "How can I modify .xfdl files? (Update #1)"}
+{"@Score": "15", "@Id": "1623", "@Title": "Folders or Projects in a Visual Studio Solution?"}
+{"@Score": "20", "@Id": "1625", "@Title": "XML Editing/Viewing Software"}
+{"@Score": "529", "@Id": "1644", "@Title": "What good technology podcasts are out there?"}
+{"@Score": "704", "@Id": "1669", "@Title": "Learning to write a compiler"}
+{"@Score": "4", "@Id": "1679", "@Title": "How do I calculate these statistics?"}
+{"@Score": "9", "@Id": "1683", "@Title": "ASP.NET built in user profile vs. old stile user class/tables"}
+{"@Score": "10", "@Id": "1709", "@Title": "How to pass enumerated values to a web service"}
+{"@Score": "1440", "@Id": "1711", "@Title": "What is the single most influential book every programmer should read?"}
+{"@Score": "14", "@Id": "1734", "@Title": "Any experiences with Protocol Buffers?"}
+{"@Score": "25", "@Id": "1746", "@Title": "How can I get at the matches when using preg_replace in PHP?"}
+{"@Score": "45", "@Id": "1760", "@Title": ".NET Unit Testing packages?"}
+{"@Score": "4", "@Id": "1762", "@Title": "Why is my ternary expression not working?"}
+{"@Score": "9", "@Id": "1790", "@Title": "Federated (Synced) Subversion servers?"}
+{"@Score": "4", "@Id": "1829", "@Title": "How do I make a menu that does not require the user to press [enter] to make a selection?"}
+{"@Score": "19", "@Id": "1836", "@Title": "Wiggling the mouse"}
+{"@Score": "15", "@Id": "1848", "@Title": "Locating Text within image"}
+{"@Score": "182", "@Id": "1854", "@Title": "Python: What OS am I running on?"}
+{"@Score": "14", "@Id": "1869", "@Title": "Which tools do people use to create Data Dictionaries?"}
+{"@Score": "16", "@Id": "1873", "@Title": "Triple Quotes? How do I delimit a databound Javascript string parameter in ASP.NET?"}
+{"@Score": "71", "@Id": "1898", "@Title": "CSV File Imports in .Net"}
+{"@Score": "11", "@Id": "1908", "@Title": "How to map a latitude/longitude to a distorted map?"}
+{"@Score": "92", "@Id": "1936", "@Title": "How to RedirectToAction in ASP.NET MVC without losing request data"}
+{"@Score": "15", "@Id": "1949", "@Title": "Are Multiple DataContext classes ever appropriate?"}
+{"@Score": "6", "@Id": "1970", "@Title": "What language do you use for PostgreSQL triggers and stored procedures?"}
+{"@Score": "75", "@Id": "1973", "@Title": "What is the best way to avoid SQL injection attacks?"}
+{"@Score": "19", "@Id": "1982", "@Title": "CPU throttling in C++"}
+{"@Score": "20", "@Id": "1983", "@Title": "Python: what is the difference between (1,2,3) and [1,2,3], and when should I use each?"}
+{"@Score": "32", "@Id": "1988", "@Title": "How far can LISP macros go?"}
+{"@Score": "6", "@Id": "1994", "@Title": "Any solution to the \"illegal cross thread call\" ?"}
+{"@Score": "7", "@Id": "1995", "@Title": "Most Efficient Way to Test Object Type"}
+{"@Score": "38", "@Id": "2027", "@Title": "Pass by reference or pass by value?"}
+{"@Score": "184", "@Id": "2034", "@Title": "What do the result codes in SVN mean?"}
+{"@Score": "392", "@Id": "2041", "@Title": "How do I create a branch in SVN?"}
+{"@Score": "15", "@Id": "2043", "@Title": "Can a windows dll retrieve its own filename?"}
+{"@Score": "29", "@Id": "2046", "@Title": "How do I unit test persistence?"}
+{"@Score": "3", "@Id": "2048", "@Title": "Monitor a specific RSS"}
+{"@Score": "1089", "@Id": "2056", "@Title": "What are MVP and MVC and what is the difference?"}
+{"@Score": "6", "@Id": "2092", "@Title": "How to get started \"writing\" a code coverage tool?"}
+{"@Score": "60", "@Id": "2120", "@Title": "Convert HashBytes to VarChar"}
+{"@Score": "10", "@Id": "2123", "@Title": "How do I make a checkbox toggle from clicking on the text label as well?"}
+{"@Score": "73", "@Id": "2134", "@Title": "Do sealed classes really offer performance Benefits?"}
+{"@Score": "35", "@Id": "2138", "@Title": "LINQ on the .NET 2.0 Runtime"}
+{"@Score": "12", "@Id": "2154", "@Title": "Developing for ASP.NET-MVC without Visual Studio"}
+{"@Score": "30", "@Id": "2155", "@Title": "How do I define custom web.config sections with potential child elements and attributes for the properties?"}
+{"@Score": "52", "@Id": "2158", "@Title": "Creating a custom button in Java"}
+{"@Score": "2", "@Id": "2196", "@Title": "Easy way to AJAX WebControls"}
+{"@Score": "5", "@Id": "2209", "@Title": "How can I change the background of a masterpage from the code behind of a content page?"}
+{"@Score": "8", "@Id": "2214", "@Title": "What's the best way to implement BDD/TDD in .NET 2.0?"}
+{"@Score": "5", "@Id": "2222", "@Title": "How can I unit test Flex applications from within the IDE or a build script?"}
+{"@Score": "480", "@Id": "2232", "@Title": "Calling shell commands from Ruby"}
+{"@Score": "65", "@Id": "2250", "@Title": "Datatable vs Dataset"}
+{"@Score": "10", "@Id": "2256", "@Title": "Mapping Stream data to data structures in C#"}
+{"@Score": "23", "@Id": "2262", "@Title": "ASP.NET URL Rewriting"}
+{"@Score": "3", "@Id": "2267", "@Title": "How to filter and combine 2 datasets in C#"}
+{"@Score": "6", "@Id": "2279", "@Title": "Add Custom Tag to Visual Studio Validation"}
+{"@Score": "19", "@Id": "2284", "@Title": "How to contribute code back to an Open Source project?"}
+{"@Score": "7", "@Id": "2300", "@Title": "How do I traverse a collection in classic ASP?"}
+{"@Score": "7", "@Id": "2308", "@Title": "ASP.NET Display SVN Revision Number"}
+{"@Score": "14", "@Id": "2311", "@Title": "File size differences after copying a file to a server v\u00eda FTP"}
+{"@Score": "3", "@Id": "2328", "@Title": "Tracking state using ASP.NET AJAX / ICallbackEventHandler"}
+{"@Score": "14", "@Id": "2332", "@Title": "How do I turn on line numbers by default in TextWrangler on the Mac?"}
+{"@Score": "20", "@Id": "2348", "@Title": "What is the best way to iterate through an array in Classic Asp VBScript?"}
+{"@Score": "7", "@Id": "2349", "@Title": "How to tab focus onto a dropdown field in Mac OSX"}
+{"@Score": "8", "@Id": "2364", "@Title": "What is Your Experience with Unit Testing in Practice?"}
+{"@Score": "79", "@Id": "2366", "@Title": "Can anyone explain Monads?"}
+{"@Score": "30", "@Id": "2384", "@Title": "Read binary file into a struct"}
+{"@Score": "5", "@Id": "2405", "@Title": "Binary file layout reference"}
+{"@Score": "8", "@Id": "2432", "@Title": "Have you ever encountered a query that SQL Server could not execute because it referenced too many tables?"}
+{"@Score": "7", "@Id": "2447", "@Title": "Are there best practices for testing security in an Agile development shop?"}
+{"@Score": "10", "@Id": "2472", "@Title": "How can I tell if a web client is blocking advertisements?"}
+{"@Score": "3", "@Id": "2481", "@Title": "Best self-balancing BST for quick insertion of a large number of nodes"}
+{"@Score": "26", "@Id": "2482", "@Title": "What are some good resources for learning threaded programming?"}
+{"@Score": "64", "@Id": "2483", "@Title": "Casting: (NewType) vs. Object as NewType"}
+{"@Score": "14", "@Id": "2486", "@Title": "What is Progressive Enhancement?"}
+{"@Score": "168", "@Id": "2488", "@Title": "Auto Generate Database Diagram MySQL"}
+{"@Score": "88", "@Id": "2509", "@Title": "What are the primary differences between TDD and BDD?"}
+{"@Score": "2", "@Id": "2518", "@Title": "Using multiple SQLite databases at once"}
+{"@Score": "17", "@Id": "2524", "@Title": "Visual Studio 2008 debugger already attached work-around"}
+{"@Score": "123", "@Id": "2525", "@Title": ".NET obfuscation tools/strategy"}
+{"@Score": "47", "@Id": "2527", "@Title": "Find node clicked under context menu"}
+{"@Score": "1167", "@Id": "2530", "@Title": "How do you disable browser Autocomplete on web form field / input tag?"}
+{"@Score": "34", "@Id": "2540", "@Title": "Good STL-like library for C"}
+{"@Score": "10", "@Id": "2543", "@Title": "What are the best solutions for flash charts and graphs?"}
+{"@Score": "8", "@Id": "2550", "@Title": "What are effective options for embedding video in an ASP.NET web site?"}
+{"@Score": "78", "@Id": "2556", "@Title": "What's the best online payment processing solution?"}
+{"@Score": "3", "@Id": "2563", "@Title": "What is a good web-based Grid that accepts Excel clipboard data?"}
+{"@Score": "9", "@Id": "2588", "@Title": "Appropriate Windows O/S pagefile size for SQL Server"}
+{"@Score": "8", "@Id": "2630", "@Title": "What are your favorite Powershell Cmdlets?"}
+{"@Score": "8", "@Id": "2639", "@Title": "What are some web-based knowledge-base solutions?"}
+{"@Score": "286", "@Id": "2647", "@Title": "How do I split a string so I can access item x"}
+{"@Score": "8", "@Id": "2649", "@Title": "What's the best way to determine if a temporary table exists in SQL Server?"}
+{"@Score": "61", "@Id": "2658", "@Title": "Getting started with Version Control"}
+{"@Score": "9", "@Id": "2688", "@Title": "What do I need to escape when sending a query?"}
+{"@Score": "14", "@Id": "2702", "@Title": "How do I use T-SQL Group By"}
+{"@Score": "2", "@Id": "2709", "@Title": "How can you tell when a user last pressed a key (or moved the mouse)?"}
+{"@Score": "7", "@Id": "2711", "@Title": "What sites offer free, quality web site design templates?"}
+{"@Score": "6", "@Id": "2714", "@Title": "I need to know how much disk space a table is using in SQL Server"}
+{"@Score": "10", "@Id": "2732", "@Title": "Shell scripting input redirection oddities"}
+{"@Score": "41", "@Id": "2742", "@Title": "Setting up an Erlang development environment"}
+{"@Score": "5", "@Id": "2750", "@Title": "Data verifications in Getter/Setter or elsewhere?"}
+{"@Score": "10", "@Id": "2756", "@Title": "Lightweight IDE for Linux"}
+{"@Score": "4", "@Id": "2765", "@Title": "Is there a keyboard shortcut to view all open documents in Visual Studio 2008"}
+{"@Score": "150", "@Id": "2767", "@Title": "Recommended add-ons/plugins for Microsoft Visual Studio"}
+{"@Score": "23", "@Id": "2770", "@Title": "Global Exception Handling for winforms control"}
+{"@Score": "0", "@Id": "2773", "@Title": "Can't get a Console to VMs"}
+{"@Score": "53", "@Id": "2775", "@Title": "How to remove the time portion of a datetime value (SQL Server)?"}
+{"@Score": "1", "@Id": "2778", "@Title": "Is it better to create Model classes or stick with generic database utility class?"}
+{"@Score": "10", "@Id": "2780", "@Title": "Converting ARBG to RGB with alpha blending"}
+{"@Score": "117", "@Id": "2785", "@Title": "Setting Objects to Null/Nothing after use in .NET"}
+{"@Score": "27", "@Id": "2786", "@Title": "What's the best setup for Mono development on Windows?"}
+{"@Score": "13", "@Id": "2798", "@Title": "Map Routing, a la Google Maps?"}
+{"@Score": "7", "@Id": "2804", "@Title": "How should I translate from screen space coordinates to image space coordinates in a WinForms PictureBox?"}
+{"@Score": "2", "@Id": "2809", "@Title": "SQL Server 2000: Is there a way to tell when a record was last modified?"}
+{"@Score": "3", "@Id": "2811", "@Title": "SQL Server 2005 For XML Explicit - Need help formatting"}
+{"@Score": "9", "@Id": "2815", "@Title": "How to curl or wget a web page?"}
+{"@Score": "129", "@Id": "2826", "@Title": "Do you have any recommended plugins for Eclipse?"}
+{"@Score": "30", "@Id": "2840", "@Title": "Paging SQL Server 2005 Results"}
+{"@Score": "171", "@Id": "2844", "@Title": "How do you printf an unsigned long long int(the format specifier for unsigned long long int)?"}
+{"@Score": "311", "@Id": "2861", "@Title": "Options for HTML scraping?"}
+{"@Score": "39", "@Id": "2871", "@Title": "Reading a C/C++ data structure in C# from a byte array"}
+{"@Score": "9", "@Id": "2872", "@Title": "Possible to \"spin off\" several GUI threads? (Not halting the system at Application.Run)"}
+{"@Score": "34", "@Id": "2873", "@Title": "Choosing a static code analysis tool"}
+{"@Score": "15", "@Id": "2874", "@Title": "How to render a control to look like ComboBox with Visual Styles enabled?"}
+{"@Score": "34", "@Id": "2898", "@Title": "Text Editor For Linux (Besides Vi)?"}
+{"@Score": "5", "@Id": "2900", "@Title": "MySQL/Apache Error in PHP MySQL query"}
+{"@Score": "6", "@Id": "2913", "@Title": "How to Test Web Code?"}
+{"@Score": "28", "@Id": "2914", "@Title": "How can I detect if a browser is blocking a popup?"}
+{"@Score": "11", "@Id": "2931", "@Title": "Getting started with a custom JXTA PeerGroup"}
+{"@Score": "143", "@Id": "2933", "@Title": "How can I create a directly-executable cross-platform GUI app using Python?"}
+{"@Score": "14", "@Id": "2942", "@Title": "HSL in .net"}
+{"@Score": "5", "@Id": "2959", "@Title": "Indexing Service + MODI = Full-text over OCR? You wish"}
+{"@Score": "21", "@Id": "2968", "@Title": "What are the different methods to parse strings in Java?"}
+{"@Score": "16", "@Id": "2970", "@Title": "My website got hacked... What should I do?"}
+{"@Score": "23", "@Id": "2987", "@Title": "Bringing Window to the Front in C# using Win32 API"}
+{"@Score": "4", "@Id": "2988", "@Title": "What problems can be solved, or tackled more easily, using graphs and trees?"}
+{"@Score": "8", "@Id": "2993", "@Title": "Reverse DNS in Ruby?"}
+{"@Score": "2", "@Id": "3004", "@Title": "Using ASP.NET Dynamic Data / LINQ to SQL, how do you have two table fields have a relationship to the same foreign key?"}
+{"@Score": "105", "@Id": "3017", "@Title": "How to generate getters and setters in Visual Studio?"}
+{"@Score": "78", "@Id": "3021", "@Title": "What is recursion and when should I use it?"}
+{"@Score": "9", "@Id": "3027", "@Title": "Is there an Unobtrusive Captcha for web forms?"}
+{"@Score": "43", "@Id": "3033", "@Title": "What's the safest way to iterate through the keys of a Perl hash?"}
+{"@Score": "2", "@Id": "3045", "@Title": "Linking two Office documents"}
+{"@Score": "21", "@Id": "3049", "@Title": "How do I configure and communicate with a serial port?"}
+{"@Score": "6", "@Id": "3057", "@Title": "Speed Comparisons - Procedural vs. OO in interpreted languages"}
+{"@Score": "731", "@Id": "3058", "@Title": "What is Inversion of Control?"}
+{"@Score": "504", "@Id": "3061", "@Title": "Calling a function of a module from a string with the function's name in Python"}
+{"@Score": "10", "@Id": "3067", "@Title": "Plugin for Visual Studio to Mimic Eclipse's \"Open Type\" or \"Open Resource\" Keyboard Access"}
+{"@Score": "2", "@Id": "3075", "@Title": "Can ASP.NET AJAX partial rendering work inside a SharePoint 2007 application page?"}
+{"@Score": "327", "@Id": "3088", "@Title": "Best ways to teach a beginner to program?"}
+{"@Score": "5", "@Id": "3106", "@Title": "How can I create Debian install packages in Windows for a Visual Studio project?"}
+{"@Score": "14", "@Id": "3112", "@Title": "Can you force either a scalar or array ref to be an array in Perl?"}
+{"@Score": "-1", "@Id": "3121", "@Title": "Why are SYSTEM and taskmgr.exe taking up 100% of my CPU?"}
+{"@Score": "7", "@Id": "3136", "@Title": "How to setup a crontab to execute at specific time"}
+{"@Score": "6", "@Id": "3143", "@Title": "Using MBUnit in TeamCity"}
+{"@Score": "11", "@Id": "3144", "@Title": "'Best' Diff Algorithm"}
+{"@Score": "26", "@Id": "3147", "@Title": "What are the best practices for using Extension Methods in .Net?"}
+{"@Score": "63", "@Id": "3150", "@Title": "How to set up unit testing for Visual Studio C++"}
+{"@Score": "10", "@Id": "3157", "@Title": ".htaccess directives to *not* redirect certain URLs"}
+{"@Score": "12", "@Id": "3163", "@Title": "Actionscript 3 - Fastest way to parse yyyy-mm-dd hh:mm:ss to a Date object?"}
+{"@Score": "40", "@Id": "3164", "@Title": "Absolute path back to web-relative path"}
+{"@Score": "26", "@Id": "3180", "@Title": "Anyone soloing using fogbugz?"}
+{"@Score": "9", "@Id": "3196", "@Title": "SQL query, count and group by"}
+{"@Score": "34", "@Id": "3213", "@Title": "Convert integers to written numbers"}
+{"@Score": "25", "@Id": "3224", "@Title": "How can I make the browser see CSS and Javascript changes?"}
+{"@Score": "17", "@Id": "3230", "@Title": "How do you pack a visual studio c++ project for release?"}
+{"@Score": "13", "@Id": "3231", "@Title": "C/C++ library for reading MIDI signals from a USB MIDI device"}
+{"@Score": "5", "@Id": "3234", "@Title": "Displaying ad content from Respose.WriteFile()/ Response.ContentType"}
+{"@Score": "2", "@Id": "3248", "@Title": "\"documentation\" conventions and auto checking them"}
+{"@Score": "500", "@Id": "3255", "@Title": "Big O, how do you calculate/approximate it?"}
+{"@Score": "34", "@Id": "3260", "@Title": "Peak detection of measured signal"}
+{"@Score": "3", "@Id": "3272", "@Title": "Timer-based event triggers"}
+{"@Score": "10", "@Id": "3281", "@Title": "Mapping values from two array in Ruby"}
+{"@Score": "102", "@Id": "3284", "@Title": "Why can't I have abstract static methods in C#?"}
+{"@Score": "7", "@Id": "3315", "@Title": "Can I have a method returning IEnumerator<T> and use it in a foreach loop?"}
+{"@Score": "47", "@Id": "3319", "@Title": "CSS background color in JavaScript"}
+{"@Score": "46", "@Id": "3362", "@Title": "Capturing TAB key in text box"}
+{"@Score": "30", "@Id": "3385", "@Title": "MAC addresses in JavaScript"}
+{"@Score": "20", "@Id": "3400", "@Title": "How do you get leading wildcard full-text searches to work in SQL Server?"}
+{"@Score": "24", "@Id": "3404", "@Title": "Javascript troubleshooting tools in IE"}
+{"@Score": "11", "@Id": "3408", "@Title": "Ruby On Rails with Windows Vista - Best Setup?"}
+{"@Score": "162", "@Id": "3432", "@Title": "Multiple Updates in MySQL"}
+{"@Score": "12", "@Id": "3437", "@Title": "Options for Google Maps over SSL"}
+{"@Score": "14", "@Id": "3448", "@Title": "Is it acceptable for invalid XHTML?"}
+{"@Score": "219", "@Id": "3452", "@Title": "SQL Client for Mac OS X that works with MS SQL Server"}
+{"@Score": "8", "@Id": "3470", "@Title": "How do I Transform Sql Columns into Rows?"}
+{"@Score": "1", "@Id": "3486", "@Title": "Block user access to internals of a site using HTTP_REFERER"}
+{"@Score": "12", "@Id": "3510", "@Title": "What does the term \"BODMAS\" mean?"}
+{"@Score": "5", "@Id": "3512", "@Title": "Searching directories for tons of files?"}
+{"@Score": "25", "@Id": "3530", "@Title": "How do I run Rake tasks within a Ruby script?"}
+{"@Score": "4", "@Id": "3544", "@Title": "What is the best way to deploy a VB.NET application?"}
+{"@Score": "3", "@Id": "3567", "@Title": "Sql to query a dbs scheme"}
+{"@Score": "71", "@Id": "3585", "@Title": "Create a new Ruby on Rails application using MySQL instead of SQLite"}
+{"@Score": "11", "@Id": "3589", "@Title": "Backup SQL Schema Only?"}
+{"@Score": "3", "@Id": "3594", "@Title": "Are there any good public SAP Business Intelligence developer networks out there?"}
+{"@Score": "12", "@Id": "3607", "@Title": "Integrating Fogbugz with TortoiseSVN with no URL/Subversion backend"}
+{"@Score": "5", "@Id": "3611", "@Title": "PHP Error - Uploading a file"}
+{"@Score": "4", "@Id": "3615", "@Title": "Using SQLite with Visual Studio 2008 and Silverlight"}
+{"@Score": "0", "@Id": "3625", "@Title": "What's the Developer Express equivalent of System.Windows.Forms.LinkButton?"}
+{"@Score": "13", "@Id": "3654", "@Title": "HTML version choice"}
+{"@Score": "6", "@Id": "3666", "@Title": "Can you access the windows registry from Adobe Air?"}
+{"@Score": "14", "@Id": "3667", "@Title": "What is your favorite web app deployment workflow with SVN?"}
+{"@Score": "3", "@Id": "3682", "@Title": "Distribution of table in time"}
+{"@Score": "95", "@Id": "3713", "@Title": "Call ASP.NET Function From Javascript?"}
+{"@Score": "9", "@Id": "3725", "@Title": "How to create a tree-view preferences dialog type of interface in C#?"}
+{"@Score": "4", "@Id": "3739", "@Title": "Sharepoint: executing stsadm from a timer job + SHAREPOINT\\System rights"}
+{"@Score": "415", "@Id": "3748", "@Title": "Storing Images in DB - Yea or Nay?"}
+{"@Score": "3", "@Id": "3757", "@Title": "Looking for code to render a form that displays a view of an object"}
+{"@Score": "14", "@Id": "3781", "@Title": "Prototyping a GUI with a customer"}
+{"@Score": "2", "@Id": "3790", "@Title": "Is there a WMI Redistributable Package?"}
+{"@Score": "114", "@Id": "3793", "@Title": "Best way to get InnerXml of an XElement?"}
+{"@Score": "10", "@Id": "3798", "@Title": "Full complete MySQL database replication? Ideas? What do people do?"}
+{"@Score": "5", "@Id": "3801", "@Title": "More vs. Faster Cores on a Webserver"}
+{"@Score": "4", "@Id": "3802", "@Title": "How do you typeset code elements in normal text?"}
+{"@Score": "6", "@Id": "3809", "@Title": "Setup Visual Studio 2005 to print line numbers"}
+{"@Score": "24", "@Id": "3823", "@Title": "Suggestions for implementing audit tables in SQL Server?"}
+{"@Score": "6", "@Id": "3831", "@Title": "How do I best detect an ASP.NET expired session?"}
+{"@Score": "8", "@Id": "3839", "@Title": "How do I Concatenate entire result sets in MySQL?"}
+{"@Score": "2", "@Id": "3856", "@Title": "Adobe Flex component events"}
+{"@Score": "14", "@Id": "3859", "@Title": "What is the difference between all the different types of version control?"}
+{"@Score": "4", "@Id": "3867", "@Title": "Automated release script and Visual Studio Setup projects"}
+{"@Score": "12", "@Id": "3868", "@Title": "How can I turn a string of HTML into a DOM object in a Firefox extension?"}
+{"@Score": "276", "@Id": "3881", "@Title": "IllegalArgumentException or NullPointerException for a null parameter?"}
+{"@Score": "3", "@Id": "3894", "@Title": "T-Sql Remove Decimal Point From Money Data Type"}
+{"@Score": "9", "@Id": "3903", "@Title": "Is this a good way to determine OS Architecture?"}
+{"@Score": "374", "@Id": "3927", "@Title": "What Are Some Good .NET Profilers?"}
+{"@Score": "2", "@Id": "3942", "@Title": "What's the best way to find long-running code in a Windows Forms Application"}
+{"@Score": "2", "@Id": "3975", "@Title": "How do I know which SQL Server 2005 index recommendations to implement, if any?"}
+{"@Score": "10", "@Id": "3976", "@Title": "Programmatically talking to a Serial Port in OS X or Linux"}
+{"@Score": "5", "@Id": "3978", "@Title": "Multi-Paradigm Languages"}
+{"@Score": "10", "@Id": "3984", "@Title": "TestDriven.NET is not running my SetUp methods for MbUnit"}
+{"@Score": "3", "@Id": "3996", "@Title": "How do I configure a Vista Ultimate (64bit) account so it can access a SMB share on OSX?"}
+{"@Score": "25", "@Id": "4004", "@Title": "How do I add SSL to a .net application that uses httplistener - it will *not* be running on IIS"}
+{"@Score": "51", "@Id": "4034", "@Title": "Multiple languages in an ASP.NET MVC application?"}
+{"@Score": "11", "@Id": "4046", "@Title": "Example of a build.xml for an EAR that deploys in WebSphere 6"}
+{"@Score": "36", "@Id": "4051", "@Title": "Passing multidimensional arrays as function arguments in C"}
+{"@Score": "7", "@Id": "4052", "@Title": "How to enable Full-text Indexing in SQL Server 2005 Express?"}
+{"@Score": "3", "@Id": "4062", "@Title": "What methods of caching, other than to file or database, are available?"}
+{"@Score": "5", "@Id": "4072", "@Title": "SVN merge merged extra stuff"}
+{"@Score": "78", "@Id": "4080", "@Title": "What code analysis tools do you use for your Java projects?"}
+{"@Score": "4", "@Id": "4110", "@Title": "What program can I use to generate diagrams of SQL view/table structure?"}
+{"@Score": "8", "@Id": "4138", "@Title": "SVN Client Ignore Pattern for VB.NET Solutions"}
+{"@Score": "36", "@Id": "4149", "@Title": "How do I use Java to read from a file that is actively being written?"}
+{"@Score": "4", "@Id": "4151", "@Title": "Best way to cache data"}
+{"@Score": "13", "@Id": "4157", "@Title": "ConfigurationManager.AppSettings Performance Concerns"}
+{"@Score": "10", "@Id": "4164", "@Title": "What is a good barebones CMS or framework?"}
+{"@Score": "20", "@Id": "4168", "@Title": "graph serialization"}
+{"@Score": "6", "@Id": "4170", "@Title": "How to learn ADO.NET"}
+{"@Score": "41", "@Id": "4208", "@Title": "Windows Equivalent of 'nice'"}
+{"@Score": "68", "@Id": "4219", "@Title": "SVN vs. Team Foundation Server"}
+{"@Score": "21", "@Id": "4221", "@Title": "LinqDataSource - Can you limit the amount of records returned?"}
+{"@Score": "8", "@Id": "4225", "@Title": "Territory Map Generation"}
+{"@Score": "71", "@Id": "4227", "@Title": "Accessing a Dictionary.Keys Key through a numeric index"}
+{"@Score": "27", "@Id": "4230", "@Title": "The Difference Between a DataGrid and a GridView in ASP.NET?"}
+{"@Score": "2", "@Id": "4234", "@Title": "What to use for Messaging with C#"}
+{"@Score": "32", "@Id": "4242", "@Title": "Why doesn't Java autoboxing extend to method invocations of methods of the autoboxed types?"}
+{"@Score": "5", "@Id": "4246", "@Title": "What is best practice for FTP from a SQL Server 2005 stored procedure?"}
+{"@Score": "59", "@Id": "4269", "@Title": "Programmatic SMS"}
+{"@Score": "6", "@Id": "4287", "@Title": "How Do You Determine The PID of the Parent of a Process"}
+{"@Score": "30", "@Id": "4303", "@Title": "Why should I practice Test Driven Development and how should I start?"}
+{"@Score": "5", "@Id": "4305", "@Title": "Grid Hosting for Windows"}
+{"@Score": "25", "@Id": "4306", "@Title": "What is the best way to create a sparse array in C++?"}
+{"@Score": "34", "@Id": "4314", "@Title": "What is Object Mocking and when do I need it?"}
+{"@Score": "3", "@Id": "4320", "@Title": "ASP.Net 2.0 Application without Business Logic Layer?"}
+{"@Score": "11", "@Id": "4335", "@Title": "High availability"}
+{"@Score": "21", "@Id": "4347", "@Title": "Where is a good place to start programming GUIs for windows?"}
+{"@Score": "26", "@Id": "4363", "@Title": "What is the best way to do unit testing for ASP.NET 2.0 web pages?"}
+{"@Score": "66", "@Id": "4369", "@Title": "How to include PHP files that require an absolute path?"}
+{"@Score": "74", "@Id": "4371", "@Title": "How do I retrieve my MySQL username and password?"}
+{"@Score": "14", "@Id": "4387", "@Title": "Best Multi-Language Documentation Generator"}
+{"@Score": "22", "@Id": "4392", "@Title": "Best Debugging Tools for JavaScript/xulrunner Development"}
+{"@Score": "61", "@Id": "4393", "@Title": "Drop all tables whose names begin with a certain string"}
+{"@Score": "1", "@Id": "4416", "@Title": "Where can I get the Windows Workflow \"wca.exe\" application?"}
+{"@Score": "154", "@Id": "4418", "@Title": "How do I update Ruby Gems from behind a Proxy (ISA-NTLM)"}
+{"@Score": "36", "@Id": "4430", "@Title": "How to easily consume a web service from PHP"}
+{"@Score": "13", "@Id": "4432", "@Title": "CSV string handling"}
+{"@Score": "14", "@Id": "4433", "@Title": "Vista or XP for Dev Machine"}
+{"@Score": "11", "@Id": "4434", "@Title": "Can I configure Visual Studio NOT to change StartUp Project everytime I open a file from one of the projects?"}
+{"@Score": "5", "@Id": "4442", "@Title": "How do you properly mock an IEnumerable<T>?"}
+{"@Score": "11", "@Id": "4458", "@Title": "Domain Specific Language resources"}
+{"@Score": "8", "@Id": "4506", "@Title": "How to know when to send a 304 Not Modified response"}
+{"@Score": "7", "@Id": "4508", "@Title": "MAPI and managed code experiences?"}
+{"@Score": "12", "@Id": "4511", "@Title": "Is there any trick that allows to use Management Studio's (ver. 2008) IntelliSense feature with earlier versions of SQL Server?"}
+{"@Score": "0", "@Id": "4519", "@Title": "Using Xming X Window Server over a VPN"}
+{"@Score": "18", "@Id": "4529", "@Title": "SQL Server 2005 and 2008 on same developer machine?"}
+{"@Score": "15", "@Id": "4533", "@Title": "HTTP: Generating ETag Header"}
+{"@Score": "1", "@Id": "4541", "@Title": "Simple MOLAP solution"}
+{"@Score": "4", "@Id": "4544", "@Title": "Http Auth in a Firefox 3 bookmarklet"}
+{"@Score": "33", "@Id": "4545", "@Title": "What was the <XMP> tag used for?"}
+{"@Score": "2", "@Id": "4556", "@Title": "DataTable Loop Performance Comparison"}
+{"@Score": "2", "@Id": "4565", "@Title": "How to setup Quality of Service?"}
+{"@Score": "10", "@Id": "4582", "@Title": "Video Compression: What is discrete cosine transform?"}
+{"@Score": "9", "@Id": "4610", "@Title": "How can I create Prototype Methods (like JavaScript) in C#.Net?"}
+{"@Score": "9", "@Id": "4612", "@Title": "CSharpCodeProvider Compilation Performance"}
+{"@Score": "7", "@Id": "4617", "@Title": "What is a good Mercurial usage pattern for this setup?"}
+{"@Score": "34", "@Id": "4622", "@Title": "SQL Case Statement Syntax?"}
+{"@Score": "5", "@Id": "4627", "@Title": "Upgrade to ASP.NET 3.x"}
+{"@Score": "50", "@Id": "4629", "@Title": "How can I read the properties of a C# class dynamically?"}
+{"@Score": "4", "@Id": "4630", "@Title": "How can I Java webstart multiple, dependent, native libraries?"}
+{"@Score": "4", "@Id": "4638", "@Title": "How do you create your own moniker (URL Protocol) on Windows systems?"}
+{"@Score": "8", "@Id": "4661", "@Title": "How do I use more than one OpenID?"}
+{"@Score": "53", "@Id": "4664", "@Title": "Should the folders in a solution match the namespace?"}
+{"@Score": "0", "@Id": "4665", "@Title": "Verifying files for testing"}
+{"@Score": "13", "@Id": "4670", "@Title": "DVCS Choices - What's good for Windows?"}
+{"@Score": "4", "@Id": "4677", "@Title": "How do I create a Class using the Singleton Design Pattern in Ruby?"}
+{"@Score": "14", "@Id": "4684", "@Title": "Automating VMWare or VirtualPC"}
+{"@Score": "183", "@Id": "4689", "@Title": "Recommended Fonts for Programming?"}
+{"@Score": "80", "@Id": "4724", "@Title": "Why should I learn Lisp?"}
+{"@Score": "166", "@Id": "4736", "@Title": "Learning Regular Expressions"}
+{"@Score": "67", "@Id": "4738", "@Title": "Using ConfigurationManager to load config from an arbitrary location"}
+{"@Score": "6", "@Id": "4752", "@Title": "MOSS SSP Issue - Failed database logons from deleted SSP"}
+{"@Score": "10", "@Id": "4782", "@Title": "How much database performance overhead when using LINQ?"}
+{"@Score": "4", "@Id": "4785", "@Title": "What is called a Node in a WebSpere Network Deployment"}
+{"@Score": "16", "@Id": "4794", "@Title": "Flex / Air obfuscation"}
+{"@Score": "19", "@Id": "4816", "@Title": "How do you resolve a domain name to an IP address with .NET/C#?"}
+{"@Score": "17", "@Id": "4824", "@Title": "String.indexOf function in C"}
+{"@Score": "2", "@Id": "4839", "@Title": "How do I configure eclipse (zend studio 6) to hint and code complete several languages?"}
+{"@Score": "8", "@Id": "4849", "@Title": "Drag and Drop to a hosted Browser control"}
+{"@Score": "12", "@Id": "4850", "@Title": "C# and Arrow Keys"}
+{"@Score": "5", "@Id": "4860", "@Title": "Authoritative source on XML-sig"}
+{"@Score": "9", "@Id": "4870", "@Title": "Why is this regular expression faster?"}
+{"@Score": "17", "@Id": "4880", "@Title": "Is a \"Confirm Email\" input good practice when user changes email address?"}
+{"@Score": "6", "@Id": "4884", "@Title": "Javascript keyboard events primer? (or rather: help me with my custom dropdown)"}
+{"@Score": "2", "@Id": "4891", "@Title": "What point should someone decide to switch Database Systems"}
+{"@Score": "18", "@Id": "4911", "@Title": "Should I use the username, or the user's ID to reference authenticated users in ASP.NET"}
+{"@Score": "25", "@Id": "4913", "@Title": "How to make a button appear as if it is pressed?"}
+{"@Score": "14", "@Id": "4922", "@Title": "Is this really widening vs autoboxing?"}
+{"@Score": "30", "@Id": "4923", "@Title": "Wrapping lists into columns"}
+{"@Score": "10", "@Id": "4930", "@Title": "How to reference to multiple version assembly"}
+{"@Score": "12", "@Id": "4939", "@Title": "LINQ to SQL strings to enums"}
+{"@Score": "4", "@Id": "4941", "@Title": "Virtual machine supporting multiple displays"}
+{"@Score": "4", "@Id": "4942", "@Title": "How to sell Python to a client/boss/person with lots of cash"}
+{"@Score": "18", "@Id": "4949", "@Title": "Version control PHP Web Project"}
+{"@Score": "5", "@Id": "4954", "@Title": "What are good regular expressions?"}
+{"@Score": "19", "@Id": "4973", "@Title": "Setting a div's height in HTML with CSS"}
+{"@Score": "3", "@Id": "4986", "@Title": "Web App Beta"}
+{"@Score": "5", "@Id": "4994", "@Title": "How should I organize my master ddl script"}
+{"@Score": "0", "@Id": "4995", "@Title": "What does this error mean SECJ0222E in WebSphere Application Server 5.1"}
+{"@Score": "2", "@Id": "5002", "@Title": ".NET Remoting Speed and VPNs"}
+{"@Score": "2", "@Id": "5013", "@Title": "Error ADMA5026E for WebSphere Application Server Network Deployment"}
+{"@Score": "5", "@Id": "5017", "@Title": "Open local file with AIR / Flex"}
+{"@Score": "16", "@Id": "5024", "@Title": "Is The Perl Journal available online?"}
+{"@Score": "5", "@Id": "5025", "@Title": "Locking a SQL Server Database with PHP"}
+{"@Score": "2", "@Id": "5027", "@Title": "Reduce ASP.NET menu control size (without 3rd party libraries)"}
+{"@Score": "8", "@Id": "5061", "@Title": "ASP.NET version of Joomla"}
+{"@Score": "22", "@Id": "5071", "@Title": "How to add CVS directories recursively"}
+{"@Score": "0", "@Id": "5075", "@Title": "Bigger than a char but smaller than a blob"}
+{"@Score": "14", "@Id": "5078", "@Title": "Securing a linux webserver for public access"}
+{"@Score": "0", "@Id": "5084", "@Title": "Upload form does not work in Firefox 3 with Mac OS X?"}
+{"@Score": "13", "@Id": "5087", "@Title": "Learning Ruby on Rails any good for Grails?"}
+{"@Score": "11", "@Id": "5102", "@Title": "How do you set up Python scripts to work in Apache 2.0?"}
+{"@Score": "15", "@Id": "5118", "@Title": "How to set up a CSS switcher"}
+{"@Score": "15", "@Id": "5134", "@Title": "Best strategy to write hooks for subversion in Windows"}
+{"@Score": "3", "@Id": "5136", "@Title": "Does anyone have experience creating a shared library in MATLAB?"}
+{"@Score": "2", "@Id": "5142", "@Title": "Firebird's SQL's Substring function not working"}
+{"@Score": "76", "@Id": "5170", "@Title": "SQL Server Management Studio alternatives to browse/edit tables and run queries"}
+{"@Score": "15", "@Id": "5179", "@Title": "How Do I Post and then redirect to an external URL from ASP.Net?"}
+{"@Score": "2", "@Id": "5188", "@Title": "How do you pull the URL for an ASP.NET web reference from a configuration file in Visual Studio 2008?"}
+{"@Score": "7", "@Id": "5194", "@Title": "When to use an extension method with lambda over LINQtoObjects to filter a collection?"}
+{"@Score": "20", "@Id": "5222", "@Title": "Accessing post variables using Java Servlets"}
+{"@Score": "810", "@Id": "5223", "@Title": "Length of a JavaScript object (that is, associative array)"}
+{"@Score": "3", "@Id": "5226", "@Title": "HTML Comments Markup"}
+{"@Score": "4", "@Id": "5242", "@Title": "User Interfaces - Colors and Layout"}
+{"@Score": "13", "@Id": "5251", "@Title": "Stand-alone charts in GWT"}
+{"@Score": "3", "@Id": "5260", "@Title": "What is the best way to wrap time around the work day?"}
+{"@Score": "2", "@Id": "5263", "@Title": "How do you persist a tree structure to a database table with auto incrementing IDs using an ADO.NET DataSet and a DataAdapter"}
+{"@Score": "8", "@Id": "5264", "@Title": "How can I dynamically center an image in a MS Reporting Services report?"}
+{"@Score": "10", "@Id": "5269", "@Title": "C# logic order and compiler behavior"}
+{"@Score": "3", "@Id": "5307", "@Title": "Print a Winform/visual element"}
+{"@Score": "7", "@Id": "5313", "@Title": "Cross Platform, Language Agnostic GUI Markup Language?"}
+{"@Score": "17", "@Id": "5323", "@Title": "Is there a business reason for striving for pure CSS layout?"}
+{"@Score": "7", "@Id": "5326", "@Title": "Templates for lifecycle documentation"}
+{"@Score": "20", "@Id": "5328", "@Title": "Why can't I use a try block around my super() call?"}
+{"@Score": "4", "@Id": "5329", "@Title": "What is the difference between a bug and a change request in MSF for CMMI?"}
+{"@Score": "3", "@Id": "5349", "@Title": "Memcached chunk limit"}
+{"@Score": "6", "@Id": "5374", "@Title": "How do you use a variable in xsl when trying to select a node?"}
+{"@Score": "2", "@Id": "5396", "@Title": "SQL Server 2008 FileStream on a Web Server"}
+{"@Score": "12", "@Id": "5415", "@Title": "Convert Bytes to Floating Point Numbers in Python"}
+{"@Score": "46", "@Id": "5419", "@Title": "Python, Unicode, and the Windows console"}
+{"@Score": "16", "@Id": "5425", "@Title": "HTML comments break down"}
+{"@Score": "27", "@Id": "5428", "@Title": "Do people use the Hungarian Naming Conventions in the real world?"}
+{"@Score": "4", "@Id": "5459", "@Title": "Accessing a CONST attribute of series of Classes"}
+{"@Score": "3", "@Id": "5460", "@Title": "Telligent's Community Server"}
+{"@Score": "513", "@Id": "5473", "@Title": "How can I undo git reset --hard HEAD~1?"}
+{"@Score": "20", "@Id": "5482", "@Title": "How to specify javascript to run when ModalPopupExtender is shown"}
+{"@Score": "1", "@Id": "5494", "@Title": "Alternative Hostname for an IIS web site for internal access only"}
+{"@Score": "43", "@Id": "5507", "@Title": "Does it still make sense to learn low level WinAPI programming?"}
+{"@Score": "-1", "@Id": "5509", "@Title": "Rational Purify failng to jump to memory leaks"}
+{"@Score": "57", "@Id": "5511", "@Title": "Numeric Data Entry in WPF"}
+{"@Score": "8", "@Id": "5526", "@Title": "Anyone out there implement(ing) microformats? is this useful?"}
+{"@Score": "14", "@Id": "5527", "@Title": "Is there a real benefit of using J#?"}
+{"@Score": "2", "@Id": "5544", "@Title": "In ASP.NET MVC I encounter an incorrect type error when rendering a user control with the correct typed object"}
+{"@Score": "15", "@Id": "5598", "@Title": "Document or RPC based web services"}
+{"@Score": "37", "@Id": "5600", "@Title": "Tables with no Primary Key"}
+{"@Score": "2", "@Id": "5605", "@Title": "HTTP Libraries for Emacs"}
+{"@Score": "5", "@Id": "5606", "@Title": "License Models"}
+{"@Score": "12", "@Id": "5611", "@Title": "Better Random Generating PHP"}
+{"@Score": "-1", "@Id": "5618", "@Title": "Best ajax library for Sharepoint"}
+{"@Score": "2", "@Id": "5619", "@Title": "Debugging: IE6 + SSL + AJAX + post form = 404 error"}
+{"@Score": "19", "@Id": "5628", "@Title": "Is there a way to include a fragment identifier when using Asp.Net MVC ActionLink, RedirectToAction, etc.?"}
+{"@Score": "132", "@Id": "5629", "@Title": "Any reason not to start using the HTML 5 doctype?"}
+{"@Score": "38", "@Id": "5649", "@Title": "x86 Assembly on a Mac"}
+{"@Score": "1", "@Id": "5667", "@Title": "Sleep from within an Informix SPL procedure"}
+{"@Score": "3", "@Id": "5674", "@Title": "How do I create an HTML anchor in a FogBugz wiki page?"}
+{"@Score": "1", "@Id": "5682", "@Title": "Is it just me, or are characters being rendered incorrectly more lately?"}
+{"@Score": "2", "@Id": "5690", "@Title": "MVC Preview 4 - No route in the route table matches the supplied values"}
+{"@Score": "50", "@Id": "5694", "@Title": "The imported project \"C:\\Microsoft.CSharp.targets\" was not found"}
+{"@Score": "4", "@Id": "5704", "@Title": "Is there a lightweight, preferable open source, formatable label control for dotnet?"}
+{"@Score": "17", "@Id": "5706", "@Title": "When do Request.Params and Request.Form differ?"}
+{"@Score": "59", "@Id": "5724", "@Title": "Better windows command line shells"}
+{"@Score": "443", "@Id": "5727", "@Title": "What are the barriers to understanding pointers and what can be done to overcome them?"}
+{"@Score": "3", "@Id": "5741", "@Title": "Firebug won't display console feeds for some of my sites"}
+{"@Score": "13", "@Id": "5743", "@Title": "What is a good plotting library for .Net?"}
+{"@Score": "51", "@Id": "5759", "@Title": " Equivalent VB keyword for 'break'"}
+{"@Score": "51", "@Id": "5787", "@Title": "Tab Escape Character?"}
+{"@Score": "79", "@Id": "5791", "@Title": "VB.NET - IsNothing versus Is Nothing"}
+{"@Score": "4", "@Id": "5794", "@Title": "Other browsers"}
+{"@Score": "5", "@Id": "5802", "@Title": "Inheritance in database?"}
+{"@Score": "119", "@Id": "5821", "@Title": "SQL Server 2000/5 Escape an Underscore"}
+{"@Score": "12", "@Id": "5831", "@Title": "Binary patch-generation in C#"}
+{"@Score": "6", "@Id": "5842", "@Title": "Issues using MS Access as a front-end to a MySQL database back-end?"}
+{"@Score": "10", "@Id": "5846", "@Title": "Add 1 to a field"}
+{"@Score": "3", "@Id": "5855", "@Title": "Automate builds for Java RCP for deployment with JNLP"}
+{"@Score": "7", "@Id": "5857", "@Title": "mailto link for large bodies"}
+{"@Score": "5", "@Id": "5863", "@Title": "WCF Service - Backward compatibility issue"}
+{"@Score": "2", "@Id": "5864", "@Title": "Geographically Distributed Development"}
+{"@Score": "2", "@Id": "5872", "@Title": "Making a production build of a PHP project with Subversion"}
+{"@Score": "4", "@Id": "5874", "@Title": "Drag and drop ftp file upload web widgets"}
+{"@Score": "2", "@Id": "5876", "@Title": "How do I prevent dnsmasq from appending my domain name to invalid domain requests?"}
+{"@Score": "5", "@Id": "5880", "@Title": "Are there any negative reasons to use an N-Tier solution?"}
+{"@Score": "2", "@Id": "5892", "@Title": "Link issues (VC6)"}
+{"@Score": "13", "@Id": "5894", "@Title": "Genealogy Tree Control"}
+{"@Score": "3", "@Id": "5908", "@Title": "User access log to SQL Server"}
+{"@Score": "20", "@Id": "5909", "@Title": "Get size of a file before downloading in Python"}
+{"@Score": "31", "@Id": "5913", "@Title": "Getting the text from a drop-down box"}
+{"@Score": "17", "@Id": "5916", "@Title": "How do you feel about code folding?"}
+{"@Score": "2", "@Id": "5918", "@Title": "API Yahoo India Maps"}
+{"@Score": "7", "@Id": "5948", "@Title": "Always Commit the same file with SVN"}
+{"@Score": "43", "@Id": "5949", "@Title": "What's your opinion on using UUIDs as database row identifiers, particularly in web apps?"}
+{"@Score": "6", "@Id": "5966", "@Title": "Best way to abstract season/show/episode data"}
+{"@Score": "4", "@Id": "5982", "@Title": "How do I get rid of the \"multiple describeType entries\" warning?"}
+{"@Score": "2", "@Id": "5997", "@Title": "Should I provide accessor methods / Getter Setters for public/protected components on a form?"}
+{"@Score": "46", "@Id": "6007", "@Title": "Log4Net configuring log level"}
+{"@Score": "62", "@Id": "6009", "@Title": "How do you deal with configuration files in source control?"}
+{"@Score": "10", "@Id": "6068", "@Title": "Source control for web projects"}
+{"@Score": "2", "@Id": "6076", "@Title": "Default Form Button in FireFox"}
+{"@Score": "11", "@Id": "6080", "@Title": "What to use for login ID?"}
+{"@Score": "2", "@Id": "6085", "@Title": "Gathering OS and tool version numbers for build archive purposes"}
+{"@Score": "2", "@Id": "6110", "@Title": "Normalizing a Table with Low Integrity"}
+{"@Score": "10", "@Id": "6113", "@Title": "What is the best way to store connection string in .NET DLLs?"}
+{"@Score": "25", "@Id": "6126", "@Title": "How do you handle huge if-conditions?"}
+{"@Score": "53", "@Id": "6130", "@Title": "Repair SVN Checksum"}
+{"@Score": "57", "@Id": "6134", "@Title": "How do you kill all Linux processes that are older than a certain age?"}
+{"@Score": "2", "@Id": "6151", "@Title": "How do I edit work items in the Visual Studio 2008 xml editor?"}
+{"@Score": "33", "@Id": "6155", "@Title": "Common Types of Subversion Hooks"}
+{"@Score": "9", "@Id": "6173", "@Title": "Regular expression for parsing links from a webpage?"}
+{"@Score": "22", "@Id": "6184", "@Title": "How do I make event callbacks into my win forms thread safe?"}
+{"@Score": "9", "@Id": "6207", "@Title": "Experiences of the Smart Client Software Factory"}
+{"@Score": "4", "@Id": "6208", "@Title": "FF3 WinXP != FF3 Ubuntu - why?"}
+{"@Score": "15", "@Id": "6209", "@Title": "Split a string ignoring quoted sections"}
+{"@Score": "0", "@Id": "6210", "@Title": "E-mail Notifications"}
+{"@Score": "4", "@Id": "6222", "@Title": "Eclipse on win64"}
+{"@Score": "2", "@Id": "6284", "@Title": "VS 2008 - Objects disappearing?"}
+{"@Score": "63", "@Id": "6301", "@Title": "Why is Array.Length an int, and not an uint"}
+{"@Score": "68", "@Id": "6325", "@Title": "Why are unsigned int's not CLS compliant?"}
+{"@Score": "7", "@Id": "6326", "@Title": "Haml: how do I set a dynamic class value?"}
+{"@Score": "4", "@Id": "6340", "@Title": "Multiple foreign keys?"}
+{"@Score": "11", "@Id": "6369", "@Title": "How to pass a comma separated list to a stored procedure?"}
+{"@Score": "126", "@Id": "6371", "@Title": "How do you manage databases in development, test, and production?"}
+{"@Score": "15", "@Id": "6373", "@Title": "What's the difference in closure style"}
+{"@Score": "3", "@Id": "6378", "@Title": "What client(s) should be targeted in implementing an ICalendar export for events?"}
+{"@Score": "13", "@Id": "6392", "@Title": "Java Time Zone is messed up"}
+{"@Score": "9", "@Id": "6406", "@Title": "How to access .Net element on Master page from a Content page?"}
+{"@Score": "352", "@Id": "6414", "@Title": "C# loop - break vs. continue"}
+{"@Score": "21", "@Id": "6426", "@Title": "Graphing JavaScript Library"}
+{"@Score": "2", "@Id": "6430", "@Title": "How to programmatically iterate datagrid rows?"}
+{"@Score": "16", "@Id": "6440", "@Title": ".NET 3.5 Redistributable -- 200 MB? Other options?"}
+{"@Score": "6", "@Id": "6441", "@Title": "How can I enable disabled radio buttons?"}
+{"@Score": "-1", "@Id": "6459", "@Title": "How to enter an existing project?"}
+{"@Score": "13", "@Id": "6467", "@Title": "Date arithmetic in Unix shell scripts"}
+{"@Score": "1", "@Id": "6475", "@Title": "Faster way to find duplicates conditioned by time"}
+{"@Score": "46", "@Id": "6484", "@Title": "How do you mock a Sealed class?"}
+{"@Score": "10", "@Id": "6499", "@Title": "What style do you use for creating a \"class\"?"}
+{"@Score": "42", "@Id": "6512", "@Title": "How to implement continuations?"}
+{"@Score": "6", "@Id": "6530", "@Title": "Where should I put my log file for an asp.net application?"}
+{"@Score": "22", "@Id": "6547", "@Title": "Two marbles"}
+{"@Score": "56", "@Id": "6557", "@Title": "In C#, why can't a List<string> object be stored in a List<object> variable"}
+{"@Score": "105", "@Id": "6578", "@Title": "Understanding reference counting with Cocoa and Objective-C"}
+{"@Score": "4", "@Id": "6579", "@Title": "Which Agile software development methods have you had the most success with?"}
+{"@Score": "7", "@Id": "6594", "@Title": "PHP4 to PHP5 Migration"}
+{"@Score": "33", "@Id": "6607", "@Title": "Registry vs. INI file for storing user configurable application settings"}
+{"@Score": "30", "@Id": "6612", "@Title": "Are there any decent free Java data plotting libraries out there?"}
+{"@Score": "10", "@Id": "6613", "@Title": "What rule engine should I use?"}
+{"@Score": "4", "@Id": "6623", "@Title": "sgen.exe fails during build"}
+{"@Score": "11", "@Id": "6628", "@Title": "PHP array indexing: $array[$index] vs $array[\"$index\"] vs $array[\"{$index}\"]"}
+{"@Score": "7", "@Id": "6633", "@Title": "Making code work with register_globals turned off"}
+{"@Score": "43", "@Id": "6639", "@Title": "How should I load files into my Java application?"}
+{"@Score": "7", "@Id": "6642", "@Title": "Preferred way to use favicons?"}
+{"@Score": "77", "@Id": "6658", "@Title": "Junit vs TestNG"}
+{"@Score": "9", "@Id": "6661", "@Title": "Reference that lists available JavaScript events?"}
+{"@Score": "28", "@Id": "6666", "@Title": "Web Services -- WCF vs. ASMX (\"Standard\")"}
+{"@Score": "6", "@Id": "6681", "@Title": "ASP.NET Web Service Results, Proxy Classes and Type Conversion"}
+{"@Score": "22", "@Id": "6703", "@Title": "When is OOP better suited for?"}
+{"@Score": "2", "@Id": "6719", "@Title": "Master Pages for large web sites"}
+{"@Score": "55", "@Id": "6729", "@Title": "Icons: How does a developer with no design skill make his/her application icons look pretty?"}
+{"@Score": "1", "@Id": "6732", "@Title": "Why doesn't my favicon display for my web site?"}
+{"@Score": "7", "@Id": "6765", "@Title": "Java + SQL Server - a viable solution?"}
+{"@Score": "3", "@Id": "6778", "@Title": "How to make a Flash movie with a transparent background"}
+{"@Score": "105", "@Id": "6785", "@Title": "Is String.Format as efficient as StringBuilder"}
+{"@Score": "1", "@Id": "6811", "@Title": "How can I encode xml files to xfdl (base64-gzip)?"}
+{"@Score": "2", "@Id": "6812", "@Title": "Mapping my custom keys in Debian"}
+{"@Score": "60", "@Id": "6816", "@Title": "Class file name must end with .class exception in Java Search"}
+{"@Score": "4", "@Id": "6817", "@Title": "Scaling multithreaded applications on multicored machines"}
+{"@Score": "10", "@Id": "6847", "@Title": "Defensive programming"}
+{"@Score": "14", "@Id": "6859", "@Title": "Developing addins for World of Warcraft - Getting started?"}
+{"@Score": "4", "@Id": "6890", "@Title": "How to wait for thread complete before continuing?"}
+{"@Score": "6", "@Id": "6891", "@Title": "Performance Considerations for throwing Exceptions"}
+{"@Score": "112", "@Id": "6899", "@Title": "How to create a SQL Server function to \"join\" multiple rows from a subquery into a single delimited field?"}
+{"@Score": "1", "@Id": "6904", "@Title": "Getting DirectoryNotFoundException when trying to Connect to Device with CoreCon API"}
+{"@Score": "4", "@Id": "6913", "@Title": "How do I best share an embeddable form in VB6?"}
+{"@Score": "29", "@Id": "6915", "@Title": "Thread safe lazy construction of a singleton in C++"}
+{"@Score": "18", "@Id": "6926", "@Title": "Beginning Shader Development"}
+{"@Score": "2", "@Id": "6932", "@Title": "Transcoding audio and video"}
+{"@Score": "15", "@Id": "6937", "@Title": "Visual Studio and dual/multiple monitors: how do I get optimized use out of my monitors?"}
+{"@Score": "2", "@Id": "6957", "@Title": "Has anybody used Google Performance Tools?"}
+{"@Score": "6", "@Id": "6973", "@Title": "Invalid Resource File"}
+{"@Score": "5", "@Id": "7015", "@Title": "Multicore Text File Parsing"}
+{"@Score": "0", "@Id": "7017", "@Title": "What is the best way to draw skinnable \"buttons\" in a video game?"}
+{"@Score": "8", "@Id": "7031", "@Title": "Login Script with hidden buttons"}
+{"@Score": "528", "@Id": "7034", "@Title": "Graph visualization library in JavaScript"}
+{"@Score": "66", "@Id": "7035", "@Title": "How to show a message box from a bash script in linux"}
+{"@Score": "2559", "@Id": "7074", "@Title": "What's the difference between String and string?"}
+{"@Score": "15", "@Id": "7084", "@Title": "When should I use type abstraction in embedded systems"}
+{"@Score": "213", "@Id": "7089", "@Title": "Creating rounded corners using CSS"}
+{"@Score": "170", "@Id": "7095", "@Title": "Is the C# static constructor thread safe?"}
+{"@Score": "2", "@Id": "7114", "@Title": "What's the best way to get speakers for my Users Group?"}
+{"@Score": "7", "@Id": "7118", "@Title": "Debugging JavaScript in Internet Explorer and Safari"}
+{"@Score": "0", "@Id": "7138", "@Title": "Easiest way to provide VPN access easily for all client OSes?"}
+{"@Score": "36", "@Id": "7170", "@Title": "Recommendation for straight-forward python frameworks"}
+{"@Score": "7", "@Id": "7173", "@Title": "Very slow merge with Subversion 1.5 (and 1.4 Server)"}
+{"@Score": "1", "@Id": "7174", "@Title": "How can I improve the edit-compile-test loop when developing a SharePoint workflow?"}
+{"@Score": "2", "@Id": "7180", "@Title": "Animation in .NET"}
+{"@Score": "7", "@Id": "7190", "@Title": "Setting up Continuous Integration with SVN"}
+{"@Score": "5", "@Id": "7209", "@Title": "Alpha blending sprites in Nintendo DS Homebrew"}
+{"@Score": "12", "@Id": "7211", "@Title": "What's the best way of converting a mysql database to a sqlite one?"}
+{"@Score": "3", "@Id": "7212", "@Title": "Is it possible to add behavior to a non-dynamic ActionScript 3 class without inheriting the class?"}
+{"@Score": "0", "@Id": "7214", "@Title": "User authentication on Resin webserver"}
+{"@Score": "3", "@Id": "7224", "@Title": "Change the width of a scrollbar"}
+{"@Score": "7", "@Id": "7231", "@Title": "Automatically check bounced emails via POP3?"}
+{"@Score": "8", "@Id": "7237", "@Title": "Does running a SQL Server 2005 database in compatibility level 80 have a negative impact on performance?"}
+{"@Score": "59", "@Id": "7244", "@Title": "workaround for the lack of an enum generic constraint"}
+{"@Score": "24", "@Id": "7245", "@Title": "Puzzle: Find largest rectangle (maximal rectangle problem)"}
+{"@Score": "96", "@Id": "7252", "@Title": "How to make junior programmers write tests?"}
+{"@Score": "36", "@Id": "7260", "@Title": "How do I setup Public-Key Authentication?"}
+{"@Score": "3", "@Id": "7269", "@Title": "How can I identify in which Java Applet context I'm running without passing an ID?"}
+{"@Score": "1", "@Id": "7272", "@Title": "Of Ways to Count the Limitless Primes"}
+{"@Score": "6", "@Id": "7277", "@Title": "Is it \"bad practice\" to be sensitive to linebreaks in XML documents?"}
+{"@Score": "185", "@Id": "7284", "@Title": "What is Turing Complete?"}
+{"@Score": "6", "@Id": "7287", "@Title": "How do you test/change untested and untestable code?"}
+{"@Score": "5", "@Id": "7291", "@Title": "Any good java source code analyzing and modifying libraries?"}
+{"@Score": "6", "@Id": "7348", "@Title": "Zip library options for the Compact Framework?"}
+{"@Score": "49", "@Id": "7364", "@Title": "PDF Editing in PHP?"}
+{"@Score": "7", "@Id": "7367", "@Title": "Visual Studio - new \"default\" property values for inherited controls"}
+{"@Score": "6", "@Id": "7398", "@Title": "How to avoid redefining VERSION, PACKAGE, etc"}
+{"@Score": "28", "@Id": "7440", "@Title": "What do you use to Unit-Test your Web UI?"}
+{"@Score": "0", "@Id": "7470", "@Title": "RSS feeds from Gallery2"}
+{"@Score": "9", "@Id": "7472", "@Title": "WPF Databinding"}
+{"@Score": "95", "@Id": "7477", "@Title": "Autosizing textarea using prototype"}
+{"@Score": "4", "@Id": "7489", "@Title": "How do I make a GUI?"}
+{"@Score": "192", "@Id": "7492", "@Title": "Performing a Stress Test on Web Application?"}
+{"@Score": "9", "@Id": "7503", "@Title": "Linq to objects - select first object"}
+{"@Score": "5", "@Id": "7517", "@Title": "Dropping a group of tables in SQL Server"}
+{"@Score": "15", "@Id": "7525", "@Title": "Of Memory Management, Heap Corruption, and C++"}
+{"@Score": "13", "@Id": "7535", "@Title": "SQL Server 2008 compatibility with SQL Server 2005"}
+{"@Score": "27", "@Id": "7539", "@Title": "Use of java.math.MathContext"}
+{"@Score": "5", "@Id": "7540", "@Title": "Some kind of task manager for JavaScript in Firefox 3?"}
+{"@Score": "539", "@Id": "7551", "@Title": "Best Practices for securing a REST API / web service"}
+{"@Score": "2", "@Id": "7558", "@Title": "ABAP Column Tree Model doesn't expand node after EXPAND_NO_CHILDREN event"}
+{"@Score": "24", "@Id": "7579", "@Title": "Reorganise index vs Rebuild Index in Sql Server Maintenance plan"}
+{"@Score": "4", "@Id": "7586", "@Title": "How do I generate WPF controls through code"}
+{"@Score": "7", "@Id": "7592", "@Title": "Can I use JavaScript to create a client side email?"}
+{"@Score": "24", "@Id": "7596", "@Title": "How should I structure a Java application, in other words: where do I put my classes?"}
+{"@Score": "5", "@Id": "7603", "@Title": "Where can I find some good WS-Security introductions and tutorials?"}
+{"@Score": "1", "@Id": "7614", "@Title": "Testing a function that throws on failure"}
+{"@Score": "69", "@Id": "7622", "@Title": "Shift operator in C"}
+{"@Score": "17", "@Id": "7642", "@Title": "Naming convention for VB.NET private fields"}
+{"@Score": "107", "@Id": "7651", "@Title": "How do I remove duplicate items from an array in Perl?"}
+{"@Score": "1", "@Id": "7652", "@Title": "Querying like Linq when you don't have Linq"}
+{"@Score": "5", "@Id": "7661", "@Title": "Java code for WGS84 to Google map position and back"}
+{"@Score": "348", "@Id": "7662", "@Title": "Database, Table and Column Naming Conventions?"}
+{"@Score": "4", "@Id": "7664", "@Title": "Windows C++: How can I redirect stderr for calls to fprintf?"}
+{"@Score": "119", "@Id": "7665", "@Title": "How to resolve symbolic links in a shell script"}
+{"@Score": "5", "@Id": "7674", "@Title": "Best practices for building Flash video player"}
+{"@Score": "1", "@Id": "7676", "@Title": "Replicating between SQL Server 2005 and SQL Server Compact Edition"}
+{"@Score": "3", "@Id": "7681", "@Title": "Test serialization encoding"}
+{"@Score": "29", "@Id": "7685", "@Title": "Merge Sort a Linked List"}
+{"@Score": "50", "@Id": "7694", "@Title": "How do I enable MSDTC on SQL Server?"}
+{"@Score": "50", "@Id": "7707", "@Title": "IE8 overflow:auto with max-height"}
+{"@Score": "1", "@Id": "7719", "@Title": "Capture MouseDown event for .NET TextBox"}
+{"@Score": "30", "@Id": "7720", "@Title": "Packaging Java apps for the Windows/Linux desktop"}
+{"@Score": "3", "@Id": "7726", "@Title": "What are the options for delivering Flash video?"}
+{"@Score": "6", "@Id": "7737", "@Title": "How to display unicode text in OpenGL?"}
+{"@Score": "0", "@Id": "7758", "@Title": "What is the value-binding syntax in xaml?"}
+{"@Score": "22", "@Id": "7773", "@Title": "Change visibility of ASP.NET label with JavaScript"}
+{"@Score": "6", "@Id": "7779", "@Title": "I would like a recommendation for a book on Eclipse's Rich Client Platform (RCP)"}
+{"@Score": "69", "@Id": "7837", "@Title": "What real world WPF applications are out there?"}
+{"@Score": "6", "@Id": "7846", "@Title": "How can I split an XML document into thirds (or, even better, n pieces)?"}
+{"@Score": "2", "@Id": "7851", "@Title": "What is PHP Safe Mode GID?"}
+{"@Score": "87", "@Id": "7864", "@Title": "Why all the Active Record hate?"}
+{"@Score": "0", "@Id": "7873", "@Title": "Remove the bar at the top of Loginview for formatting"}
+{"@Score": "10", "@Id": "7880", "@Title": "How do you open a file in C++?"}
+{"@Score": "38", "@Id": "7884", "@Title": "Testing for inequality in T-SQL"}
+{"@Score": "10", "@Id": "7885", "@Title": "How do you create objects in Perl?"}
+{"@Score": "44", "@Id": "7913", "@Title": "How do I make Subversion (SVN) send email on checkins?"}
+{"@Score": "8", "@Id": "7917", "@Title": "Remove Quotes and Commas from a String in MySQL"}
+{"@Score": "1", "@Id": "7933", "@Title": "interrogating table lock schemes in T-SQL"}
+{"@Score": "19", "@Id": "7937", "@Title": "Solve the select overlap bug in IE6"}
+{"@Score": "7", "@Id": "7940", "@Title": "How important is W3C XHTML/CSS validation when finalizing work?"}
+{"@Score": "4", "@Id": "7954", "@Title": "SQL Server Recovery States"}
+{"@Score": "18", "@Id": "7973", "@Title": "User Interface Design"}
+{"@Score": "4", "@Id": "7981", "@Title": "Decoding printf statements in C (Printf Primer)"}
+{"@Score": "15", "@Id": "7990", "@Title": "Printing from a .NET Service"}
+{"@Score": "16", "@Id": "7991", "@Title": "Center text output from Graphics.DrawString()"}
+{"@Score": "4", "@Id": "8004", "@Title": "Best way to wrap rsync progress in a gui?"}
+{"@Score": "61", "@Id": "8021", "@Title": "Allow user to set up an SSH tunnel, but nothing else"}
+{"@Score": "19", "@Id": "8042", "@Title": "Extension interface patterns"}
+{"@Score": "33", "@Id": "8050", "@Title": "Beginners Guide to LINQ"}
+{"@Score": "0", "@Id": "8066", "@Title": ".NET Interfaces"}
+{"@Score": "5", "@Id": "8087", "@Title": "What's your favourite way of interacting with databases from your programming language?"}
+{"@Score": "7", "@Id": "8106", "@Title": "Has anyone run performance benchmarks comparing LINQ"}
+{"@Score": "5", "@Id": "8107", "@Title": "MySQL replication for fallback scenario"}
+{"@Score": "5", "@Id": "8127", "@Title": "Pre-build task - deleting the working copy in CruiseControl.NET"}
+{"@Score": "10", "@Id": "8128", "@Title": "How do I calculate CRC32 of a string"}
+{"@Score": "13", "@Id": "8140", "@Title": "Suggestions for Adding Plugin Capability?"}
+{"@Score": "2", "@Id": "8142", "@Title": "When should I use Compiled LINQ vs Normal LINQ"}
+{"@Score": "3", "@Id": "8145", "@Title": "How do I find the high water mark (for sessions) on Oracle 9i"}
+{"@Score": "5", "@Id": "8147", "@Title": "How do you get a custom id to render using HtmlHelper in MVC"}
+{"@Score": "7", "@Id": "8154", "@Title": "Pylons error - 'MySQL server has gone away'"}
+{"@Score": "9", "@Id": "8166", "@Title": "MySQL replication: if i don't specify any databases, will log_bin log EVERYTHING?"}
+{"@Score": "33", "@Id": "8213", "@Title": "Generate Insert SQL statements from a csv file"}
+{"@Score": "6", "@Id": "8214", "@Title": "Instrumenting a UI"}
+{"@Score": "5", "@Id": "8219", "@Title": "Test Distribution"}
+{"@Score": "7", "@Id": "8223", "@Title": "Connection Pooling in .NET/SQL Server?"}
+{"@Score": "2", "@Id": "8228", "@Title": "Why won't Entourage work with Exchange 2007?"}
+{"@Score": "63", "@Id": "8236", "@Title": "How do you determine the size of a file in C?"}
+{"@Score": "1", "@Id": "8263", "@Title": "I can't get my debugger to stop breaking on first-chance exceptions"}
+{"@Score": "6", "@Id": "8276", "@Title": "Class::DBI-like library for php?"}
+{"@Score": "11", "@Id": "8284", "@Title": "Generating Icon Files"}
+{"@Score": "3", "@Id": "8306", "@Title": "Creating Redundancy for a Subversion Repository?"}
+{"@Score": "7", "@Id": "8318", "@Title": "Resolving Session Fixation in JBoss"}
+{"@Score": "5", "@Id": "8348", "@Title": "Using unhandled exceptions instead of Contains()?"}
+{"@Score": "39", "@Id": "8351", "@Title": "Is there something like \"Firebug for IE\" (for debugging JavaScript)?"}
+{"@Score": "6", "@Id": "8355", "@Title": "Using mod_rewrite to Mimic SSL Virtual Hosts?"}
+{"@Score": "3", "@Id": "8365", "@Title": "MySQL Administrator Backups: \"Compatibility Mode\", What Exactly is this doing?"}
+{"@Score": "74", "@Id": "8371", "@Title": "How do you redirect HTTPS to HTTP?"}
+{"@Score": "9", "@Id": "8398", "@Title": "How do I debug JavaScript in Visual Studio 2005?"}
+{"@Score": "3", "@Id": "8422", "@Title": "How do you handle audit logging with SSRS?"}
+{"@Score": "12", "@Id": "8435", "@Title": "How do you get the icons out of shell32.dll?"}
+{"@Score": "13", "@Id": "8439", "@Title": "Conditional Visibility and Page Breaks with SQL Server 2005 Reporting Services"}
+{"@Score": "8", "@Id": "8441", "@Title": "Mod-Rewrite loading files behind the DocumentRoot"}
+{"@Score": "4", "@Id": "8443", "@Title": "MSVC6: Breakpoint stops program - WTF?"}
+{"@Score": "534", "@Id": "8447", "@Title": "What does the [Flags] Enum Attribute mean in C#?"}
+{"@Score": "16", "@Id": "8448", "@Title": "F# curried function"}
+{"@Score": "5", "@Id": "8451", "@Title": "Secure Memory Allocator in C++"}
+{"@Score": "32", "@Id": "8452", "@Title": "I don't grok the WPF command pattern"}
+{"@Score": "320", "@Id": "8472", "@Title": "Practical non-image based CAPTCHA approaches?"}
+{"@Score": "11", "@Id": "8485", "@Title": "Use the routing engine for form submissions in ASP.NET MVC Preview 4"}
+{"@Score": "4", "@Id": "8493", "@Title": "What's in your .procmailrc"}
+{"@Score": "40", "@Id": "8496", "@Title": "Shelve in TortoiseSVN?"}
+{"@Score": "6", "@Id": "8508", "@Title": "How should I monitor potential threats to my site?"}
+{"@Score": "4", "@Id": "8517", "@Title": "Lucene exact ordering"}
+{"@Score": "7", "@Id": "8532", "@Title": "With Lucene: Why do I get a Too Many Clauses error if I do a prefix search?"}
+{"@Score": "3", "@Id": "8545", "@Title": "Closet server versus Colo?"}
+{"@Score": "38", "@Id": "8546", "@Title": "Is there a \"try to lock, skip if timed out\" operation in C#?"}
+{"@Score": "4", "@Id": "8549", "@Title": "Visual Studio refactoring: Remove method"}
+{"@Score": "39", "@Id": "8566", "@Title": "Best way to access a control on another form in Windows Forms?"}
+{"@Score": "19", "@Id": "8569", "@Title": "What's your \"best practice\" for the first Java EE Spring project?"}
+{"@Score": "5", "@Id": "8585", "@Title": "Watch for change in ip address status"}
+{"@Score": "6", "@Id": "8599", "@Title": "Best binary XML format for JavaME"}
+{"@Score": "15", "@Id": "8604", "@Title": "HTML Email Editor in a Windows Forms Application"}
+{"@Score": "34", "@Id": "8609", "@Title": "any sample MySQL databases I can download?"}
+{"@Score": "2", "@Id": "8612", "@Title": "Code crash in MS Visual Studio 2005 in RELEASE configuration"}
+{"@Score": "2", "@Id": "8624", "@Title": "Best format for displaying rendered time on a webpage"}
+{"@Score": "125", "@Id": "8625", "@Title": "Generic type conversion FROM string"}
+{"@Score": "2", "@Id": "8626", "@Title": "Globus Toolkit virtual machine"}
+{"@Score": "1", "@Id": "8648", "@Title": "How can I empty the recycle bin for all users from a Windows service application in c#"}
+{"@Score": "3", "@Id": "8651", "@Title": "Import Namespace System.Query"}
+{"@Score": "1", "@Id": "8653", "@Title": "Numerical formatting using String.Format"}
+{"@Score": "2", "@Id": "8669", "@Title": "Is there some way of recycling a Crystal Reports dataset?"}
+{"@Score": "549", "@Id": "8676", "@Title": "Entity Framework vs LINQ to SQL"}
+{"@Score": "2", "@Id": "8685", "@Title": "Advancing through relative dates with strtotime()"}
+{"@Score": "3", "@Id": "8688", "@Title": "Install Visual Studio 2008 Sp1 on \"D\" Drive"}
+{"@Score": "6", "@Id": "8691", "@Title": "User Control Property Designer Properties"}
+{"@Score": "133", "@Id": "8692", "@Title": "How to use xpath in Python?"}
+{"@Score": "6", "@Id": "8704", "@Title": "Final managed exception handler in a mixed native/managed executable?"}
+{"@Score": "6", "@Id": "8715", "@Title": "Instrumenting Database Access"}
+{"@Score": "25", "@Id": "8722", "@Title": "How do you use PowerShell?"}
+{"@Score": "2", "@Id": "8726", "@Title": "Checking FTP status codes with a PHP script"}
+{"@Score": "2", "@Id": "8728", "@Title": "Delphi MDI Application and the titlebar of the MDI Children"}
+{"@Score": "13", "@Id": "8742", "@Title": "Getting accurate ticks from a timer in C#"}
+{"@Score": "17", "@Id": "8747", "@Title": "Learning Version Control, and learning it well"}
+{"@Score": "10", "@Id": "8748", "@Title": "Should I move from C++ to Python? ... Or another language?"}
+{"@Score": "21", "@Id": "8756", "@Title": "iPhone web applications, templates, frameworks?"}
+{"@Score": "2", "@Id": "8761", "@Title": "Find out which colours are in use when using the MFC Feature pack in Office 2007 style"}
+{"@Score": "15", "@Id": "8763", "@Title": "Best way to play MIDI sounds using C#"}
+{"@Score": "25", "@Id": "8790", "@Title": "Ant build scripts, antcall, dependencies, etc"}
+{"@Score": "7", "@Id": "8795", "@Title": "Is there any list datatype in MySQL stored procedures, or a way to emulate them?"}
+{"@Score": "57", "@Id": "8800", "@Title": "Best implementation for Key Value Pair Data Structure?"}
+{"@Score": "1", "@Id": "8807", "@Title": "Cannot add WebViewer of ActiveReports to an ASP.NET page"}
+{"@Score": "0", "@Id": "8830", "@Title": "Not showing Dialog when opening file in Acrobat Pro using Applescript"}
+{"@Score": "2", "@Id": "8832", "@Title": "mod_rewrite to alias one file suffix type to another"}
+{"@Score": "1", "@Id": "8849", "@Title": "SharePoint - Connection String dialog box during FeatureActivated event"}
+{"@Score": "42", "@Id": "8864", "@Title": "Difference between NULL and null in PHP"}
+{"@Score": "29", "@Id": "8876", "@Title": "Evidence Based Scheduling Tool"}
+{"@Score": "0", "@Id": "8880", "@Title": "Get list of domains on the network"}
+{"@Score": "10", "@Id": "8893", "@Title": "Anyone know of an on-line free database?"}
+{"@Score": "3", "@Id": "8894", "@Title": "Use for the phppgadmin Reports Database?"}
+{"@Score": "74", "@Id": "8896", "@Title": "can I get Memcached running on a Windows (x64) 64bit environment?"}
+{"@Score": "7", "@Id": "8919", "@Title": "Looking for best practice for doing a \"Net Use\" in C#"}
+{"@Score": "3", "@Id": "8939", "@Title": "ActionScript 3.0 sockets can't reconnect"}
+{"@Score": "0", "@Id": "8940", "@Title": "VMWare Server Under Linux Secondary NIC connection"}
+{"@Score": "46", "@Id": "8941", "@Title": "Generic type checking"}
+{"@Score": "70", "@Id": "8948", "@Title": "Accessing mp3 Meta-Data with Python"}
+{"@Score": "0", "@Id": "8950", "@Title": "SharePoint WSS 3.0 Integration with Mac OSX (either Safari or Firefox)"}
+{"@Score": "52", "@Id": "8952", "@Title": "Storing a file in a database as opposed to the file system?"}
+{"@Score": "18", "@Id": "8966", "@Title": "Using C#/WIA version 2.0 on Vista to Scan"}
+{"@Score": "7", "@Id": "8968", "@Title": "What OSS project should I look at if I need to do Spring friendly WorkFlow?"}
+{"@Score": "5", "@Id": "8970", "@Title": "Accessing iSight programatically?"}
+{"@Score": "24", "@Id": "8987", "@Title": "Calling Table-Valued SQL Functions From .NET"}
+{"@Score": "2", "@Id": "9002", "@Title": "How do I get dbmail to process items from the queue for SQL Server 2005?"}
+{"@Score": "38", "@Id": "9009", "@Title": "Assignment inside Perl ternary conditional operator problems"}
+{"@Score": "0", "@Id": "9018", "@Title": "Windows Mobile Device Emulator - how to save config permanently?"}
+{"@Score": "1", "@Id": "9019", "@Title": "Best method for varchar date validation in Sybase (T-SQL)?"}
+{"@Score": "5", "@Id": "9022", "@Title": "How have Html entities inside asp.net page?"}
+{"@Score": "6", "@Id": "9024", "@Title": "HTTPS in IIS 5.1"}
+{"@Score": "1478", "@Id": "9033", "@Title": "Hidden Features of C#?"}
+{"@Score": "8", "@Id": "9044", "@Title": "Can I specify a class wide group on a TestNG test case?"}
+{"@Score": "6", "@Id": "9052", "@Title": "Is there a way for MS Access to grab the current Active Directory user?"}
+{"@Score": "1", "@Id": "9072", "@Title": "YUI drag&drop proxy drag"}
+{"@Score": "1241", "@Id": "9081", "@Title": "Grep a file, but show several surrounding lines?"}
+{"@Score": "9", "@Id": "9091", "@Title": "Accessing audio/video metadata with .NET"}
+{"@Score": "21", "@Id": "9104", "@Title": "Add a bookmark that is only javascript, not a URL"}
+{"@Score": "161", "@Id": "9122", "@Title": "Select all columns except one in MySQL?"}
+{"@Score": "4", "@Id": "9136", "@Title": "Enterprise Library CacheFactory.GetCacheManager Throws Null Ref"}
+{"@Score": "11", "@Id": "9143", "@Title": "FogBugz compared to OnTime"}
+{"@Score": "4", "@Id": "9161", "@Title": "Opening a file in my application from File Explorer"}
+{"@Score": "7", "@Id": "9173", "@Title": "Lingering assembly dependency in C# .NET"}
+{"@Score": "23", "@Id": "9191", "@Title": "How to obtain good concurrent read performance from disk"}
+{"@Score": "10", "@Id": "9204", "@Title": "IL level code debugger"}
+{"@Score": "2", "@Id": "9228", "@Title": "ADO.NET Connection Pooling & SQLServer"}
+{"@Score": "8", "@Id": "9231", "@Title": "Offsite backups"}
+{"@Score": "10", "@Id": "9240", "@Title": "Interfaces on different logic layers"}
+{"@Score": "4", "@Id": "9256", "@Title": "How print Flex components in FireFox3?"}
+{"@Score": "68", "@Id": "9272", "@Title": "How to find untracked files in a Perforce tree? (analogue of svn status)"}
+{"@Score": "1", "@Id": "9275", "@Title": "Using Parameters in MS Reporting Services (SQL Server 2008) against an ODBC data source"}
+{"@Score": "24", "@Id": "9279", "@Title": "Keep Remote Directory Up-to-date"}
+{"@Score": "15", "@Id": "9289", "@Title": "Removing elements with Array.map in JavaScript"}
+{"@Score": "4", "@Id": "9301", "@Title": "Weird event behavior in IE7"}
+{"@Score": "12", "@Id": "9303", "@Title": "How do you retrieve selected text using Regex in C#?"}
+{"@Score": "118", "@Id": "9304", "@Title": "C# 3.0 auto-properties - useful or not?"}
+{"@Score": "16", "@Id": "9314", "@Title": "\"Could not find type\" error loading a form in the Windows Forms Designer"}
+{"@Score": "123", "@Id": "9321", "@Title": "How do you create a static class in C++?"}
+{"@Score": "2", "@Id": "9336", "@Title": "Generate sitemap on the fly"}
+{"@Score": "2", "@Id": "9338", "@Title": "Quality Control / Log Monitoring"}
+{"@Score": "4", "@Id": "9341", "@Title": "Running Javascript after control's selected value has been set"}
+{"@Score": "14", "@Id": "9355", "@Title": "Programatically select multiple files in windows explorer"}
+{"@Score": "3", "@Id": "9361", "@Title": "ICE Faces fileInput file path and file name properties"}
+{"@Score": "6", "@Id": "9372", "@Title": "How do I prevent IIS7 from dropping my cookies?"}
+{"@Score": "42", "@Id": "9376", "@Title": "ILMerge Best Practices"}
+{"@Score": "1", "@Id": "9383", "@Title": "Access a SQL Server 2005 Express Edition from a network computer"}
+{"@Score": "4", "@Id": "9409", "@Title": "Datagrid: Calculate Avg or Sum for column in Footer "}
+{"@Score": "253", "@Id": "9410", "@Title": "How do you pass a function as a parameter in C?"}
+{"@Score": "7", "@Id": "9433", "@Title": "Do you name controls on forms using the same convention as a private variable?"}
+{"@Score": "47", "@Id": "9434", "@Title": "How do I add an additional window.onload event in Javascript"}
+{"@Score": "5", "@Id": "9435", "@Title": "Planning and Building a mobile enabled site for your main site"}
+{"@Score": "4", "@Id": "9455", "@Title": "Running xinc on OpenBSD's Apache Server"}
+{"@Score": "6", "@Id": "9467", "@Title": "Best way to write a RESTful service \"client\" in .Net?"}
+{"@Score": "0", "@Id": "9472", "@Title": "WCF Backward Compatibility Issue"}
+{"@Score": "4", "@Id": "9473", "@Title": "RaisePostBackEvent not firing"}
+{"@Score": "9", "@Id": "9486", "@Title": "How do I make Visual Studio auto generate braces for a function block?"}
+{"@Score": "3", "@Id": "9501", "@Title": "Replicating load related crashes in non-production environments"}
+{"@Score": "9", "@Id": "9508", "@Title": "C# 2.0 code consuming assemblies compiled with C# 3.0"}
+{"@Score": "17", "@Id": "9543", "@Title": "How do you deploy your SharePoint solutions?"}
+{"@Score": "1", "@Id": "9570", "@Title": "What libraries do I need to link my mixed-mode application to?"}
+{"@Score": "34", "@Id": "9589", "@Title": "any good tool for makefile generation?"}
+{"@Score": "65", "@Id": "9591", "@Title": "What WPF books would you recommend?"}
+{"@Score": "7", "@Id": "9601", "@Title": "Visual Studio 2008 Window layout annoyance"}
+{"@Score": "2", "@Id": "9612", "@Title": "Setting Group Type for new Active Directory Entry in VB.NET"}
+{"@Score": "5", "@Id": "9614", "@Title": "Bidirectional outer join"}
+{"@Score": "25", "@Id": "9615", "@Title": "Displaying vector graphics in a browser"}
+{"@Score": "3", "@Id": "9629", "@Title": "Playing wave file ends immediately (C++, Windows)"}
+{"@Score": "20", "@Id": "9632", "@Title": "WPF: How to style or disable the default ContextMenu of a TextBox"}
+{"@Score": "14", "@Id": "9650", "@Title": "Lisp/Scheme interpreter without Emacs?"}
+{"@Score": "56", "@Id": "9666", "@Title": "Is accessing a variable in C# an atomic operation?"}
+{"@Score": "7", "@Id": "9667", "@Title": "Validating a Win32 Window Handle"}
+{"@Score": "122", "@Id": "9673", "@Title": "Remove duplicates from array"}
+{"@Score": "2", "@Id": "9675", "@Title": "Document Server: Handling Concurrent Saves"}
+{"@Score": "7", "@Id": "9687", "@Title": "Need Pattern for dynamic search of multiple sql tables"}
+{"@Score": "0", "@Id": "9693", "@Title": "Visual Studio 2005 Macros stop working when Visual Studio 2008 is installed"}
+{"@Score": "1", "@Id": "9702", "@Title": "Default database IDs; system and user values"}
+{"@Score": "1", "@Id": "9704", "@Title": "How to prevent the mouse cursor from being hidden after calling CComboBox::ShowDropDown?"}
+{"@Score": "30", "@Id": "9705", "@Title": "What can I do about my employer's intellectual property policy?"}
+{"@Score": "3", "@Id": "9729", "@Title": "How to extend project properties page?"}
+{"@Score": "6", "@Id": "9734", "@Title": "C#.Net case-insensitive string"}
+{"@Score": "4", "@Id": "9745", "@Title": "Open Source Windows Mobile OCR Library"}
+{"@Score": "2", "@Id": "9749", "@Title": "What kind of servers did you virtualize lately?"}
+{"@Score": "5", "@Id": "9750", "@Title": "How can I reverse the ON bits in a byte?"}
+{"@Score": "2", "@Id": "9751", "@Title": "Sending emails without looking like spam"}
+{"@Score": "0", "@Id": "9769", "@Title": "Can I script FlexBuilder without writing an extension?"}
+{"@Score": "7", "@Id": "9783", "@Title": "Oracle XE or SQL Server Express"}
+{"@Score": "7", "@Id": "9805", "@Title": "Calculate DateTime Weeks into Rows"}
+{"@Score": "2", "@Id": "9831", "@Title": "Mootools: Drag and Drop problem"}
+{"@Score": "4", "@Id": "9836", "@Title": "Developer Friendly ERP"}
+{"@Score": "5", "@Id": "9846", "@Title": "Performance critical GUI application (windows,linux)"}
+{"@Score": "32", "@Id": "9877", "@Title": "Personal Website Construction"}
+{"@Score": "3", "@Id": "9882", "@Title": "Looking for algorithm that reverses the sprintf() function output"}
+{"@Score": "3", "@Id": "9905", "@Title": "Check for hung Office process when using Office Automation"}
+{"@Score": "7", "@Id": "9926", "@Title": "Analyzing Multithreaded Programs"}
+{"@Score": "5", "@Id": "9928", "@Title": "How to setup Groovy + Eclipse + Junit4?"}
+{"@Score": "1", "@Id": "9932", "@Title": "What is a good way to open large files across a WAN?"}
+{"@Score": "27", "@Id": "9938", "@Title": "Generic iterator"}
+{"@Score": "21", "@Id": "9974", "@Title": "Query times out from web app but runs fine from management studio"}
+{"@Score": "1", "@Id": "9977", "@Title": "What do you look for from a User Group?"}
+{"@Score": "23", "@Id": "10006", "@Title": "What is the easiest way to add compression to WCF in Silverlight?"}
+{"@Score": "5", "@Id": "10038", "@Title": "Animation in javascript, a starting point"}
+{"@Score": "91", "@Id": "10042", "@Title": "How do I implement a Linked List in Java?"}
+{"@Score": "3", "@Id": "10043", "@Title": ".NET: How do I find the Desktop path when Folder Redirection is on?"}
+{"@Score": "5", "@Id": "10059", "@Title": "Removing icon from Windows title bars without ditching close button or system menu?"}
+{"@Score": "4", "@Id": "10061", "@Title": "looking for a GPS with a good API"}
+{"@Score": "4", "@Id": "10066", "@Title": "SQL Database documentation?"}
+{"@Score": "3", "@Id": "10071", "@Title": "Compact Framework/Threading - MessageBox displays over other controls after option is chosen"}
+{"@Score": "5", "@Id": "10072", "@Title": "Personalized icon next to the URL address in the browser's address bar?"}
+{"@Score": "10", "@Id": "10083", "@Title": "better command for Windows?"}
+{"@Score": "3", "@Id": "10088", "@Title": "Where is TFS work item help text displayed?"}
+{"@Score": "3", "@Id": "10098", "@Title": "Best mock framework that can do both WebForms and MVC?"}
+{"@Score": "6", "@Id": "10123", "@Title": "How do I treat an integer as an array of bytes in Python?"}
+{"@Score": "6", "@Id": "10149", "@Title": "How do I bind a regular expression to a key combination in emacs?"}
+{"@Score": "1", "@Id": "10158", "@Title": "Regex Rejecting matches because of Instr"}
+{"@Score": "9", "@Id": "10190", "@Title": "How to return a page of results from SQL?"}
+{"@Score": "3", "@Id": "10205", "@Title": "Delimited string parsing?"}
+{"@Score": "21", "@Id": "10228", "@Title": "Run PHPUnit Tests in Certain Order"}
+{"@Score": "3", "@Id": "10229", "@Title": "Multithreading Design Best Practice"}
+{"@Score": "13", "@Id": "10230", "@Title": "Checking for string contents? string Length Vs Empty String"}
+{"@Score": "12", "@Id": "10243", "@Title": "How to get PNG transparency working in browsers that don't natively support it?"}
+{"@Score": "6", "@Id": "10260", "@Title": "What are the useful new ASP.NET features in the .NET Framework 3.5?"}
+{"@Score": "33", "@Id": "10274", "@Title": "When should I not use the ThreadPool in .Net?"}
+{"@Score": "8", "@Id": "10293", "@Title": "Has anyone used Jaxer in production?"}
+{"@Score": "11", "@Id": "10300", "@Title": "Validating posted form data in the ASP.NET MVC framework"}
+{"@Score": "3", "@Id": "10303", "@Title": "What FoxPro data tools can I use to find corrupted data?"}
+{"@Score": "27", "@Id": "10308", "@Title": "Graphical representation of SVN branch/merge activity"}
+{"@Score": "6", "@Id": "10309", "@Title": "Whats the best way of finding ALL your memory when developing on the Compact Framework?"}
+{"@Score": "10", "@Id": "10313", "@Title": "Can I copy files to a Network Place from a script or the command line?"}
+{"@Score": "3", "@Id": "10314", "@Title": "How do you name your instance/param values?"}
+{"@Score": "34", "@Id": "10323", "@Title": "Why doesn't Ruby have a real StringBuffer or StringIO?"}
+{"@Score": "9", "@Id": "10324", "@Title": "How can I convert a hexadecimal number to base 10 efficiently in C?"}
+{"@Score": "16", "@Id": "10349", "@Title": "In WinForms, why can't you update UI controls from other threads?"}
+{"@Score": "5", "@Id": "10366", "@Title": "style.display not working in Firefox, Opera, Safari - IE7 OK"}
+{"@Score": "69", "@Id": "10412", "@Title": "How can a Word document be created in C#?"}
+{"@Score": "7", "@Id": "10435", "@Title": "Impersonation in IIS 7.0"}
+{"@Score": "6", "@Id": "10443", "@Title": "Send messages to program through command line"}
+{"@Score": "20", "@Id": "10456", "@Title": "HowTo Disable WebBrowser 'Click Sound' in your app only"}
+{"@Score": "24", "@Id": "10458", "@Title": "Is there a \"Set\" data structure in .Net?"}
+{"@Score": "22", "@Id": "10475", "@Title": "Touch Typing Software recommendations"}
+{"@Score": "9", "@Id": "10477", "@Title": "Equidistant points across Bezier curves"}
+{"@Score": "7", "@Id": "10478", "@Title": "Getting selected text in a browser, cross-platform"}
+{"@Score": "13", "@Id": "10486", "@Title": "Unit test execution speed (how many tests per second?)"}
+{"@Score": "42", "@Id": "10499", "@Title": "Oracle - What TNS Names file am I using?"}
+{"@Score": "1", "@Id": "10506", "@Title": "Weird DB2 issue with DBUnit"}
+{"@Score": "4", "@Id": "10515", "@Title": "What do I need to run PHP applications on IIS?"}
+{"@Score": "25", "@Id": "10524", "@Title": "Expression.Invoke in Entity Framework?"}
+{"@Score": "5", "@Id": "10531", "@Title": "Using C# with OpenOffice through reflection"}
+{"@Score": "2", "@Id": "10532", "@Title": "What's the preferred way to connect to a postgresql database from PHP?"}
+{"@Score": "2", "@Id": "10533", "@Title": "Parsing attributes with regex in Perl"}
+{"@Score": "298", "@Id": "10564", "@Title": "How can I set up an editor to work with Git on Windows?"}
+{"@Score": "4", "@Id": "10575", "@Title": "What's your Interactive Voice Response Platform?"}
+{"@Score": "47", "@Id": "10580", "@Title": "What is the difference between Early and Late Binding?"}
+{"@Score": "3", "@Id": "10586", "@Title": "Small modification to an XML document using StAX"}
+{"@Score": "0", "@Id": "10595", "@Title": "How do I write those cool command line code generators (rails, sproutcore, webgen)"}
+{"@Score": "2", "@Id": "10599", "@Title": "Web page field validation"}
+{"@Score": "7", "@Id": "10600", "@Title": "What's the best database storage device?"}
+{"@Score": "5", "@Id": "10604", "@Title": "Automatically measure all SQL queries"}
+{"@Score": "7", "@Id": "10610", "@Title": "Pre-built regular expression patterns or Regex Libraries?"}
+{"@Score": "63", "@Id": "10616", "@Title": "Differences Between MySql and MS SQL"}
+{"@Score": "28", "@Id": "10634", "@Title": "Should I switch from nant to msbuild?"}
+{"@Score": "50", "@Id": "10635", "@Title": "Why are my powershell scripts not running?"}
+{"@Score": "77", "@Id": "10644", "@Title": "Any decent C# profilers out there?"}
+{"@Score": "70", "@Id": "10658", "@Title": "Creating iCal Files in c#"}
+{"@Score": "5", "@Id": "10661", "@Title": "Does the OutputCacheFilter in the Microsoft MVC Preview 4 actually save on action invocations?"}
+{"@Score": "13", "@Id": "10668", "@Title": "Reading Other Process' Memory in OS X?"}
+{"@Score": "8", "@Id": "10670", "@Title": "Asynchronous Remoting calls"}
+{"@Score": "11", "@Id": "10680", "@Title": "Is there a difference between the on_exit() and atexit() functions?"}
+{"@Score": "29", "@Id": "10688", "@Title": "Best tool for auto-generating SQL change scripts for SQL Server"}
+{"@Score": "3", "@Id": "10727", "@Title": "What is a \"reasonable\" length of time to keep a SQL cursor open?"}
+{"@Score": "6", "@Id": "10731", "@Title": "Best way to store a database password in a startup script / config file?"}
+{"@Score": "128", "@Id": "10752", "@Title": "What is the difference between integration and unit tests?"}
+{"@Score": "1", "@Id": "10782", "@Title": "Convert an asp.net application to IIS7 integrated mode"}
+{"@Score": "4", "@Id": "10793", "@Title": "Catching unhandled exceptions in ASP.NET UserControls"}
+{"@Score": "16", "@Id": "10798", "@Title": "ASP.NET Web Site or Web Project"}
+{"@Score": "29", "@Id": "10808", "@Title": "Ruby mixins and calling super methods"}
+{"@Score": "3", "@Id": "10810", "@Title": "Why do I get the error \"Unable to update the password\" when calling AzMan?"}
+{"@Score": "41", "@Id": "10819", "@Title": "SQL, Auxiliary table of numbers"}
+{"@Score": "3", "@Id": "10822", "@Title": "Fast database access test from .NET"}
+{"@Score": "31", "@Id": "10825", "@Title": "Compare a date string to datetime in SQL Server?"}
+{"@Score": "360", "@Id": "10848", "@Title": "How to programmatically send SMS on the iPhone?"}
+{"@Score": "553", "@Id": "10855", "@Title": "LINQ query on a DataTable"}
+{"@Score": "8", "@Id": "10860", "@Title": "Data Layer Best Practices"}
+{"@Score": "4", "@Id": "10870", "@Title": "How can I \"unaccept\" a drag in Flex?"}
+{"@Score": "3", "@Id": "10872", "@Title": "How to encourage someone to learn programming?"}
+{"@Score": "64", "@Id": "10877", "@Title": "How can you customize the numbers in an ordered list?"}
+{"@Score": "37", "@Id": "10880", "@Title": "Any good advice on using emacs for C++ project?"}
+{"@Score": "3", "@Id": "10891", "@Title": "Best way to connect To Sql Server with MFC"}
+{"@Score": "3", "@Id": "10898", "@Title": "How to set up a DB2 linked server on a 64-bit SQL Server 2005?"}
+{"@Score": "9", "@Id": "10901", "@Title": "Future proofing a large UI Application - MFC with 2008 Feature pack, or C# and Winforms?"}
+{"@Score": "24", "@Id": "10905", "@Title": "Can you use generic forms in C#?"}
+{"@Score": "3", "@Id": "10915", "@Title": "Best way to model Many-To-One Relationships in NHibernate When Dealing With a Legacy DB?"}
+{"@Score": "7", "@Id": "10919", "@Title": "How do you measure SQL Fill Factor value"}
+{"@Score": "1", "@Id": "10926", "@Title": "Deleting / Replacing A Node in E4X (AS3 - Flex)"}
+{"@Score": "9", "@Id": "10933", "@Title": "Can you recommend a good .Net web-based repository browser for SVN?"}
+{"@Score": "0", "@Id": "10935", "@Title": "How to trace COM objects exceptions?"}
+{"@Score": "10", "@Id": "10949", "@Title": "Unit tests for deep cloning"}
+{"@Score": "8", "@Id": "10980", "@Title": "IKVM and Licensing"}
+{"@Score": "15", "@Id": "10985", "@Title": "How to prevent an object being created on the heap?"}
+{"@Score": "22", "@Id": "10990", "@Title": "What are the proper permissions for an upload folder with PHP/Apache?"}
+{"@Score": "4", "@Id": "10999", "@Title": "MS Team Foundation Server in distributed environments - hints tips tricks needed"}
+{"@Score": "3", "@Id": "11028", "@Title": "What are the advantages of explicit Join Transitive Closure in SQL?"}
+{"@Score": "28", "@Id": "11043", "@Title": "SQL Table Aliases - Good or Bad?"}
+{"@Score": "21", "@Id": "11045", "@Title": "Refresh Excel VBA Function Results"}
+{"@Score": "4", "@Id": "11055", "@Title": "How big would such a database be?"}
+{"@Score": "15", "@Id": "11060", "@Title": "How should I unit test a code-generator?"}
+{"@Score": "14", "@Id": "11085", "@Title": "How can I determine the type of a blessed reference in Perl?"}
+{"@Score": "41", "@Id": "11088", "@Title": "What is the best way to work around the fact that ALL Java bytes are signed?"}
+{"@Score": "3", "@Id": "11099", "@Title": "What is the prefered style for single decision and action statements?"}
+{"@Score": "7", "@Id": "11112", "@Title": "Best Wiki for Mobile Users"}
+{"@Score": "6", "@Id": "11127", "@Title": "In C++/Windows how do I get the network name of the computer I'm on?"}
+{"@Score": "0", "@Id": "11135", "@Title": "How to run remote shell scripts from ASP pages?"}
+{"@Score": "2", "@Id": "11141", "@Title": "ASP.NET Caching"}
+{"@Score": "10", "@Id": "11145", "@Title": "Drawing Library for Ruby"}
+{"@Score": "2", "@Id": "11152", "@Title": "How do I create a workflow instance reliably based on an external event?"}
+{"@Score": "65", "@Id": "11194", "@Title": "Conditional Linq Queries"}
+{"@Score": "4", "@Id": "11199", "@Title": ".NET Framework dependency"}
+{"@Score": "1", "@Id": "11200", "@Title": "T-Sql date format for seconds since last epoch / formatting for sqlite input"}
+{"@Score": "22", "@Id": "11219", "@Title": "Calling REST web services from a classic asp page"}
+{"@Score": "309", "@Id": "11246", "@Title": "Best resources to learn JavaScript"}
+{"@Score": "0", "@Id": "11248", "@Title": "Trial wrapping"}
+{"@Score": "7", "@Id": "11263", "@Title": "Do you know any patterns for GUI programming? (Not patterns on designing GUIs)"}
+{"@Score": "5", "@Id": "11267", "@Title": "ASP.NET UserControl's and DefaultEvent"}
+{"@Score": "2", "@Id": "11275", "@Title": "Standard Signature a Text in a Message using Exchange Server"}
+{"@Score": "2", "@Id": "11279", "@Title": "Automatically incremented revision number doesn't show up in the About Box"}
+{"@Score": "6", "@Id": "11288", "@Title": "WPF - Sorting a composite collection"}
+{"@Score": "12", "@Id": "11291", "@Title": "Best way to capture key events in NSTextView?"}
+{"@Score": "42", "@Id": "11305", "@Title": "How to parse XML using vba"}
+{"@Score": "15", "@Id": "11311", "@Title": "Formatting text in WinForm Label"}
+{"@Score": "16", "@Id": "11318", "@Title": "Simple animation in WinForms"}
+{"@Score": "8", "@Id": "11330", "@Title": "Passing more parameters in C function pointers"}
+{"@Score": "8", "@Id": "11333", "@Title": "Open Source Licensing Options for ASP.NET MVC Application?"}
+{"@Score": "12", "@Id": "11338", "@Title": "Getting Java and TWAIN to play together nicely"}
+{"@Score": "0", "@Id": "11341", "@Title": "Create PDFs from multipage forms in WebObjects"}
+{"@Score": "11", "@Id": "11345", "@Title": "XPATHS and Default Namespaces"}
+{"@Score": "7", "@Id": "11359", "@Title": "What is good server performance monitoring software for Windows?"}
+{"@Score": "4", "@Id": "11381", "@Title": "Making human readable representations of an Integer"}
+{"@Score": "22", "@Id": "11405", "@Title": "GCC problem : using a member of a base class that depends on a template argument"}
+{"@Score": "10", "@Id": "11423", "@Title": "How to host a WPF form in a MFC application"}
+{"@Score": "4", "@Id": "11430", "@Title": "What version of .Net framework ships with SQL Server 2008?"}
+{"@Score": "5", "@Id": "11439", "@Title": "Visual Studio Setup Project Custom Dialog"}
+{"@Score": "3", "@Id": "11460", "@Title": "ASP.NET Proxy Application"}
+{"@Score": "21", "@Id": "11462", "@Title": "Sharepoint Wikis"}
+{"@Score": "19", "@Id": "11491", "@Title": "String To Lower/Upper in C++"}
+{"@Score": "23", "@Id": "11500", "@Title": "Speeding up an ASP.Net Web Site or Application"}
+{"@Score": "8", "@Id": "11514", "@Title": "Is it possible to be ambikeyboardrous?"}
+{"@Score": "4", "@Id": "11516", "@Title": "Variable Bindings in WPF"}
+{"@Score": "3", "@Id": "11520", "@Title": "What are the list of Resharper like plugins for VS I should consider?"}
+{"@Score": "37", "@Id": "11532", "@Title": "How can I find unused functions in a PHP project"}
+{"@Score": "12", "@Id": "11561", "@Title": "What is the difference between an endpoint, a service, and a port when working with webservices?"}
+{"@Score": "75", "@Id": "11562", "@Title": "How to overload std::swap()"}
+{"@Score": "7", "@Id": "11574", "@Title": "How can I improve performance when adding InDesign XMLElements via AppleScript?"}
+{"@Score": "46", "@Id": "11585", "@Title": "Clearing Page Cache in ASP.NET"}
+{"@Score": "27", "@Id": "11586", "@Title": "Do you use design patterns?"}
+{"@Score": "5", "@Id": "11612", "@Title": "Is there any wiki engine that supports page creation by email?"}
+{"@Score": "10", "@Id": "11615", "@Title": "Good Resources for Relational Database Design"}
+{"@Score": "214", "@Id": "11620", "@Title": "How do you kill all current connections to a SQL Server 2005 database?"}
+{"@Score": "28", "@Id": "11632", "@Title": "What are the most important functional differences between C# and VB.NET?"}
+{"@Score": "255", "@Id": "11635", "@Title": "Case insensitive string comparison in C++"}
+{"@Score": "2", "@Id": "11665", "@Title": "How do I restyle an Adobe Flex Accordion to include a button in each canvas header?"}
+{"@Score": "6", "@Id": "11676", "@Title": "Creating a development environment for SharePoint"}
+{"@Score": "6", "@Id": "11680", "@Title": "Design pattern for parsing binary file data and storing in a database"}
+{"@Score": "2", "@Id": "11686", "@Title": "Is there any kind of non text interface to MySQL?"}
+{"@Score": "2", "@Id": "11689", "@Title": "Design debate: what are good ways to store and manipulate versioned objects?"}
+{"@Score": "6", "@Id": "11690", "@Title": "How can I get Unicode characters to display properly for the tooltip for the IMG ALT in IE7?"}
+{"@Score": "7", "@Id": "11699", "@Title": "EFS encryption key pop up"}
+{"@Score": "7", "@Id": "11711", "@Title": "How to use Scrum and Visual Studio without Team System"}
+{"@Score": "15", "@Id": "11720", "@Title": "How can I create virtual machines as part of a build process using MSBuild and MS Virtual Server and/or Hyper-V Server Virtualization?"}
+{"@Score": "0", "@Id": "11724", "@Title": "In Visual Studio you must be a member of Debug Users or Administrators to start debugging. What if you are but it doesn't work?"}
+{"@Score": "1", "@Id": "11734", "@Title": "How to intercept and cancel auto play from an application?"}
+{"@Score": "4", "@Id": "11740", "@Title": "Configurable Table Prefixes with a .Net OR/M?"}
+{"@Score": "4", "@Id": "11761", "@Title": "best way to persist data in .NET Web Service"}
+{"@Score": "27", "@Id": "11762", "@Title": "CryptographicException: Padding is invalid and cannot be removed"}
+{"@Score": "4", "@Id": "11764", "@Title": "Publishing to IIS - Best Practices"}
+{"@Score": "45", "@Id": "11767", "@Title": "Browse for a directory in C#"}
+{"@Score": "3", "@Id": "11782", "@Title": "File Uploads via Web Services"}
+{"@Score": "15", "@Id": "11783", "@Title": "In .NET, will empty method calls be optimized out?"}
+{"@Score": "6", "@Id": "11801", "@Title": "What's the general consensus on supporting Windows 2000?"}
+{"@Score": "9", "@Id": "11804", "@Title": "Returning Large Results Via a Webservice"}
+{"@Score": "11", "@Id": "11806", "@Title": "How do you impersonate an Active Directory user in Powershell?"}
+{"@Score": "25", "@Id": "11809", "@Title": "How to create an all browser-compatible hanging indent style in CSS in a span"}
+{"@Score": "4", "@Id": "11820", "@Title": "How much extra overhead is generated when sending a file over a web service as a byte array?"}
+{"@Score": "60", "@Id": "11831", "@Title": "Singletons: good design or a crutch?"}
+{"@Score": "5", "@Id": "11854", "@Title": "Inheritance and Polymorphism - Ease of use vs Purity"}
+{"@Score": "28", "@Id": "11857", "@Title": "What do you use as a good alternative to Team System?"}
+{"@Score": "9", "@Id": "11878", "@Title": "Best .NET Solution for Frequently Changed Database"}
+{"@Score": "4", "@Id": "11879", "@Title": "Is it possible to return objects from a WebService?"}
+{"@Score": "10", "@Id": "11887", "@Title": "sn.exe fails with Access Denied error message"}
+{"@Score": "10", "@Id": "11903", "@Title": "OpenID Attribute Exchange - should I use it?"}
+{"@Score": "103", "@Id": "11915", "@Title": "RSS Feeds in ASP.NET MVC"}
+{"@Score": "3", "@Id": "11919", "@Title": "How do I get PHP and MySQL working on IIS 7.0?"}
+{"@Score": "12", "@Id": "11926", "@Title": "ASP.Net MVC route mapping"}
+{"@Score": "6", "@Id": "11930", "@Title": "How can I determine the IP of my router/gateway in Java?"}
+{"@Score": "20", "@Id": "11950", "@Title": "How do you log errors (Exceptions) in your ASP.NET apps?"}
+{"@Score": "3", "@Id": "11964", "@Title": "Pay for vmware or use Open Source?"}
+{"@Score": "3", "@Id": "11974", "@Title": "What is the best way to upload a file via an HTTP POST with a web form?"}
+{"@Score": "19", "@Id": "11975", "@Title": "Handling timezones in storage?"}
+{"@Score": "2", "@Id": "11986", "@Title": "Why does sqlite3-ruby-1.2.2 not work on OS X?"}
+{"@Score": "5", "@Id": "12008", "@Title": "How do you do system integration?"}
+{"@Score": "8", "@Id": "12009", "@Title": "Piping password to smbpasswd"}
+{"@Score": "26", "@Id": "12023", "@Title": "How do I attract developers to an Open Source project?"}
+{"@Score": "6", "@Id": "12039", "@Title": "Windows MiniDump files -- \"Symbols can not be loaded\" when trying to read with WinDbg"}
+{"@Score": "17", "@Id": "12045", "@Title": "Unit testing a timer based application?"}
+{"@Score": "582", "@Id": "12051", "@Title": "Calling the base constructor in C#"}
+{"@Score": "23", "@Id": "12075", "@Title": "Should I be worried about obfuscating my .NET code?"}
+{"@Score": "39", "@Id": "12088", "@Title": "Do you obfuscate your commercial Java code?"}
+{"@Score": "2", "@Id": "12095", "@Title": "Windows Forms Threading and Events - ListBox updates promptly but progressbar experiences huge delay"}
+{"@Score": "5", "@Id": "12103", "@Title": "Why doesn't my Perl map return anything?"}
+{"@Score": "3", "@Id": "12107", "@Title": "Configuring VisualSVN Server to use _svn instead of .svn"}
+{"@Score": "10", "@Id": "12135", "@Title": "FileNotFoundException for mscorlib.XmlSerializers.DLL, which doesn't exist"}
+{"@Score": "2", "@Id": "12140", "@Title": "Access to global application settings"}
+{"@Score": "4", "@Id": "12141", "@Title": "What is the worst database accident that happened to you in production?"}
+{"@Score": "6", "@Id": "12142", "@Title": "Update database schema in Entity Framework"}
+{"@Score": "31", "@Id": "12144", "@Title": "Application configuration files"}
+{"@Score": "375", "@Id": "12159", "@Title": "How should I unit test threaded code?"}
+{"@Score": "23", "@Id": "12176", "@Title": "SVN Revision Version in .NET Assembly w/ out CC.NET"}
+{"@Score": "2", "@Id": "12225", "@Title": "Problem databinding an ASP.Net AJAX toolkit MaskedEditExtender"}
+{"@Score": "8", "@Id": "12243", "@Title": "Namespace/solution structure"}
+{"@Score": "3", "@Id": "12268", "@Title": "Have you ever reflected Reflector?"}
+{"@Score": "3", "@Id": "12271", "@Title": "Creating Visual Studio templates under the \"Windows\" category."}
+{"@Score": "5", "@Id": "12290", "@Title": "Considering N2 CMS but worried about performance. Is this justified?"}
+{"@Score": "7", "@Id": "12294", "@Title": "Any good tools for creating timelines?"}
+{"@Score": "1", "@Id": "12297", "@Title": "How can I remove nodes from a SiteMapNodeCollection?"}
+{"@Score": "0", "@Id": "12304", "@Title": "Why do Sql Server 2005 maintenance plans use the wrong database for dbcc checkdb?"}
+{"@Score": "30", "@Id": "12306", "@Title": "Can I serialize a C# Type object?"}
+{"@Score": "11", "@Id": "12319", "@Title": "_wfopen equivalent under Mac OS X"}
+{"@Score": "6", "@Id": "12330", "@Title": "Programmatically list WMI classes and their properties"}
+{"@Score": "16", "@Id": "12332", "@Title": "In a C/C++ program how does the system (windows, linux, mac OS X) call the main() function"}
+{"@Score": "11", "@Id": "12348", "@Title": "PHP / cURL on Windows install: \"The specified module could not be found.\""}
+{"@Score": "29", "@Id": "12368", "@Title": "How to dispose a class in .net?"}
+{"@Score": "5", "@Id": "12369", "@Title": "VS2008 SP1 crashes when debugging an XSLT file"}
+{"@Score": "36", "@Id": "12374", "@Title": "Has anyone had any success in unit testing SQL stored procedures?"}
+{"@Score": "2", "@Id": "12385", "@Title": "How to attach a ChangeEvent handler to an inherited dependency property?"}
+{"@Score": "3", "@Id": "12397", "@Title": ".NET VirtualPathProviders and Pre-Compilation"}
+{"@Score": "5", "@Id": "12401", "@Title": "FOSS ASP.Net Session Replication Solution?"}
+{"@Score": "9", "@Id": "12406", "@Title": "Is it possible to slipstream the Visual Studio 2008 SP1 install?"}
+{"@Score": "3", "@Id": "12428", "@Title": "Automate adding entries to a wiki"}
+{"@Score": "20", "@Id": "12476", "@Title": "Why is my asp.net application throwing ThreadAbortException?"}
+{"@Score": "24", "@Id": "12482", "@Title": "How can you publish a ClickOnce application through CruiseControl.NET?"}
+{"@Score": "30", "@Id": "12489", "@Title": "How do you get a directory listing in C?"}
+{"@Score": "46", "@Id": "12492", "@Title": "Pretty printing XML files on Emacs"}
+{"@Score": "7", "@Id": "12495", "@Title": "Who writes the documentation?"}
+{"@Score": "2", "@Id": "12501", "@Title": "Powershell's Invoke-Expression missing param"}
+{"@Score": "37", "@Id": "12509", "@Title": "Why Are People Still Creating RSS Feeds?"}
+{"@Score": "21", "@Id": "12516", "@Title": "Expression Evaluation and Tree Walking using polymorphism? (ala Steve Yegge)"}
+{"@Score": "8", "@Id": "12523", "@Title": "Tools for automating mouse and keyboard events sent to a windows application"}
+{"@Score": "6", "@Id": "12533", "@Title": "How do you convert the number you get from datepart to the name of the day?"}
+{"@Score": "65", "@Id": "12537", "@Title": "What tools are used to write documentation?"}
+{"@Score": "4", "@Id": "12555", "@Title": "Is there an API that allows you to find out how many sites link to yours?"}
+{"@Score": "8", "@Id": "12556", "@Title": "What is your experience using the TIBCO General Interface?"}
+{"@Score": "56", "@Id": "12565", "@Title": "What do the different brackets in Ruby mean?"}
+{"@Score": "5", "@Id": "12569", "@Title": "Rigor in capturing test cases for unit testing"}
+{"@Score": "9", "@Id": "12576", "@Title": "PHP performance"}
+{"@Score": "5", "@Id": "12578", "@Title": "No trace info during processing of a cube in SSAS"}
+{"@Score": "5", "@Id": "12591", "@Title": "Using an XML catalog with Python's lxml?"}
+{"@Score": "17", "@Id": "12592", "@Title": "Can you check that an exception is thrown with doctest in Python?"}
+{"@Score": "9", "@Id": "12593", "@Title": "Does System.Xml use MSXML?"}
+{"@Score": "1", "@Id": "12594", "@Title": "Windows/C++: How do I determine the share name associated with a shared drive?"}
+{"@Score": "2", "@Id": "12603", "@Title": "Why was the Profile provider not built into Web Apps?"}
+{"@Score": "9", "@Id": "12611", "@Title": "Designing a Calendar system like Google Calendar"}
+{"@Score": "2", "@Id": "12612", "@Title": "Access Control Lists & Access Control Objects, good tutorial?"}
+{"@Score": "12", "@Id": "12613", "@Title": "Specify a Port Number in Emacs sql-mysql"}
+{"@Score": "66", "@Id": "12633", "@Title": "What is the easiest way to parse an INI File in C++?"}
+{"@Score": "4", "@Id": "12638", "@Title": "Building an auditing system; MS Access frontend on SQL Server backend"}
+{"@Score": "4", "@Id": "12642", "@Title": "Upload binary data with Silverlight 2b2"}
+{"@Score": "52", "@Id": "12647", "@Title": "How do I tell if a variable has a numeric value in Perl?"}
+{"@Score": "4", "@Id": "12656", "@Title": "PHP + MYSQLI: Variable parameter/result binding with prepared statements"}
+{"@Score": "2", "@Id": "12657", "@Title": "Can I create a ListView with dynamic GroupItemCount?"}
+{"@Score": "69", "@Id": "12661", "@Title": "Efficient JPEG Image Resizing in PHP"}
+{"@Score": "12", "@Id": "12669", "@Title": "Resources for getting started with web development?"}
+{"@Score": "5", "@Id": "12671", "@Title": "How can I pass data from an aspx page to an ascx modal popup?"}
+{"@Score": "6", "@Id": "12692", "@Title": "IronPython and ASP.NET"}
+{"@Score": "34", "@Id": "12702", "@Title": "Returning DataTables in WCF/.NET"}
+{"@Score": "1", "@Id": "12706", "@Title": "Best way to custom edit records in ASP.NET?"}
+{"@Score": "2", "@Id": "12709", "@Title": "Load an XmlNodeList into an XmlDocument without looping?"}
+{"@Score": "3", "@Id": "12716", "@Title": "Problems with #import of .NET out-of-proc server"}
+{"@Score": "1", "@Id": "12718", "@Title": "Setting up Subversion on Windows as a service"}
+{"@Score": "2", "@Id": "12720", "@Title": "Add .NET 2.0 SP1 as a prerequisite for deployment project"}
+{"@Score": "8", "@Id": "12765", "@Title": "Strange characters in PHP"}
+{"@Score": "10", "@Id": "12768", "@Title": "How is the HTML on this site so clean?"}
+{"@Score": "5", "@Id": "12774", "@Title": "Attaching VisualSVN Server to an existing repository"}
+{"@Score": "3", "@Id": "12794", "@Title": "How do I add a pre tag inside a code tag with jQuery?"}
+{"@Score": "3", "@Id": "12807", "@Title": "How to register COM from VS Setup project?"}
+{"@Score": "12", "@Id": "12815", "@Title": "Anyone Using Executable Requirements?"}
+{"@Score": "4", "@Id": "12823", "@Title": "Filter by zip code, or other location based data retrieval strategies"}
+{"@Score": "13", "@Id": "12836", "@Title": "C# Database Access: DBNull vs null"}
+{"@Score": "77", "@Id": "12843", "@Title": "How to combine two projects in Mercurial?"}
+{"@Score": "5", "@Id": "12855", "@Title": "Database Case Insensitive Index?"}
+{"@Score": "172", "@Id": "12865", "@Title": "Mercurial stuck \"waiting for lock\""}
+{"@Score": "8", "@Id": "12870", "@Title": "Arrays of Arrays in Java"}
+{"@Score": "2", "@Id": "12877", "@Title": "Oracle SQL Developer not responsive when trying to view tables (or suggest an Oracle Mac client)"}
+{"@Score": "12", "@Id": "12880", "@Title": "Large Data Sets"}
+{"@Score": "10", "@Id": "12890", "@Title": "What is a good way to denormalize a mysql database?"}
+{"@Score": "20", "@Id": "12896", "@Title": "parsing raw email in php"}
+{"@Score": "2", "@Id": "12905", "@Title": "Creating Infopath 2007 addins that manipulate the design-time form"}
+{"@Score": "7", "@Id": "12906", "@Title": "Find out complete SQL Server database size"}
+{"@Score": "15", "@Id": "12924", "@Title": "F# Closure"}
+{"@Score": "10", "@Id": "12927", "@Title": "If you have a Java application that is consuming CPU when it isn't doing anything, how do you determine what it is doing?"}
+{"@Score": "5", "@Id": "12929", "@Title": "Is a Homogeneous development platform good for the industry?"}
+{"@Score": "12", "@Id": "12936", "@Title": "Compiled PHP?"}
+{"@Score": "4", "@Id": "12946", "@Title": "Database replication. 2 servers, Master database and the 2nd is read-only"}
+{"@Score": "9", "@Id": "12982", "@Title": "What is your preferred method of sending complex data over a web service?"}
+{"@Score": "4", "@Id": "13000", "@Title": "How to setup site-wide variables in php?"}
+{"@Score": "11", "@Id": "13021", "@Title": "Is there a \"concise\" way to do namespacing in JavaScript?"}
+{"@Score": "28", "@Id": "13039", "@Title": "Is there a tool that can display a SVN repository visually ( i.e. pretty charts )?"}
+{"@Score": "237", "@Id": "13049", "@Title": "What's the difference between struct and class in .NET?"}
+{"@Score": "78", "@Id": "13055", "@Title": "What is boxing and unboxing and what are the trade offs?"}
+{"@Score": "15", "@Id": "13060", "@Title": "What do ref, val and out mean on method parameters?"}
+{"@Score": "5", "@Id": "13086", "@Title": "Delphi resources for existing .NET developer"}
+{"@Score": "29", "@Id": "13087", "@Title": "How do I convert a date to a HTTP-formatted date in .Net / C#"}
+{"@Score": "4", "@Id": "13106", "@Title": "Should I support ASP.NET 1.1?"}
+{"@Score": "43", "@Id": "13109", "@Title": "PHP: Access Array Value on the Fly"}
+{"@Score": "31", "@Id": "13128", "@Title": "How to combine several C/C++ libraries into one?"}
+{"@Score": "2", "@Id": "13154", "@Title": "Is it safe to install SVN on a production win2008 web server?"}
+{"@Score": "2", "@Id": "13160", "@Title": "Best practice for webservices"}
+{"@Score": "6", "@Id": "13170", "@Title": "A ThreadStateException occures when trying to restart a thread"}
+{"@Score": "6", "@Id": "13200", "@Title": "How do I integrate my continuous integration system with my bug tracking system?"}
+{"@Score": "7", "@Id": "13204", "@Title": "Why Doesn't My Cron Job Work Properly?"}
+{"@Score": "5", "@Id": "13213", "@Title": "URL without ID"}
+{"@Score": "5", "@Id": "13217", "@Title": "How do I update my UI from within HttpWebRequest.BeginGetRequestStream in Silverlight"}
+{"@Score": "6", "@Id": "13224", "@Title": "Mobile device is detected as non mobile device"}
+{"@Score": "6", "@Id": "13225", "@Title": "How can I refactor HTML markup out of my property files?"}
+{"@Score": "23", "@Id": "13254", "@Title": "OpenID authentication in Ruby on Rails"}
+{"@Score": "8", "@Id": "13279", "@Title": "Any good resources or advice for working with languages with different orientations? (such as Japanese or Chinese)"}
+{"@Score": "13", "@Id": "13289", "@Title": "Can you share your secrets or best practices for Problem Solving?"}
+{"@Score": "11", "@Id": "13293", "@Title": "How can I determine CodeIgniter speed?"}
+{"@Score": "9", "@Id": "13299", "@Title": "Image manipulation in asp.net/c# without System.Drawing/GDI+"}
+{"@Score": "23", "@Id": "13343", "@Title": "How much of your work day is spent coding?"}
+{"@Score": "4", "@Id": "13345", "@Title": "Firefox plugin - sockets"}
+{"@Score": "9", "@Id": "13347", "@Title": "Developing for multiple monitors"}
+{"@Score": "44", "@Id": "13348", "@Title": "What are the advantages of using a single database for EACH client?"}
+{"@Score": "5", "@Id": "13353", "@Title": "Override tab behavior in WinForms"}
+{"@Score": "21", "@Id": "13362", "@Title": "Scrolling Overflowed DIVs with JavaScript"}
+{"@Score": "3", "@Id": "13396", "@Title": "Replacement for for... if array iteration"}
+{"@Score": "20", "@Id": "13409", "@Title": "Do you have \"Slack\" time?"}
+{"@Score": "8", "@Id": "13430", "@Title": "Does CruiseControl.NET run on IIS 7.0?"}
+{"@Score": "12", "@Id": "13434", "@Title": "Programatic access to call stack in .net"}
+{"@Score": "5", "@Id": "13454", "@Title": "Python version of PHP's stripslashes"}
+{"@Score": "7", "@Id": "13460", "@Title": "The theory (and terminology) behind Source Control"}
+{"@Score": "3", "@Id": "13470", "@Title": "Purpose of {1} in this regular expression to match url protocols"}
+{"@Score": "3", "@Id": "13471", "@Title": "Are there any \"mind mapping\" components for Delphi? (native VCL preferably)"}
+{"@Score": "3", "@Id": "13473", "@Title": "How does one rank an array (sort) by value? *With a twist*"}
+{"@Score": "13", "@Id": "13485", "@Title": "How do you keep two related, but separate, systems in sync with each other?"}
+{"@Score": "7", "@Id": "13498", "@Title": "simultaneous Outlook reminders on multiple devices"}
+{"@Score": "2", "@Id": "13518", "@Title": "Browser Sync accross many machines"}
+{"@Score": "3", "@Id": "13524", "@Title": "GridView delete not working"}
+{"@Score": "62", "@Id": "13537", "@Title": "Bootstrapping a language"}
+{"@Score": "73", "@Id": "13540", "@Title": "Insert Update stored proc on SQL Server"}
+{"@Score": "0", "@Id": "13545", "@Title": ".NET 3.5 SP1 and aspnet_client Crystal Reports"}
+{"@Score": "2", "@Id": "13550", "@Title": "CASE tools"}
+{"@Score": "4", "@Id": "13561", "@Title": "user controls and asp.net mvc"}
+{"@Score": "342", "@Id": "13569", "@Title": "mysqli or PDO - what are the pros and cons?"}
+{"@Score": "4", "@Id": "13578", "@Title": "Determining how long the user is logged on to Windows"}
+{"@Score": "4", "@Id": "13586", "@Title": "Interpreted languages - leveraging the compiled language behind the interpreter"}
+{"@Score": "1", "@Id": "13589", "@Title": "ASP.net AJAX Drag/Drop?"}
+{"@Score": "4", "@Id": "13594", "@Title": "HTML differences between browsers"}
+{"@Score": "21", "@Id": "13599", "@Title": "Convert enums to human readable values"}
+{"@Score": "3", "@Id": "13607", "@Title": "GUI system development resources?"}
+{"@Score": "30", "@Id": "13615", "@Title": "Validate Enum Values"}
+{"@Score": "16", "@Id": "13620", "@Title": "Speed difference in using inline strings vs concatenation in php5?"}
+{"@Score": "5", "@Id": "13647", "@Title": "Is there an easy way to convert C# classes to PHP?"}
+{"@Score": "4", "@Id": "13655", "@Title": "C# .NET listing contents of remote files"}
+{"@Score": "28", "@Id": "13678", "@Title": "Textual versus Graphical Programming Languages"}
+{"@Score": "1", "@Id": "13698", "@Title": "php Zend / MVC without mod_rewrite"}
+{"@Score": "5", "@Id": "13704", "@Title": "Suggestions for Migrating from ASP.NET WebForms to ASP.NET MVC?"}
+{"@Score": "12", "@Id": "13708", "@Title": "Resources on wordpress theme-development"}
+{"@Score": "2", "@Id": "13718", "@Title": "How to schedule a batch process in asp.net"}
+{"@Score": "44", "@Id": "13725", "@Title": "In Cocoa do you prefer NSInteger or int, and why?"}
+{"@Score": "3", "@Id": "13731", "@Title": "Differences Between C# and VB.net"}
+{"@Score": "12", "@Id": "13745", "@Title": "Resharper and TortoiseSVN"}
+{"@Score": "549", "@Id": "13751", "@Title": "How can I permanently have line numbers in IntelliJ?"}
+{"@Score": "1", "@Id": "13753", "@Title": "quoting System.DirectoryServices.ResultPropertyCollection"}
+{"@Score": "39", "@Id": "13763", "@Title": "How do I remove a child node in HTML using JavaScript?"}
+{"@Score": "13", "@Id": "13765", "@Title": "Open Source C# Opportunities"}
+{"@Score": "17", "@Id": "13768", "@Title": "Open ID - What happens when you decide you don't like your existing provider?"}
+{"@Score": "0", "@Id": "13775", "@Title": "SoapException: Root element is missing occurs when .NET web service called from Flex"}
+{"@Score": "16", "@Id": "13786", "@Title": "Should we support IE6 anymore?"}
+{"@Score": "7", "@Id": "13791", "@Title": "Python Regular Expressions to implement string unescaping"}
+{"@Score": "5", "@Id": "13806", "@Title": "Any windows apis to get file handles besides createfile and openfile?"}
+{"@Score": "2", "@Id": "13832", "@Title": "How do I create an automated build file for VB.Net in NAnt?"}
+{"@Score": "6", "@Id": "13848", "@Title": "VisualSVN undelete with TortoiseSVN"}
+{"@Score": "0", "@Id": "13851", "@Title": "IE7: header above menu"}
+{"@Score": "50", "@Id": "13857", "@Title": "Can you explain closures (as they relate to Python)?"}
+{"@Score": "4", "@Id": "13863", "@Title": "Parsing search queries in Java"}
+{"@Score": "5", "@Id": "13881", "@Title": "Getting started with a Picasa Plugin"}
+{"@Score": "4", "@Id": "13893", "@Title": "How do I make a custom .net client profile installer?"}
+{"@Score": "23", "@Id": "13927", "@Title": "In Cocoa do I need to remove an Object from receiving KVO notifications when deallocating it?"}
+{"@Score": "4", "@Id": "13938", "@Title": "How do I run (unit) tests in different folders/projects separately in Visual Studio?"}
+{"@Score": "28", "@Id": "13941", "@Title": "Python Sound (\"Bell\")"}
+{"@Score": "8", "@Id": "13963", "@Title": "Best method of Textfile Parsing in C#?"}
+{"@Score": "2", "@Id": "13981", "@Title": "How do I access the Ruby AST from C level code?"}
+{"@Score": "49", "@Id": "14008", "@Title": "Genetic Programming in C#"}
+{"@Score": "5", "@Id": "14029", "@Title": "Disabling a ListView in C#, but still showing the current selection"}
+{"@Score": "14", "@Id": "14031", "@Title": "Database triggers"}
+{"@Score": "17", "@Id": "14032", "@Title": "What's a Good Database ERD Tool for Linux?"}
+{"@Score": "13", "@Id": "14040", "@Title": "Developer testing vs. QA team testing - What is the right division of work?"}
+{"@Score": "7", "@Id": "14061", "@Title": "Preventing Memory Leaks with Attached Behaviours"}
+{"@Score": "26", "@Id": "14087", "@Title": "Automated testing a game"}
+{"@Score": "10", "@Id": "14106", "@Title": "How would you go about evaluating a programmer?"}
+{"@Score": "11", "@Id": "14118", "@Title": "How can I test STDIN without blocking in Perl?"}
+{"@Score": "21", "@Id": "14126", "@Title": "How to create a C++ Boost undirected graph and traverse it in depth first search (DFS) order?"}
+{"@Score": "9", "@Id": "14135", "@Title": "Subversion and web development"}
+{"@Score": "2", "@Id": "14138", "@Title": "Enabling OpenGL in wxWidgets"}
+{"@Score": "32", "@Id": "14155", "@Title": "Windows-based Text Editors"}
+{"@Score": "6", "@Id": "14165", "@Title": "Strange C++ errors with code that has min()/max() calls"}
+{"@Score": "4", "@Id": "14209", "@Title": "System.Data.SqlClient.SqlException: Failed to generate a user instance of SQL Server due to a failure in starting the process for the user instance. The connection will be closed"}
+{"@Score": "3", "@Id": "14241", "@Title": "What's the deal with |Pipe-delimited| variables in connection strings?"}
+{"@Score": "13", "@Id": "14247", "@Title": "Flex: does painless programmatic data binding exist?"}
+{"@Score": "5", "@Id": "14263", "@Title": "Best way to let users download a file from my website: http or ftp"}
+{"@Score": "10", "@Id": "14264", "@Title": "Using GLUT with Visual C++ Express Edition"}
+{"@Score": "1", "@Id": "14271", "@Title": "Boost warnings with VC++ 9"}
+{"@Score": "23", "@Id": "14278", "@Title": "How to load plugins in .NET?"}
+{"@Score": "2", "@Id": "14281", "@Title": "Is there a python module for regex matching in zip files"}
+{"@Score": "43", "@Id": "14287", "@Title": "Increasing camera capture resolution in OpenCV"}
+{"@Score": "4", "@Id": "14297", "@Title": "GL_FRAMEBUFFER_INCOMPLETE_DUPLICATE_ATTACHMENT_EXT errors"}
+{"@Score": "14", "@Id": "14300", "@Title": "How do I make Powershell run a batch file and then stay open?"}
+{"@Score": "2", "@Id": "14303", "@Title": "Good email service for bulk emailing"}
+{"@Score": "4", "@Id": "14308", "@Title": "What is the best way to handle files for a small office?"}
+{"@Score": "9", "@Id": "14310", "@Title": "Using OpenGL textures larger than window/display size"}
+{"@Score": "17", "@Id": "14318", "@Title": "Using GLUT bitmap fonts"}
+{"@Score": "15", "@Id": "14330", "@Title": "RGB to monochrome conversion"}
+{"@Score": "9", "@Id": "14344", "@Title": "Starting off with OpenGL under Cygwin"}
+{"@Score": "2", "@Id": "14350", "@Title": "How do I call a Flex SWF from a remote domain using Flash (AS3)?"}
+{"@Score": "3", "@Id": "14358", "@Title": "Accessing OpenGL state variables in Cg"}
+{"@Score": "1", "@Id": "14359", "@Title": ".Net Dynamic Plugin Loading with Authority"}
+{"@Score": "2", "@Id": "14364", "@Title": "Valid OpenGL context"}
+{"@Score": "5", "@Id": "14370", "@Title": "GLUT pop-up menus"}
+{"@Score": "6", "@Id": "14373", "@Title": "CVS to SVN conversion and reorganizing branches"}
+{"@Score": "9", "@Id": "14375", "@Title": "LINQ, entity that implements Interface and exception in mapping"}
+{"@Score": "22", "@Id": "14378", "@Title": "Using the mouse scrollwheel in GLUT"}
+{"@Score": "33", "@Id": "14386", "@Title": "fopen deprecated warning"}
+{"@Score": "17", "@Id": "14389", "@Title": "Regex and unicode"}
+{"@Score": "3", "@Id": "14395", "@Title": "Managed Source Control Hosting and Continuous Integration with CVSDude and CruiseControl.net"}
+{"@Score": "6", "@Id": "14397", "@Title": "When should a multi-module project to split into separate repository trees?"}
+{"@Score": "11", "@Id": "14398", "@Title": "Class Designer in Visual Studio - is it worth it?"}
+{"@Score": "24", "@Id": "14402", "@Title": "GLUT exit redefinition error"}
+{"@Score": "21", "@Id": "14410", "@Title": "Why are there so few modal-editors that aren't vi*?"}
+{"@Score": "14", "@Id": "14413", "@Title": "Using OpenGL extensions On Windows"}
+{"@Score": "15", "@Id": "14422", "@Title": "Why is the PyObjC documentation so bad?"}
+{"@Score": "9", "@Id": "14432", "@Title": "64bit .NET Performance tuning"}
+{"@Score": "4", "@Id": "14435", "@Title": "Class designer"}
+{"@Score": "5", "@Id": "14443", "@Title": "Online repository for reported bugs"}
+{"@Score": "16", "@Id": "14451", "@Title": "What is the best way to make a Delphi Application completely full screen?"}
+{"@Score": "3", "@Id": "14453", "@Title": "Does anyone have .Net Excel IO component benchmarks?"}
+{"@Score": "46", "@Id": "14464", "@Title": "Bit fields in C#"}
+{"@Score": "7", "@Id": "14491", "@Title": "How can an MFC application terminate itself?"}
+{"@Score": "15", "@Id": "14495", "@Title": "How can I stop MATLAB from returning until after a command-line script completes?"}
+{"@Score": "2", "@Id": "14497", "@Title": "Has anyone used NUnitLite with any success?"}
+{"@Score": "11", "@Id": "14504", "@Title": "Proportional font IDE"}
+{"@Score": "2", "@Id": "14505", "@Title": "Alpha blending colors in .NET Compact Framework 2.0"}
+{"@Score": "8", "@Id": "14527", "@Title": "Reverse Find in a string"}
+{"@Score": "160", "@Id": "14530", "@Title": "LINQ-to-SQL vs stored procedures?"}
+{"@Score": "3", "@Id": "14545", "@Title": "How should I handle autolinking in wiki page content?"}
+{"@Score": "0", "@Id": "14552", "@Title": "SSRS scheduled reports not working"}
+{"@Score": "20", "@Id": "14569", "@Title": "Best License for Selling Open Source Software"}
+{"@Score": "0", "@Id": "14570", "@Title": "How to organize dataset queries to improve performance"}
+{"@Score": "2", "@Id": "14577", "@Title": "How do I avoid using cursors in Sybase (T-SQL)?"}
+{"@Score": "22", "@Id": "14582", "@Title": "Can I make Subversion + TortoiseSVN case-insensitive for Windows?"}
+{"@Score": "14", "@Id": "14588", "@Title": "Do you use version control other than for source code?"}
+{"@Score": "1", "@Id": "14596", "@Title": "Are there good resources on federated software?"}
+{"@Score": "58", "@Id": "14599", "@Title": "ASP.NET MVC and  Model-view-controller pattern - where do I start from?"}
+{"@Score": "1", "@Id": "14611", "@Title": "Editing User Profile w/ Forms Authentication"}
+{"@Score": "10", "@Id": "14614", "@Title": "Static Methods in an Interface/Abstract Class"}
+{"@Score": "139", "@Id": "14617", "@Title": "Java: What is the best way to SFTP a file from a server"}
+{"@Score": "5", "@Id": "14618", "@Title": "Multiple choice on WinForms"}
+{"@Score": "2", "@Id": "14634", "@Title": "Is it possible to automatically make check-outs from any VCS?"}
+{"@Score": "6", "@Id": "14646", "@Title": "How to add \"Project Description\" in FogBugz?"}
+{"@Score": "17", "@Id": "14656", "@Title": "Can a proxy server cache SSL GETs? If not, would response body encryption suffice?"}
+{"@Score": "1", "@Id": "14674", "@Title": "Different solutions/project files for Local vs Build environments"}
+{"@Score": "14", "@Id": "14697", "@Title": "What Url rewriter do you use for ASP.Net?"}
+{"@Score": "3", "@Id": "14698", "@Title": "How to make Pro*C cope with #warning directives?"}
+{"@Score": "9", "@Id": "14708", "@Title": "PowerShell FINDSTR eqivalent?"}
+{"@Score": "1", "@Id": "14712", "@Title": "TortoiseSVN & Putty very slow"}
+{"@Score": "8", "@Id": "14717", "@Title": "Identifying SQL Server Performance Problems"}
+{"@Score": "39", "@Id": "14731", "@Title": "UrlEncode through a console application?"}
+{"@Score": "4", "@Id": "14756", "@Title": "Printers not available unless shared"}
+{"@Score": "3", "@Id": "14760", "@Title": "Is it possible to disable command input in the toolbar search box?"}
+{"@Score": "50", "@Id": "14770", "@Title": "How best to use File Version and Assembly Version?"}
+{"@Score": "6", "@Id": "14775", "@Title": "Interview question on C# and VB.net similarities/differences"}
+{"@Score": "1", "@Id": "14791", "@Title": "Is \"include file\" in shtml the best method to keep non-database changing data"}
+{"@Score": "4", "@Id": "14801", "@Title": "How can I override an EJB 3 session bean method with a generic argument - if possible at all?"}
+{"@Score": "66", "@Id": "14823", "@Title": "Is Ruby On Rails ready for the Enterprise?"}
+{"@Score": "2", "@Id": "14828", "@Title": "Issues with DB after publishing via Database Publishing Wizard from MSFT"}
+{"@Score": "8", "@Id": "14837", "@Title": "How to get started with speech-to-text?"}
+{"@Score": "3", "@Id": "14843", "@Title": "Mixed C++/CLI TypeLoadException Internal limitation: too many fields"}
+{"@Score": "0", "@Id": "14857", "@Title": "Why does VS 2005 keep giving me the \"'x' is ambiguous in the namespace 'y'\" error?"}
+{"@Score": "5", "@Id": "14872", "@Title": "[ADO.NET ERRROR]: CREATE DATABASE permission denied in database 'master'. An attempt to attach an auto-named database for file HelloWorld.mdf failed"}
+{"@Score": "6", "@Id": "14873", "@Title": "How do I display database query statistics on Wordpress site?"}
+{"@Score": "3", "@Id": "14874", "@Title": "Drawing a view hierachy into a specific context in Cocoa"}
+{"@Score": "9", "@Id": "14878", "@Title": "ASP.NET AjaxToolKit vs other third party Ajax controls (Telerik, etc)"}
+{"@Score": "8", "@Id": "14884", "@Title": "Find the best combination from a given set of multiple sets"}
+{"@Score": "26", "@Id": "14893", "@Title": "Improving Your Build Process"}
+{"@Score": "1", "@Id": "14909", "@Title": "Tree-Based (vs. HTML-Based) Web Framework?"}
+{"@Score": "5", "@Id": "14911", "@Title": "PDF generation from XHTML in a LAMP environment"}
+{"@Score": "3", "@Id": "14923", "@Title": "Can I generate ASP.NET MVC routes from a Sitemap?"}
+{"@Score": "6", "@Id": "14934", "@Title": "Parameter Binding: What happens under the hood?"}
+{"@Score": "55", "@Id": "14943", "@Title": "How to Disable Alt + F4 closing form?"}
+{"@Score": "4", "@Id": "14963", "@Title": ".NET 3.5 Service Pack 1 causes 404 pages on ASP.NET Web App"}
+{"@Score": "144", "@Id": "14967", "@Title": "Are there any suggestions for developing a C# coding standards / best practices document?"}
+{"@Score": "6", "@Id": "15007", "@Title": "Executing JavaScript to Render HTML for Server-Side Caching"}
+{"@Score": "6", "@Id": "15015", "@Title": "Web Application Testing for .Net (WatiN Test Recorder)"}
+{"@Score": "6", "@Id": "15023", "@Title": "How to get list of installed BitmapEncoders/Decoders (the WPF world)?"}
+{"@Score": "16", "@Id": "15024", "@Title": "Tools to help a small shop score higher on the \"Joel Test\""}
+{"@Score": "5", "@Id": "15034", "@Title": "Visual Studio Error: The \"GenerateResource\" task failed unexpectedly"}
+{"@Score": "4", "@Id": "15040", "@Title": "How do you set your LAMP testing server?"}
+{"@Score": "11", "@Id": "15047", "@Title": "Looking for example of Command pattern for UI"}
+{"@Score": "4", "@Id": "15053", "@Title": "How to get out parameters working in SharePoint workflows"}
+{"@Score": "7", "@Id": "15056", "@Title": "Do you have any recommended macros for Microsoft Visual Studio?"}
+{"@Score": "9", "@Id": "15057", "@Title": "find orphaned methods in codebase"}
+{"@Score": "12", "@Id": "15062", "@Title": "How do I do a string replacement in a PowerShell function?"}
+{"@Score": "3", "@Id": "15066", "@Title": "Cycle Button Background Images in C#"}
+{"@Score": "2", "@Id": "15087", "@Title": "Access 2000 connecting to SQL Server 2005"}
+{"@Score": "3", "@Id": "15102", "@Title": "Office VSTO Word 2003 project keeps trying to autoconvert to 2007"}
+{"@Score": "2", "@Id": "15109", "@Title": "Visual Studio 2005 Setup project install crashes over Terminal Server"}
+{"@Score": "3", "@Id": "15124", "@Title": ".net Job Interview"}
+{"@Score": "13", "@Id": "15133", "@Title": "Tool in Visual Studio 2008 for helping with Localization"}
+{"@Score": "13", "@Id": "15139", "@Title": "Building Standalone Applications in JavaScript"}
+{"@Score": "274", "@Id": "15142", "@Title": "What are the pros and cons to keeping SQL in Stored Procs versus Code"}
+{"@Score": "0", "@Id": "15163", "@Title": "Prevent a TreeView from firing events in VB6?"}
+{"@Score": "24", "@Id": "15171", "@Title": "User script location linux (debian etch)"}
+{"@Score": "8", "@Id": "15176", "@Title": "How to gauge the quality of a software product"}
+{"@Score": "22", "@Id": "15187", "@Title": "Writing Emacs extensions in languages other than Lisp"}
+{"@Score": "1", "@Id": "15190", "@Title": "Changing CURRENT save/default directory in Delphi 2007 without using Save-As"}
+{"@Score": "3", "@Id": "15203", "@Title": "Best way to deploy subversion (SVN) in a multisite windows environment"}
+{"@Score": "12", "@Id": "15204", "@Title": "What is the best way to iterate through a strongly-typed generic List<T>?"}
+{"@Score": "61", "@Id": "15208", "@Title": "What's the best Linux backup solution?"}
+{"@Score": "9", "@Id": "15211", "@Title": "Subversion Management Tools"}
+{"@Score": "3", "@Id": "15219", "@Title": "UltraWebGrid: How to use a drop-down list in a column"}
+{"@Score": "8", "@Id": "15228", "@Title": "Setting an ASP.NET Master Page at runtime"}
+{"@Score": "29", "@Id": "15240", "@Title": "How do you create a debug only function that takes a variable argument list? Like printf()"}
+{"@Score": "48", "@Id": "15241", "@Title": "Does anyone have any real-world experience of CSLA?"}
+{"@Score": "7", "@Id": "15247", "@Title": "Simplest way to make a Google Map mashup?"}
+{"@Score": "19", "@Id": "15254", "@Title": "Can placement new for arrays be used in a portable way?"}
+{"@Score": "8", "@Id": "15266", "@Title": "Objective-C/Cocoa: How do I accept a bad server certificate?"}
+{"@Score": "1", "@Id": "15272", "@Title": "Aging Data Structure in C#"}
+{"@Score": "5", "@Id": "15302", "@Title": "What do the getUTC* methods on the date object do?"}
+{"@Score": "5", "@Id": "15305", "@Title": "JNI and Java: ant calling make or make calling ant?"}
+{"@Score": "3", "@Id": "15310", "@Title": "Optimizing the PDF Export of Huge Reports in Sql Reporting Services 2005"}
+{"@Score": "2", "@Id": "15315", "@Title": "Is there a method for handling errors from COM objects in RDML?"}
+{"@Score": "6", "@Id": "15326", "@Title": "IE7 HTML/CSS margin-bottom bug"}
+{"@Score": "22", "@Id": "15334", "@Title": "How to create short snippets in Vim?"}
+{"@Score": "5", "@Id": "15349", "@Title": "Which scripting language to support in an existing codebase?"}
+{"@Score": "5", "@Id": "15365", "@Title": "Requirements, Specs, and Managing Up in an Agile Environment"}
+{"@Score": "7", "@Id": "15366", "@Title": "Only accepting certain ajax requests from authenticated users"}
+{"@Score": "492", "@Id": "15376", "@Title": "What's the best UML diagramming tool?"}
+{"@Score": "25", "@Id": "15390", "@Title": "Best practices for managing and deploying large JavaScript apps"}
+{"@Score": "4", "@Id": "15395", "@Title": "SQL Server 2008 vs 2005 Linq integration"}
+{"@Score": "1", "@Id": "15398", "@Title": "DLL plugin that creates a parented window doesn't handle messages correctly"}
+{"@Score": "0", "@Id": "15399", "@Title": "SQL With A Safety Net"}
+{"@Score": "20", "@Id": "15412", "@Title": "Is Single Responsibility Principle a rule of OOP?"}
+{"@Score": "4", "@Id": "15414", "@Title": "Is it possible to coax Visual Studio 2008 into using italics for comments?"}
+{"@Score": "14", "@Id": "15423", "@Title": "How to change the icon of .bat file programatically?"}
+{"@Score": "5", "@Id": "15446", "@Title": "Documenting program architecture"}
+{"@Score": "15", "@Id": "15470", "@Title": "How do I get rid of Home in ASP.Net MVC?"}
+{"@Score": "1", "@Id": "15478", "@Title": ".Net drawing clipping bug"}
+{"@Score": "16", "@Id": "15481", "@Title": "Java Coding standard / best practices - naming convention for break/continue labels"}
+{"@Score": "45", "@Id": "15486", "@Title": "Sorting an IList in C#"}
+{"@Score": "295", "@Id": "15496", "@Title": "Hidden Features of Java"}
+{"@Score": "2", "@Id": "15504", "@Title": "Use SVN instead of CVS on SourceForge"}
+{"@Score": "1", "@Id": "15513", "@Title": "How do I track down performance problems with page rendering?"}
+{"@Score": "2", "@Id": "15514", "@Title": "Is there anyway to disable the client-side validation for dojo date text box?"}
+{"@Score": "2", "@Id": "15537", "@Title": "How do I generate ASCII codes 2 and 3 in a Bash command line?"}
+{"@Score": "4", "@Id": "15573", "@Title": "Choosing a new development machine"}
+{"@Score": "0", "@Id": "15583", "@Title": "What are the correct stencils for object relational diagramming in visio?"}
+{"@Score": "27", "@Id": "15593", "@Title": "Practical use of System.WeakReference"}
+{"@Score": "11", "@Id": "15621", "@Title": "Best way to structure a repository in Subversion for Visual Studio projects?"}
+{"@Score": "-1", "@Id": "15632", "@Title": "SSRS - Uninstall Trial Version of VS Business Intelligence"}
+{"@Score": "14", "@Id": "15635", "@Title": "Using Visual Studio to develop for C++ for Unix"}
+{"@Score": "3", "@Id": "15649", "@Title": "Can you really build a fast word processor with GoF Design Patterns?"}
+{"@Score": "4", "@Id": "15656", "@Title": "SSRS - Process dies/goes to sleep after not being used"}
+{"@Score": "22", "@Id": "15674", "@Title": "Subversion revision number across multiple projects"}
+{"@Score": "2", "@Id": "15678", "@Title": "Can I configure VisualStudio 2008 to always build the startup project?"}
+{"@Score": "24", "@Id": "15681", "@Title": "Developer Setup for Starting Out with Cocoa/Mac Programming"}
+{"@Score": "19", "@Id": "15687", "@Title": "How can I convert all line endings to CRLF, LF, or CR during SVN operations"}
+{"@Score": "8", "@Id": "15690", "@Title": "How do you begin designing a large system?"}
+{"@Score": "8", "@Id": "15694", "@Title": "Is the .NET Client Profile worth targetting?"}
+{"@Score": "3", "@Id": "15695", "@Title": "Good Stripes tutorials / examples?"}
+{"@Score": "2", "@Id": "15700", "@Title": "Runtime Configuration in .Net (specifically the EntLib)"}
+{"@Score": "69", "@Id": "15708", "@Title": "How can I determine whether a specific file is open in Windows?"}
+{"@Score": "4", "@Id": "15709", "@Title": "Is this valid YAML?"}
+{"@Score": "2", "@Id": "15716", "@Title": "Design problems with .Net UserControl"}
+{"@Score": "2", "@Id": "15729", "@Title": "Programming Glossary"}
+{"@Score": "3", "@Id": "15731", "@Title": "Looking for a specific FireFox extension / program for Form posting"}
+{"@Score": "140", "@Id": "15732", "@Title": "What's the best way to validate an XML file against an XSD file?"}
+{"@Score": "13", "@Id": "15734", "@Title": "Google Analytics Access with C#"}
+{"@Score": "2", "@Id": "15735", "@Title": "Firefox extension for website interaction recording and repetition"}
+{"@Score": "11", "@Id": "15744", "@Title": "How do you use #define?"}
+{"@Score": "5", "@Id": "15768", "@Title": "Measuring Developer Performance"}
+{"@Score": "4", "@Id": "15774", "@Title": "How do I automate repetitive tasks post-build?"}
+{"@Score": "11", "@Id": "15784", "@Title": "What Visual Studio add-ins do you use?"}
+{"@Score": "2", "@Id": "15788", "@Title": "Minimize javascript HTTP calls from AjaxControlToolkit controls?"}
+{"@Score": "22", "@Id": "15798", "@Title": "How do I validate xml against a DTD file in Python"}
+{"@Score": "6", "@Id": "15805", "@Title": "Why are my auto-run applications acting weird on Vista?"}
+{"@Score": "0", "@Id": "15815", "@Title": "SSRS - Post Publishing Tasks"}
+{"@Score": "72", "@Id": "15816", "@Title": "Changing the resolution of a VNC session in linux"}
+{"@Score": "8", "@Id": "15822", "@Title": "What tools (free or otherwise) do you find useful for developing and debugging C#/C++?"}
+{"@Score": "233", "@Id": "15828", "@Title": "Reading Excel files from C#"}
+{"@Score": "6", "@Id": "15838", "@Title": "Optimizing a search algorithm in C"}
+{"@Score": "40", "@Id": "15841", "@Title": "Visual Studio color theme"}
+{"@Score": "17", "@Id": "15851", "@Title": "Refactoring away labeled loops"}
+{"@Score": "12", "@Id": "15857", "@Title": "CSS Drop-Down Menus - \"Best\"? Most feature-rich?"}
+{"@Score": "17", "@Id": "15871", "@Title": "Getting developers to use a wiki"}
+{"@Score": "16", "@Id": "15880", "@Title": "Read from .msg files"}
+{"@Score": "2", "@Id": "15899", "@Title": "insert/replace XML tag in XmlDocument"}
+{"@Score": "0", "@Id": "15900", "@Title": "Entity diagrams in ASP.NET MVC"}
+{"@Score": "14", "@Id": "15917", "@Title": "Data Auditing in NHibernate and SqlServer"}
+{"@Score": "10", "@Id": "15949", "@Title": "Java+Tomcat, Dying database connection?"}
+{"@Score": "3", "@Id": "15954", "@Title": "How would a sdbm hash function be implemented in C#?"}
+{"@Score": "8", "@Id": "15979", "@Title": "WildcardQuery error in Solr"}
+{"@Score": "82", "@Id": "15995", "@Title": "Useful code which uses reduce() in python"}
+{"@Score": "2", "@Id": "16003", "@Title": "ASP.NET LocationProvider"}
+{"@Score": "30", "@Id": "16007", "@Title": "How do I convert a file path to a URL in ASP.NET"}
+{"@Score": "8", "@Id": "16064", "@Title": "What IDE to use for developing in Ruby on Rails on Windows?"}
+{"@Score": "17", "@Id": "16067", "@Title": "Prototyping with Python code before compiling"}
+{"@Score": "19", "@Id": "16073", "@Title": "Alternatives to Visual Sourcesafe that integrate with Visual Studio"}
+{"@Score": "29", "@Id": "16074", "@Title": "Visual Studio open files question"}
+{"@Score": "90", "@Id": "16096", "@Title": "How to apply multiple styles in WPF"}
+{"@Score": "3", "@Id": "16097", "@Title": "What is the best way to replicate a version control repository?"}
+{"@Score": "196", "@Id": "16100", "@Title": "How do I Convert a string to an enum in C#?"}
+{"@Score": "4", "@Id": "16110", "@Title": "C# Auto Clearing Winform Textbox"}
+{"@Score": "23", "@Id": "16113", "@Title": "Software for Webserver Log Analysis?"}
+{"@Score": "5", "@Id": "16114", "@Title": "C# Include Derived Control in Toolbox"}
+{"@Score": "36", "@Id": "16140", "@Title": "What's the best way to get started with OSGI?"}
+{"@Score": "881", "@Id": "16142", "@Title": "What do \"branch\", \"tag\" and \"trunk\" mean in Subversion repositories?"}
+{"@Score": "3", "@Id": "16145", "@Title": "What's the best way to report errors from a SharePoint workflow?"}
+{"@Score": "2", "@Id": "16155", "@Title": "Making one interface overwrite a method it inherits from another interface in PHP"}
+{"@Score": "1", "@Id": "16161", "@Title": "cvs checkin: Identifying the names of the files checked in"}
+{"@Score": "6", "@Id": "16164", "@Title": "RSS/Atom for professional use"}
+{"@Score": "25", "@Id": "16167", "@Title": "Good refactoring support for C++"}
+{"@Score": "14", "@Id": "16178", "@Title": "Best Way To Determine If .NET 3.5 Is Installed"}
+{"@Score": "3", "@Id": "16199", "@Title": "Web App - Dashboard Type GUI - Interface"}
+{"@Score": "1", "@Id": "16209", "@Title": "Displaying Version Information in a Web Service"}
+{"@Score": "20", "@Id": "16233", "@Title": "Fonts on the Web"}
+{"@Score": "35", "@Id": "16248", "@Title": "Getting the subversion repository number into code"}
+{"@Score": "1", "@Id": "16265", "@Title": "LINQ to SQL Mapping From Money to Double"}
+{"@Score": "30", "@Id": "16298", "@Title": "How to redirect siteA to siteB with A or CNAME records"}
+{"@Score": "5", "@Id": "16306", "@Title": "How to get only directory name from SaveFileDialog.FileName"}
+{"@Score": "20", "@Id": "16317", "@Title": "Creating test data in a database"}
+{"@Score": "3", "@Id": "16320", "@Title": "Should DB layer members be static or instance?"}
+{"@Score": "164", "@Id": "16322", "@Title": "Learning about LINQ"}
+{"@Score": "-1", "@Id": "16326", "@Title": "How can in install VS 2008 without using ~6.5GB of space on my C drive?"}
+{"@Score": "5", "@Id": "16330", "@Title": "How do I handle page flow in MVC (particularly asp.net)"}
+{"@Score": "32", "@Id": "16340", "@Title": "How do I generate a hashcode from a byte array in C#?"}
+{"@Score": "13", "@Id": "16363", "@Title": "How do you configure VS2008 to only open one webserver in a solution with multiple projects?"}
+{"@Score": "18", "@Id": "16396", "@Title": "Easy way for Crystal Reports to MS SQL Server Reporting Services conversion"}
+{"@Score": "1", "@Id": "16402", "@Title": "Easy installation method for windows/ Batch Reference needed?"}
+{"@Score": "6", "@Id": "16403", "@Title": "How do you handle white space in your HTML"}
+{"@Score": "1", "@Id": "16406", "@Title": "Best way to implement a dirty flag in EF"}
+{"@Score": "102", "@Id": "16413", "@Title": "Parse usable Street Address, City, State, Zip from a string"}
+{"@Score": "109", "@Id": "16432", "@Title": "String output: format or concat in C#?"}
+{"@Score": "5", "@Id": "16434", "@Title": "How to Test Numerical Analysis Routines?"}
+{"@Score": "9", "@Id": "16443", "@Title": "Create DB table from dataset table"}
+{"@Score": "3", "@Id": "16447", "@Title": "Select Query on 2 tables, on different database servers"}
+{"@Score": "21", "@Id": "16451", "@Title": "Calling .NET Web Service (WSE 2/3, WS-Security) from Java"}
+{"@Score": "4", "@Id": "16458", "@Title": "Dynamic Alphabetical Navigation"}
+{"@Score": "2", "@Id": "16460", "@Title": "Removing N items from a list conditionally"}
+{"@Score": "19", "@Id": "16473", "@Title": "Can using lambdas as event handlers cause a memory leak?"}
+{"@Score": "13", "@Id": "16483", "@Title": "Convince Firefox to send an If-Modified-Since header over HTTPS"}
+{"@Score": "11", "@Id": "16487", "@Title": "How can I deploy artifacts from a Maven build to the SourceForge File Release System?"}
+{"@Score": "12", "@Id": "16491", "@Title": "Restore database backup over the network"}
+{"@Score": "308", "@Id": "16501", "@Title": "What is a lambda (function)?"}
+{"@Score": "23", "@Id": "16517", "@Title": "Image size for BannerBitmap property in Windows Installer"}
+{"@Score": "1", "@Id": "16529", "@Title": "Communication between Javascript and the server"}
+{"@Score": "35", "@Id": "16550", "@Title": "Best .NET build tool"}
+{"@Score": "5", "@Id": "16556", "@Title": "VS.NET Application Diagrams"}
+{"@Score": "18", "@Id": "16557", "@Title": "Overiding the equals method vs creating a new method"}
+{"@Score": "1", "@Id": "16563", "@Title": "How to write regex to return only certain parts of this string?"}
+{"@Score": "170", "@Id": "16568", "@Title": "How to select the nth row in a SQL database table?"}
+{"@Score": "26", "@Id": "16610", "@Title": "How do you deal with transport-level errors in SqlConnection?"}
+{"@Score": "3", "@Id": "16611", "@Title": "Validation Patterns for Custom XML Documents"}
+{"@Score": "17", "@Id": "16615", "@Title": "Is FindFirstChangeNotification the best API to use for file system change notification on windows?"}
+{"@Score": "1", "@Id": "16616", "@Title": "ArgumentNullException for Integer"}
+{"@Score": "3", "@Id": "16634", "@Title": "What is the best method for checking if a file exists from a SQL Server 2005 stored procedure?"}
+{"@Score": "2", "@Id": "16638", "@Title": "Google Maps API - Problems with class GLatLngBounds"}
+{"@Score": "26", "@Id": "16656", "@Title": "Creating temporary folders"}
+{"@Score": "3", "@Id": "16657", "@Title": "How to affordably release a Web App"}
+{"@Score": "4", "@Id": "16660", "@Title": "Internationalization in SSRS"}
+{"@Score": "17", "@Id": "16689", "@Title": "Java and c# interoperability"}
+{"@Score": "1", "@Id": "16704", "@Title": "Map VS2008 keyboard shortcuts to Eclipse"}
+{"@Score": "26", "@Id": "16716", "@Title": "OpenID authentication in ASP.NET?"}
+{"@Score": "8", "@Id": "16727", "@Title": "how to get locale information on a GWT application"}
+{"@Score": "-1", "@Id": "16739", "@Title": "Where is a good place to find a talented web designer?"}
+{"@Score": "43", "@Id": "16747", "@Title": "What's the best way to implement field validation using ASP.NET MVC?"}
+{"@Score": "3", "@Id": "16759", "@Title": "How do you use back-references to PCREs in PHP?"}
+{"@Score": "23", "@Id": "16762", "@Title": "Are there any tools for merging CSS?"}
+{"@Score": "45", "@Id": "16770", "@Title": "Haskell's algebraic data types"}
+{"@Score": "10", "@Id": "16792", "@Title": "SQL Server Maximum row size"}
+{"@Score": "15", "@Id": "16795", "@Title": "PHPs htmlspecialcharacters equivalent in .NET?"}
+{"@Score": "33", "@Id": "16804", "@Title": "Enterprise Reporting Solutions"}
+{"@Score": "1", "@Id": "16808", "@Title": "Error viewing csproj property pages in VisualStudio2005"}
+{"@Score": "1", "@Id": "16815", "@Title": "Accessing html parameter in PHP"}
+{"@Score": "117", "@Id": "16828", "@Title": "How do you do a case insensitive search using a pattern modifier using less?"}
+{"@Score": "20", "@Id": "16829", "@Title": "Structure of Projects in Version Control"}
+{"@Score": "19", "@Id": "16832", "@Title": "Lightweight source control"}
+{"@Score": "21", "@Id": "16833", "@Title": "How do you download and extract a gzipped file with C#?"}
+{"@Score": "20", "@Id": "16860", "@Title": "Getting Started with Unit Testing"}
+{"@Score": "45", "@Id": "16861", "@Title": "Sanitising user input using Python"}
+{"@Score": "8", "@Id": "16873", "@Title": "Choosing a multiplier for a (string) hash function"}
+{"@Score": "4", "@Id": "16888", "@Title": "Separating What from How - Design in an Agile Environment"}
+{"@Score": "8", "@Id": "16891", "@Title": "VS 2008 - ctrl-tab behavior"}
+{"@Score": "5", "@Id": "16897", "@Title": "Delphi and COM: TLB and maintenance issues"}
+{"@Score": "107", "@Id": "16918", "@Title": "Beginners Guide to Haskell?"}
+{"@Score": "17", "@Id": "16926", "@Title": "Tool for generating CSS skeleton?"}
+{"@Score": "4", "@Id": "16935", "@Title": "Ant's <javac> tasks throws StackOverflowException"}
+{"@Score": "15", "@Id": "16939", "@Title": "Difference between a byte array and MemoryStream"}
+{"@Score": "1", "@Id": "16940", "@Title": "VS 2008 - Detachable code tabs"}
+{"@Score": "0", "@Id": "16945", "@Title": "What is the best way to rename (move) file system branches in .NET?"}
+{"@Score": "9", "@Id": "16963", "@Title": "Who actually uses DataGrid/GridView/FormView/etc in production apps?"}
+{"@Score": "0", "@Id": "16964", "@Title": "Creating your own table with CommandArgument buttons in ASP.NET MVC"}
+{"@Score": "4", "@Id": "16965", "@Title": "JRuby / Rack deployment"}
+{"@Score": "2", "@Id": "16969", "@Title": ".net solution subversion best practices?"}
+{"@Score": "5", "@Id": "16970", "@Title": "Recommended notes/doc service that offers an API?"}
+{"@Score": "35", "@Id": "16971", "@Title": "How do I reset an increment identity's starting value in SQL Server"}
+{"@Score": "141", "@Id": "16991", "@Title": "What Ruby IDE do you prefer?"}
+{"@Score": "11", "@Id": "16998", "@Title": "Reading \"chunked\" response with HttpWebResponse"}
+{"@Score": "23", "@Id": "17017", "@Title": "How do I parse and convert DateTime's to the RFC 3339 date-time format?"}
+{"@Score": "4", "@Id": "17020", "@Title": "What is the best way to partition terabyte drive in a linux development machine?"}
+{"@Score": "22", "@Id": "17032", "@Title": "Should I *always* favour implictly typed local variables in C# 3.0?"}
+{"@Score": "1", "@Id": "17054", "@Title": "Sockets in Pascal"}
+{"@Score": "10", "@Id": "17056", "@Title": "SQL Server Full Text Searching"}
+{"@Score": "3", "@Id": "17057", "@Title": "What is the best way to gzip and cache static images in Asp.net mvc"}
+{"@Score": "1", "@Id": "17085", "@Title": "Escaping XML tag contents"}
+{"@Score": "3", "@Id": "17098", "@Title": "What's the best way to authenticate over WCF?"}
+{"@Score": "127", "@Id": "17106", "@Title": "How to generate sample XML documents from their DTD or XSD?"}
+{"@Score": "4", "@Id": "17108", "@Title": "Where to start with CruiseControl.NET"}
+{"@Score": "5", "@Id": "17117", "@Title": "C++ std::tr2 for VS2005"}
+{"@Score": "10", "@Id": "17125", "@Title": "What are real life applications of yield?"}
+{"@Score": "2", "@Id": "17127", "@Title": "Can you link 68K code compiled with CodeWarrior for Palm OS with code compiled with PRC-Tools (GCC)?"}
+{"@Score": "16", "@Id": "17140", "@Title": "How do you spawn another process in C?"}
+{"@Score": "101", "@Id": "17170", "@Title": "When to use IList and when to use List"}
+{"@Score": "5", "@Id": "17172", "@Title": "Implementing permissions in PHP"}
+{"@Score": "13", "@Id": "17175", "@Title": "What's your top feature request for Silverlight?"}
+{"@Score": "9", "@Id": "17181", "@Title": "Test Cases VS ASSERTION statement"}
+{"@Score": "4", "@Id": "17194", "@Title": "SQL query to compare product sales by month"}
+{"@Score": "7", "@Id": "17225", "@Title": "How can Perl's system() print the command that it's running?"}
+{"@Score": "44", "@Id": "17228", "@Title": "What tools do you use to develop C++ applications on Linux?"}
+{"@Score": "4", "@Id": "17231", "@Title": "Why shouldn't I \"bet the future of the company\" on shell scripts?"}
+{"@Score": "23", "@Id": "17250", "@Title": "Create an encrypted ZIP file in Python"}
+{"@Score": "0", "@Id": "17269", "@Title": "Hyperlinks displaced on IE7"}
+{"@Score": "5", "@Id": "17274", "@Title": "REALLY Simple Website--How Basic Can You Go?"}
+{"@Score": "5", "@Id": "17289", "@Title": "iFrame Best Practices"}
+{"@Score": "1", "@Id": "17299", "@Title": "How can I sort an array of double pointers based on the values they point to?"}
+{"@Score": "8", "@Id": "17320", "@Title": "What areas of specialization within programming would you recommend to a beginner"}
+{"@Score": "259", "@Id": "17333", "@Title": "Most effective way for float and double comparison"}
+{"@Score": "12", "@Id": "17352", "@Title": "What are OpenGL extensions, and what are the benefits/tradeoffs of using them?"}
+{"@Score": "164", "@Id": "17359", "@Title": "How do I send a file as an email attachment using Linux command line?"}
+{"@Score": "16", "@Id": "17370", "@Title": "Using GLEW to use OpenGL extensions under Windows"}
+{"@Score": "7", "@Id": "17373", "@Title": "How do I open the default mail program with a Subject and Body in a cross-platform way?"}
+{"@Score": "3", "@Id": "17376", "@Title": "How would you implement FORM based authentication without a backing database?"}
+{"@Score": "3", "@Id": "17387", "@Title": "Privatizing a BlogEngine.Net Installation"}
+{"@Score": "17", "@Id": "17411", "@Title": "How do you separate game logic from display?"}
+{"@Score": "1", "@Id": "17430", "@Title": "Language Conversion Testing"}
+{"@Score": "181", "@Id": "17434", "@Title": "When should you use 'friend' in C++?"}
+{"@Score": "13", "@Id": "17435", "@Title": "Will server-side JavaScript take off? Which implementation is most stable?"}
+{"@Score": "10", "@Id": "17469", "@Title": "IE6 - can't load a normal JPG"}
+{"@Score": "13", "@Id": "17483", "@Title": "Is there a way to prevent a method from being overridden in subclasses?"}
+{"@Score": "19", "@Id": "17500", "@Title": "Why are DispatcherObject.CheckAccess() and VerifyAccess() hidden from Intellisense?"}
+{"@Score": "2", "@Id": "17508", "@Title": "How to modify the style property of a font on Windows?"}
+{"@Score": "18", "@Id": "17532", "@Title": "ASP.NET Custom Controls - Composites"}
+{"@Score": "24", "@Id": "17533", "@Title": "Request Windows Vista UAC elevation if path is protected?"}
+{"@Score": "7", "@Id": "17561", "@Title": "Recommendations for browser add-on tools to help with development"}
+{"@Score": "3", "@Id": "17575", "@Title": "Tool for generation MSDN-like documentation from <summary> tags?"}
+{"@Score": "23", "@Id": "17576", "@Title": "Non Public Members for C# Interfaces"}
+{"@Score": "25", "@Id": "17586", "@Title": "Best word wrap algorithm?"}
+{"@Score": "4", "@Id": "17609", "@Title": "Email queueing in php"}
+{"@Score": "25", "@Id": "17612", "@Title": "How do you place a file in recycle bin instead of delete?"}
+{"@Score": "7", "@Id": "17624", "@Title": "What is the easiest way using T-SQL / MS-SQL to append a string to existing table cells?"}
+{"@Score": "11", "@Id": "17645", "@Title": "Differences between unix and windows files"}
+{"@Score": "8", "@Id": "17653", "@Title": "Which Vista edition is the best for developer machine?"}
+{"@Score": "2", "@Id": "17664", "@Title": "Retreiving the PC Name of a Client? (Windows Auth)"}
+{"@Score": "1", "@Id": "17670", "@Title": "Suitable alternative to CryptEncrypt"}
+{"@Score": "7", "@Id": "17679", "@Title": "Why does Guid.ToString() reverse the byte order?"}
+{"@Score": "8", "@Id": "17681", "@Title": "WebSVN with VisualSVN Server, anyone gotten authentication to work?"}
+{"@Score": "2", "@Id": "17704", "@Title": "Unix subsystem for windows"}
+{"@Score": "5", "@Id": "17715", "@Title": "When is a file just a file?"}
+{"@Score": "24", "@Id": "17717", "@Title": "Migrating from MySQL to PostgreSQL"}
+{"@Score": "8", "@Id": "17721", "@Title": "Experience with Hadoop?"}
+{"@Score": "13", "@Id": "17725", "@Title": "Large, Complex Objects as a Web Service Result"}
+{"@Score": "77", "@Id": "17732", "@Title": "When should assertions stay in production code?"}
+{"@Score": "4", "@Id": "17735", "@Title": "Repository organisation"}
+{"@Score": "10", "@Id": "17770", "@Title": "Tracking Useful Information"}
+{"@Score": "13", "@Id": "17772", "@Title": "Anyone know a quick way to get to custom attributes on an enum value?"}
+{"@Score": "10", "@Id": "17781", "@Title": "What Certificate Authority Software is Available?"}
+{"@Score": "1", "@Id": "17785", "@Title": "Default Internet connection on Dual LAN Workstation"}
+{"@Score": "6", "@Id": "17786", "@Title": "Warning C4341 - 'XX': signed value is out of range for enum constant"}
+{"@Score": "3", "@Id": "17795", "@Title": "Getting the Remote Name Address (not IP)"}
+{"@Score": "181", "@Id": "17806", "@Title": "Warning: Found conflicts between different versions of the same dependent assembly"}
+{"@Score": "11", "@Id": "17817", "@Title": "Recommendation for javascript form validation library"}
+{"@Score": "2", "@Id": "17825", "@Title": "best practice for releasing Microsoft dll's in setup"}
+{"@Score": "18", "@Id": "17840", "@Title": "How can I learn about parser combinators?"}
+{"@Score": "7", "@Id": "17845", "@Title": "RDF storage"}
+{"@Score": "18", "@Id": "17865", "@Title": "Good Open Source Queuing Platform?"}
+{"@Score": "9", "@Id": "17870", "@Title": "Select ..... where .... OR "}
+{"@Score": "2", "@Id": "17877", "@Title": "How to encrypt connection string in WinForms 1.1 app.config?"}
+{"@Score": "13", "@Id": "17878", "@Title": "Listen for events in another application"}
+{"@Score": "1", "@Id": "17880", "@Title": "Mac iWork/Pages Automation"}
+{"@Score": "35", "@Id": "17893", "@Title": "What's the best way to distribute python command-line tools?"}
+{"@Score": "18", "@Id": "17906", "@Title": "Enabling a button in WPF depending on ListBox.SelectedIndex"}
+{"@Score": "1", "@Id": "17911", "@Title": "Best Practices for AS3 XML Parsing"}
+{"@Score": "5", "@Id": "17922", "@Title": "Any recommendations for lightweight .net Win Forms HTML renderer controls?"}
+{"@Score": "3", "@Id": "17928", "@Title": "Using an ocx in a console application"}
+{"@Score": "2", "@Id": "17939", "@Title": "When do you use sIFR?"}
+{"@Score": "191", "@Id": "17944", "@Title": "How to Round Up The Result Of Integer Division"}
+{"@Score": "2", "@Id": "17947", "@Title": "C# Corrupt Memory Error"}
+{"@Score": "1", "@Id": "17948", "@Title": "Automating WSDL.exe in a Custom Build"}
+{"@Score": "0", "@Id": "17955", "@Title": "Solution deployment, CM, InstallShield"}
+{"@Score": "14", "@Id": "17960", "@Title": "PowerShell App.Config"}
+{"@Score": "96", "@Id": "17965", "@Title": "generate a core dump in linux"}
+{"@Score": "2", "@Id": "17966", "@Title": "Add a shortcut to Startup folder with parameters in Adobe AIR"}
+{"@Score": "3", "@Id": "17975", "@Title": "Can you recommend a good free code generator?"}
+{"@Score": "4", "@Id": "17980", "@Title": "What Comes After The %?"}
+{"@Score": "6", "@Id": "17984", "@Title": "AnkhSVN Cannot Connect Due to Proxy"}
+{"@Score": "8", "@Id": "17993", "@Title": "Easy way to backport Java 6 code to Java 5?"}
+{"@Score": "16", "@Id": "18006", "@Title": "Recommendations for a .NET component to access an email inbox"}
+{"@Score": "24", "@Id": "18010", "@Title": "Is AnkhSVN any good?"}
+{"@Score": "16", "@Id": "18034", "@Title": "How do I create a self signed SSL certificate to use while testing a web app"}
+{"@Score": "7", "@Id": "18035", "@Title": "Why go 64 bit OS?"}
+{"@Score": "3", "@Id": "18059", "@Title": "Prevent WebBrowser control from swallowing exceptions"}
+{"@Score": "8", "@Id": "18075", "@Title": "SQL/Query tools?"}
+{"@Score": "9", "@Id": "18077", "@Title": "The best way of checking for -moz-border-radius support"}
+{"@Score": "5", "@Id": "18080", "@Title": "Best traffic / performance / usage monitoring module?"}
+{"@Score": "1451", "@Id": "18082", "@Title": "Validate decimal numbers in JavaScript - IsNumeric()"}
+{"@Score": "13", "@Id": "18088", "@Title": "Are there any studies comparing Java EE vs. .NET?"}
+{"@Score": "1", "@Id": "18093", "@Title": "Modifying Cruise Control.NET"}
+{"@Score": "30", "@Id": "18097", "@Title": "In C#, do you need to call the base constructor?"}
+{"@Score": "1", "@Id": "18104", "@Title": "Standalone tools for debugging stored procedures"}
+{"@Score": "2", "@Id": "18119", "@Title": "How to keep track of the references to an object?"}
+{"@Score": "33", "@Id": "18132", "@Title": "ADO.NET Entity vs NHibernate"}
+{"@Score": "4", "@Id": "18166", "@Title": "cURL adding whitespace to post content?"}
+{"@Score": "4", "@Id": "18167", "@Title": "What's the ASP.NET Connection String Format for a Linked Server?"}
+{"@Score": "12", "@Id": "18172", "@Title": "Copying Files over an Intermittent Network Connection"}
+{"@Score": "1", "@Id": "18194", "@Title": "Best way to learn SQL Server"}
+{"@Score": "12", "@Id": "18197", "@Title": "How do you test the usability of your user interfaces"}
+{"@Score": "2", "@Id": "18199", "@Title": "How do I generate scripts that will rebuild my MS SQL Server 2005 database with data?"}
+{"@Score": "2", "@Id": "18216", "@Title": "Query a union table with fields as columns"}
+{"@Score": "2", "@Id": "18223", "@Title": "SQL Server 2005 insert trigger not inserting enough records"}
+{"@Score": "6", "@Id": "18224", "@Title": "Whats the best way to securely publish a site post build?"}
+{"@Score": "0", "@Id": "18250", "@Title": "Creation Date of Compiled Executable (VC++ 2005)"}
+{"@Score": "8", "@Id": "18253", "@Title": "Unit testing kernel drivers"}
+{"@Score": "7", "@Id": "18265", "@Title": "Getting stack traces on Unix systems, automatically"}
+{"@Score": "2", "@Id": "18272", "@Title": "Recommend a tool to manage Extended Properties in SQL server 2005"}
+{"@Score": "10", "@Id": "18284", "@Title": "Best Way to Begin Learning Web Application Design"}
+{"@Score": "48", "@Id": "18290", "@Title": "How Do You Secure database.yml?"}
+{"@Score": "50", "@Id": "18291", "@Title": "Unit testing in Delphi - how are you doing it?"}
+{"@Score": "64", "@Id": "18292", "@Title": "What are some good SSH Servers for windows?"}
+{"@Score": "1", "@Id": "18298", "@Title": "How do I change the title bar icon in Adobe AIR?"}
+{"@Score": "3", "@Id": "18305", "@Title": "Web server farms with IIS ? Basic Infos"}
+{"@Score": "3", "@Id": "18324", "@Title": "Mixing 32 bit and 16 bit code with nasm"}
+{"@Score": "3", "@Id": "18326", "@Title": "TCL development: debug environment"}
+{"@Score": "4", "@Id": "18338", "@Title": "Software Development Life Cycle Resources"}
+{"@Score": "2", "@Id": "18348", "@Title": "I would like some tips for debugging WCF Web Service exceptions"}
+{"@Score": "3", "@Id": "18389", "@Title": "Managing a project vs Managing a Development"}
+{"@Score": "7", "@Id": "18391", "@Title": "How would I get started writing my own firewall?"}
+{"@Score": "9", "@Id": "18407", "@Title": "Most succinct way to determine if a variable equals a value from a 'list' of values"}
+{"@Score": "2", "@Id": "18413", "@Title": "Get a number from a sql string range"}
+{"@Score": "42", "@Id": "18418", "@Title": "Elegant way to remove items from sequence in Python?"}
+{"@Score": "1", "@Id": "18419", "@Title": "How To Get Label Of Combobox to Fade In Flex"}
+{"@Score": "13", "@Id": "18421", "@Title": "Best way to bind Windows Forms properties to ApplicationSettings in C#?"}
+{"@Score": "3", "@Id": "18432", "@Title": "I can share a SQL Server Reporting Services Data SOURCE... what about a Data SET?"}
+{"@Score": "14", "@Id": "18448", "@Title": "Encryption in C# Web-Services"}
+{"@Score": "7", "@Id": "18449", "@Title": "Dealing with PHP server and MySQL server in different time zones"}
+{"@Score": "302", "@Id": "18450", "@Title": "Is Mono ready for prime time?"}
+{"@Score": "1", "@Id": "18460", "@Title": "Best practise to authorize all users for just one page"}
+{"@Score": "12", "@Id": "18465", "@Title": ".Net Parse versus Convert"}
+{"@Score": "7", "@Id": "18505", "@Title": "Sending a mouse click to a button in the taskbar using C#"}
+{"@Score": "52", "@Id": "18524", "@Title": "Java: Best way of converting List<Integer> to List<String>"}
+{"@Score": "17", "@Id": "18533", "@Title": "C#: What Else Do You Use Besides DataSet"}
+{"@Score": "70", "@Id": "18538", "@Title": "shortcut for creating a Map from a List in groovy?"}
+{"@Score": "1", "@Id": "18584", "@Title": "Exact age calculation"}
+{"@Score": "2", "@Id": "18585", "@Title": "Why can't you bind the Size of a windows form to ApplicationSettings?"}
+{"@Score": "25", "@Id": "18601", "@Title": "Best practice for integrating TDD with web application development?"}
+{"@Score": "8", "@Id": "18606", "@Title": "Accessing an Exchange Server without Outlook"}
+{"@Score": "3", "@Id": "18608", "@Title": "Is it a bad idea to expose inheritance hierarchy in namespace structure?"}
+{"@Score": "3", "@Id": "18614", "@Title": "What is the best way to write a form in ASP.NET MVC?"}
+{"@Score": "48", "@Id": "18617", "@Title": "How do you configure tomcat to bind to a single ip address (localhost) instead of all addresses?"}
+{"@Score": "44", "@Id": "18632", "@Title": "How to monitor a text file in realtime"}
+{"@Score": "31", "@Id": "18642", "@Title": "What is the most unreadable programming language?"}
+{"@Score": "132", "@Id": "18655", "@Title": "Why do we need entity objects?"}
+{"@Score": "4", "@Id": "18661", "@Title": "Getting UI text from external app in C#"}
+{"@Score": "125", "@Id": "18671", "@Title": "Quick easy way to migrate SQLite3 to MySQL?"}
+{"@Score": "1", "@Id": "18675", "@Title": "I/O permission settings using .net installer"}
+{"@Score": "27", "@Id": "18676", "@Title": "Random integer in VB.NET"}
+{"@Score": "17", "@Id": "18685", "@Title": "How to display \"12 minutes ago\" etc in a PHP webpage?"}
+{"@Score": "2", "@Id": "18696", "@Title": "GUI Automation testing - Window handle questions"}
+{"@Score": "9", "@Id": "18700", "@Title": "Arguments for going open source"}
+{"@Score": "1", "@Id": "18702", "@Title": "Webservice alive forever"}
+{"@Score": "0", "@Id": "18705", "@Title": "Anyone know how to create Projects/Tasks for Project Server 2003 via C#?"}
+{"@Score": "77", "@Id": "18717", "@Title": "Are foreign keys really necessary in a database design?"}
+{"@Score": "7", "@Id": "18719", "@Title": "How can I prevent a server from becoming locked after a Remote Desktop session"}
+{"@Score": "15", "@Id": "18754", "@Title": "How can I convert Markdown documents to HTML en masse?"}
+{"@Score": "13", "@Id": "18757", "@Title": "Using ASP.NET MVC, how to best avoid writing both the Add View and Edit View?"}
+{"@Score": "46", "@Id": "18764", "@Title": "What's the difference between a Table Scan and a Clustered Index Scan?"}
+{"@Score": "11", "@Id": "18765", "@Title": "Importing C++ enumerations into C#"}
+{"@Score": "0", "@Id": "18772", "@Title": "How to create a new instance of Sql Server 2005"}
+{"@Score": "115", "@Id": "18783", "@Title": "Favourite performance tuning tricks"}
+{"@Score": "5", "@Id": "18787", "@Title": "Asp.net MVC User Control ViewData"}
+{"@Score": "82", "@Id": "18803", "@Title": "Is UML practical?"}
+{"@Score": "214", "@Id": "18814", "@Title": "Best UML Application for MAC OSX / Cross Platform"}
+{"@Score": "16", "@Id": "18836", "@Title": "Why doesn't **find** find anything?"}
+{"@Score": "2", "@Id": "18858", "@Title": "Batch code indenters and beautifiers"}
+{"@Score": "2", "@Id": "18861", "@Title": "What did I do wrong here? [Javascript Regex]"}
+{"@Score": "7", "@Id": "18869", "@Title": "How to install a plugin for QtWebKit"}
+{"@Score": "6", "@Id": "18889", "@Title": "SQL 2008 Dialect Support for NHibernate"}
+{"@Score": "126", "@Id": "18912", "@Title": "How to find keys of a hash?"}
+{"@Score": "47", "@Id": "18918", "@Title": "Can I access ASP.NET Development server in an intranet?"}
+{"@Score": "2", "@Id": "18920", "@Title": "Can you set, or where is, the local document root?"}
+{"@Score": "594", "@Id": "18932", "@Title": "How can I remove duplicate rows?"}
+{"@Score": "5", "@Id": "18943", "@Title": "Obscuring network proxy password in plain text files on Linux/UNIX-likes"}
+{"@Score": "19", "@Id": "18952", "@Title": "What is your reporting tool of choice?"}
+{"@Score": "2", "@Id": "18955", "@Title": "Disabling multi-line fields in MS Access"}
+{"@Score": "3", "@Id": "18959", "@Title": "How to match linux device path to windows drive name?"}
+{"@Score": "19", "@Id": "18984", "@Title": "What do you think of developing for the command line first?"}
+{"@Score": "73", "@Id": "18985", "@Title": "What Javascript code beautifier can I use via the command line on Windows and Linux?"}
+{"@Score": "6", "@Id": "19011", "@Title": "Best practice for storing large amounts of data with J2ME"}
+{"@Score": "5", "@Id": "19014", "@Title": "Using Lucene to search for email addresses"}
+{"@Score": "2", "@Id": "19030", "@Title": "How to check set of files conform to a naming scheme"}
+{"@Score": "25", "@Id": "19035", "@Title": "JavaScript Load Order"}
+{"@Score": "7", "@Id": "19047", "@Title": "TortoiseSVN side-by-side configuration is incorrect"}
+{"@Score": "11", "@Id": "19058", "@Title": "What is the difference between oracle's 'yy' and 'rr' date mask?"}
+{"@Score": "4", "@Id": "19084", "@Title": "A good p2p file transfer program for LANs"}
+{"@Score": "3", "@Id": "19089", "@Title": "How do I do an Upsert Into Table?"}
+{"@Score": "5", "@Id": "19096", "@Title": "What .NET Mime Parsing libraries are available?"}
+{"@Score": "4", "@Id": "19113", "@Title": "Should menu items always be enabled? And how do you tell the user?"}
+{"@Score": "26", "@Id": "19122", "@Title": "Bash Pipe Handling"}
+{"@Score": "3", "@Id": "19127", "@Title": "Best way to fix CSS/JS drop-down in IE7 when page includes Google Map"}
+{"@Score": "305", "@Id": "19132", "@Title": "Expression Versus Statement"}
+{"@Score": "306", "@Id": "19147", "@Title": "What is the correct way to create a single instance application?"}
+{"@Score": "219", "@Id": "19151", "@Title": "How to make class iterable?"}
+{"@Score": "13", "@Id": "19162", "@Title": "PHP Script to populate MySQL tables"}
+{"@Score": "71", "@Id": "19164", "@Title": "Do You Really Know Your Programming Languages?"}
+{"@Score": "6", "@Id": "19173", "@Title": "Are there reasons not to use JSONP for AJA~X requests?"}
+{"@Score": "3", "@Id": "19185", "@Title": "Is there a way to check to see if the user is currently idle?"}
+{"@Score": "6", "@Id": "19193", "@Title": "How to make a tree in C++?"}
+{"@Score": "24", "@Id": "19201", "@Title": "Accurev SCM"}
+{"@Score": "7", "@Id": "19235", "@Title": "Agile architectures"}
+{"@Score": "8", "@Id": "19236", "@Title": "Forms Authentication across Applications"}
+{"@Score": "4", "@Id": "19245", "@Title": "IIS 6/COM+ hangs"}
+{"@Score": "15", "@Id": "19280", "@Title": "Code to ask yes/no question in javascript"}
+{"@Score": "2", "@Id": "19294", "@Title": "Calling base Methods When Overriding Page Level Events"}
+{"@Score": "4", "@Id": "19295", "@Title": "Database backed i18n for java web-app"}
+{"@Score": "12", "@Id": "19314", "@Title": "Alternatives to Windows Workflow Foundation?"}
+{"@Score": "3", "@Id": "19318", "@Title": "Calling ASP.NET web service from ASP using SOAPClient"}
+{"@Score": "169", "@Id": "19339", "@Title": "A Transpose/Unzip Function in Python (inverse of zip)"}
+{"@Score": "10", "@Id": "19347", "@Title": "What is the best way to go from Java/C# to C++?"}
+{"@Score": "3", "@Id": "19349", "@Title": "\"Data Execution Prevention\" kills (VS2008) local ASP.Net Development Server (aka Cassini) on Vista 64"}
+{"@Score": "17", "@Id": "19353", "@Title": "Detecting audio silence in WAV files using C#"}
+{"@Score": "3", "@Id": "19355", "@Title": "How to manage Configuration Settings for each Developer"}
+{"@Score": "2", "@Id": "19358", "@Title": "Experience documentation about Shared Nothing Architecture"}
+{"@Score": "4", "@Id": "19387", "@Title": "Rich GUI OS X Frameworks?"}
+{"@Score": "5", "@Id": "19388", "@Title": "GOTO command in PHP?"}
+{"@Score": "1", "@Id": "19401", "@Title": "Anyway to stop Windows bringing app to front when displaying a context menu on tray icon?"}
+{"@Score": "7", "@Id": "19409", "@Title": "Incrementing from 0 to 100 in assembly language"}
+{"@Score": "249", "@Id": "19412", "@Title": "How to request a random row in SQL?"}
+{"@Score": "4", "@Id": "19433", "@Title": "What is a good free library for editing MP3s/FLACs?"}
+{"@Score": "4", "@Id": "19436", "@Title": "Delete Datalist row with multiple primary keys"}
+{"@Score": "8", "@Id": "19437", "@Title": "Custom font in SQL Server 2005 Reporting Services"}
+{"@Score": "20", "@Id": "19442", "@Title": "how to allow files starting with period and no extension in windows 2003 server?"}
+{"@Score": "0", "@Id": "19445", "@Title": "Content Management system recommendations"}
+{"@Score": "1", "@Id": "19448", "@Title": "In a DDS file can you detect textures with 0/1 alpha bits?"}
+{"@Score": "15", "@Id": "19454", "@Title": "Enforce Attribute Decoration of Classes/Methods"}
+{"@Score": "1", "@Id": "19458", "@Title": "Which RDBMS should I use?"}
+{"@Score": "5", "@Id": "19461", "@Title": "Click an image, get coordinates"}
+{"@Score": "13", "@Id": "19466", "@Title": "Check file permissions"}
+{"@Score": "1", "@Id": "19471", "@Title": "Weird yellow bar pops-up: 'Microsoft Data Access - Remote Data Services"}
+{"@Score": "13", "@Id": "19481", "@Title": "Is data binding a bad idea?"}
+{"@Score": "18", "@Id": "19487", "@Title": "What's the best way to go from a Photoshop mockup to semantic HTML and CSS?"}
+{"@Score": "30", "@Id": "19493", "@Title": "mod_rewrite rule to redirect all requests except for one specific path"}
+{"@Score": "3", "@Id": "19516", "@Title": "SQL2005: Linking a table to multiple tables and retaining Ref Integrity?"}
+{"@Score": "6", "@Id": "19517", "@Title": "Is anybody using the Specter BDD Framework?"}
+{"@Score": "3", "@Id": "19519", "@Title": "Do you use virtualized desktops for legacy/seldom used applications?"}
+{"@Score": "8", "@Id": "19553", "@Title": "Enforcing required function call"}
+{"@Score": "48", "@Id": "19589", "@Title": "Loading System.ServiceModel configuration section using ConfigurationManager"}
+{"@Score": "26", "@Id": "19604", "@Title": "Best TinyMce editor Image Manager / File upload for Asp.net Mvc"}
+{"@Score": "13", "@Id": "19611", "@Title": "How to patch on Windows?"}
+{"@Score": "1", "@Id": "19653", "@Title": "Is Visual C++ memory managed by the Dot Net framework"}
+{"@Score": "5", "@Id": "19654", "@Title": "Introducing Python"}
+{"@Score": "5", "@Id": "19656", "@Title": "How to find an implementation of a C# interface in the current assembly with a specific name?"}
+{"@Score": "0", "@Id": "19708", "@Title": "Fast(er) way to get file inode using PHP"}
+{"@Score": "11", "@Id": "19713", "@Title": "Interlocked.Exchange, but not for booleans?"}
+{"@Score": "3", "@Id": "19721", "@Title": "How do I secure my new web server (Server 2008)?"}
+{"@Score": "8", "@Id": "19725", "@Title": "How do I unregister COM dlls initially added with RegSvr32 when the /u arg doesn't work?"}
+{"@Score": "8", "@Id": "19728", "@Title": "What is the best strategy for retainment of large data sets?"}
+{"@Score": "2", "@Id": "19744", "@Title": "Trigger without a transaction?"}
+{"@Score": "43", "@Id": "19746", "@Title": "Views in separate assemblies in ASP.NET MVC"}
+{"@Score": "59", "@Id": "19758", "@Title": "Tools for PHP code refactoring"}
+{"@Score": "19", "@Id": "19766", "@Title": "How do I make a list with checkboxes in Java Swing?"}
+{"@Score": "86", "@Id": "19772", "@Title": "CMD.exe replacement"}
+{"@Score": "3", "@Id": "19773", "@Title": "Huge Web App With Memory Leak in IE 6"}
+{"@Score": "2", "@Id": "19786", "@Title": "Local Currency String conversion"}
+{"@Score": "23", "@Id": "19787", "@Title": "How Do I Find a File in a Subversion Repository History?"}
+{"@Score": "8", "@Id": "19790", "@Title": "Display rows in multiple columns in Asp.net Gridview"}
+{"@Score": "1", "@Id": "19803", "@Title": "Profiling/Optimizing (Sharepoint 2007) Web Parts"}
+{"@Score": "3", "@Id": "19837", "@Title": "PHP with SQL Server 2005+"}
+{"@Score": "6", "@Id": "19838", "@Title": "Ruby blocks/Java closures in C"}
+{"@Score": "12", "@Id": "19843", "@Title": "Generics in c# & accessing the static members of T"}
+{"@Score": "22", "@Id": "19852", "@Title": "Maximum length of a MIME Content-Type header field?"}
+{"@Score": "19", "@Id": "19883", "@Title": "Is there a bug/issue tracking system which integrates with Mercurial?"}
+{"@Score": "78", "@Id": "19893", "@Title": "How do you embed binary data in XML?"}
+{"@Score": "6", "@Id": "19933", "@Title": "How to copy a file in C#"}
+{"@Score": "14", "@Id": "19941", "@Title": "How do I redirect a user to a custom 404 page in ASP.NET MVC instead of throwing an exception?"}
+{"@Score": "1", "@Id": "19952", "@Title": "Algorithm to perform RFC calculation in Java"}
+{"@Score": "0", "@Id": "19953", "@Title": "How do I stop MS Graph component popping up during Interop?"}
+{"@Score": "2", "@Id": "19956", "@Title": "What to use Windows CardSpace for?"}
+{"@Score": "10", "@Id": "19963", "@Title": "What's the best way of diffing Crystal Reports?"}

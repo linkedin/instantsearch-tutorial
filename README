@@ -5,10 +5,10 @@ es/bin/elasticsearch
 
 Indexing:
 Instant results:
-python apps/stackexchange/indexing/simple_index.py --i data/stackoverflow/posts_100.json
+python apps/stackexchange/indexing/simple_index.py --i data/stackoverflow/posts_small.json
 
 Query autocomplete
-python apps/stackexchange/indexing/query_autocomplete.py --i data/stackoverflow/Tags.xml
+python apps/stackexchange/indexing/query_autocomplete.py --i data/stackoverflow/Tags_small.xml
 
 Start simple backend service to parse es data:
 

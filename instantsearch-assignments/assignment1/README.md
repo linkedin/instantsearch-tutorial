@@ -6,7 +6,7 @@ At the end of this assignment you should have two indicies one for instant resul
 
 ### Dataset
 The dataset that we will be working today has been taken from the stackoverflow data dump. The dataset has been simiplified for readability and to allow users to focus on retrieval and ranking aspects. The dataset is divided into two files:
-* **Tags.xml** - This file contains the information of the tags, tag post id and count of posts associated with the tag.
+* **Tags_small.xml** - This file contains the information of the tags, tag post id and count of posts associated with the tag.
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <tags>
@@ -14,7 +14,7 @@ The dataset that we will be working today has been taken from the stackoverflow 
 </tags>  
 ```
 
-* **posts_10K.json** - This file contains one post per line along with the id, title and a [score](http://meta.stackexchange.com/questions/229255/what-is-the-score-of-a-post) as voted by the users.
+* **posts_small.json** - This file contains one post per line along with the id, title and a [score](http://meta.stackexchange.com/questions/229255/what-is-the-score-of-a-post) as voted by the users.
 ```json
 {"@Score": "358", "@Id": "4", "@Title": "When setting a form's opacity should I use a decimal or double?"}
 ```

@@ -16,13 +16,15 @@ def create_index():
     requests.delete(url)
 
     # Recreate the index with our choice of analyzer
-    # TODO: Write the index settings json. This will include number of shards and field analysis strategy
+    # TODO: Write the index settings json. This will include number
+    # of shards and field analysis strategy
     index_settings = {}
 
     url = LOCAL_HOST + '/' + INDEX_NAME
     requests.put(url=url, data=json.dumps(index_settings))
 
-    # TODO: Setup the index mappings by specifying field properties, analyzers and type
+    # TODO: Setup the index mappings by specifying field properties,
+    # analyzers and type
     index_mapping = {}
 
     url = LOCAL_HOST + '/' + INDEX_NAME + '/' + FIELD_NAME + '/_mapping'

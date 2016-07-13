@@ -10,7 +10,8 @@ def create_index():
     url = 'http://localhost:9200/stackoverflowtags'
     requests.delete(url)
     requests.put(url)
-    # TODO: Setup the index mappings by specifying field properties, analyzers and type
+    # TODO: Setup the index mappings by specifying field properties,
+    # analyzers and type
     mapping = {}
     url = 'http://localhost:9200/stackoverflowtags/tag/_mapping'
     requests.put(url=url, data=json.dumps(mapping))

@@ -13,8 +13,12 @@ The goal of this assignment is get your system in shape to build and run the ins
 Run the following commands to setup the python environment and run elasticsearch on your machine.
 
 ```sh
-$ cd ~/workspace/instantsearch-tutorial/instantsearch-assignments/assigment0/exercises
-$ pip install -r requirements.txt
+$ mkdir ~/workspace
+$ cd ~/workspace
+$ git clone https://github.com/linkedin/instantsearch-tutorial.git
+$ cd ~/workspace/instantsearch-tutorial/instantsearch-assignments/assigment0/exercise
+$ sudo easy_install pip
+$ sudo pip install -r requirements.txt
 $ unzip elasticsearch-2.3.4.zip -d ~/workspace/instantsearch-tutorial
 $ ~/workspace/instantsearch-tutorial/elasticsearch-2.3.4/bin/elasticsearch
 ```

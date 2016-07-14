@@ -1,17 +1,31 @@
-How to run simple indexing and search.
+Step 1 - System setup:
 
-Start an instance of elastic search:
-es/bin/elasticsearch
+Please go through assignment0 listed in:
+instantsearch-assignments/assignment0
 
-Indexing:
-Instant results:
-python apps/stackexchange/indexing/simple_index.py --i data/stackoverflow/posts_small.json
+This will ensure that you have the setup as well the dependecies installed.
 
-Query autocomplete
-python apps/stackexchange/indexing/query_autocomplete.py --i data/stackoverflow/Tags_small.xml
+Step 2 - Indexing:
 
-Start simple backend service to parse es data:
+Start an instance of elasticsearch:
+<your_elasticsearch_location>/bin/elasticsearch
 
-python apps/stackexchange/backend/simplify_es_output.py 
+Index instant results:
 
-Open typeahead/es.html
+python src/indexing/simple_index.py --i data/stackoverflow/posts_small.json
+
+Query autocomplete via FST:
+
+python src/indexing/query_autocomplete.py --i data/stackoverflow/Tags_small.xml
+
+Step 3 - start the mid-tier service to call hit both the indices above and
+blend results
+
+python src/backend/simplify_es_output.py
+
+This will start a serive in port 8080
+
+Step 4 - front end
+
+Open the following file in your browser:
+src/frontend/es.html

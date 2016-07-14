@@ -7,7 +7,7 @@ This assignment requires the following to be running before proceeding further:
 * Python midtier for querying and blending the resultsets
 
 ### Verification
-A typeahead interface has already been provided to you. Bring up the server with the following commands and verify if you can see both instant search results and query suggestions.
+A typeahead interface has already been provided to you. Do the following steps and verify if you can see both instant search results and query suggestions.
 * In your web browser open assignment3/excercise/stackexchange/typeahead/es.html
 * Utilize the typeahead interface by typing queries and verifying the results.
 

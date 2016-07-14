@@ -13,29 +13,6 @@ NUM_TO_CUSTOM_SCORE = 10
 MAX_QUERY_AUTOCOMPLETE_RESULTS = 3
 
 
-def construct_custom_scoring_query(raw_query):
-    """
-    TODO: this doesn't work and not sure why
-    currently overfetch and score later
-    """
-    query = {
-        "query": {
-            "function_score": {
-                "boost_mode": "replace",
-                "query": {
-                    "match": {
-                        "name": {"query": raw_query, "operator": "and"}
-                    }
-                },
-                "script_score": {
-                    "script": "doc[\"popularity\"].value"
-                }
-            }
-        }
-    }
-    return query
-
-
 def construct_simple_query(raw_query, num_docs):
     """docstring for fname"""
     query = {

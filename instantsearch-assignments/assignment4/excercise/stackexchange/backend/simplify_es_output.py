@@ -14,7 +14,7 @@ MAX_QUERY_AUTOCOMPLETE_RESULTS = 3
 
 
 def construct_simple_query(raw_query, num_docs):
-    """docstring for fname"""
+    """Simple query construction to retrieve results with an and operator"""
     query = {
         "query": {
             "match": {
@@ -28,6 +28,7 @@ def construct_simple_query(raw_query, num_docs):
 
 def get_instant_results(query):
     url = LOCAL_HOST + '/' + INDEX_NAME + '/' + FIELD_NAME + '/_search'
+    # TODO: Modify the query here to support fuzzy matching of documents
     query = construct_simple_query(raw_query=query,
                                    num_docs=NUM_TO_RETRIEVE)
     response = requests.get(url=url, data=json.dumps(query))
@@ -36,6 +37,7 @@ def get_instant_results(query):
     output = response.json()
     hits = output.get('hits')
     response = []
+    # TODO: Go through the hits to find out the related tags
     if hits:
         hits = hits.get('hits')
         for hit in hits:
@@ -54,6 +56,7 @@ def get_instant_results(query):
                          'href': href,
                          })
         # sort the output by score, this is custom ranking
+        # TODO: Modify the score here to take into account popularity, tf-idf etc.
         response.sort(key=lambda x: x['score'], reverse=True)
     return response[:NUM_TO_CUSTOM_SCORE]
 

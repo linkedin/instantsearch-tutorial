@@ -27,5 +27,8 @@ $ ~/workspace/instantsearch-tutorial/elasticsearch-2.3.4/bin/elasticsearch
 The virtual machine is currently running Ubuntu and has all the dependencies setup for you. This is a good option if you do not want to corrupt or change things in *python* installed on your machine. 
 * [Virtual Box VM Download](https://drive.google.com/open?id=0B1eBBrAnKVJlbnVCZ2wwbWxqS2c)
 
+**Username**: instantsearch 
+**Password**:1
+
 ### End Result
 At the end of this assignment you should have your python enviroment ready and elasticsearch running on port 9200. 

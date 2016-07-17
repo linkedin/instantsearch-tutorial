@@ -20,7 +20,7 @@ The dataset that we will be working today has been taken from the stackoverflow 
 ```
 ### Elastic Search Basics
 
-1. **Index Settings** - As a first step we will be setting up our search index to hold the stackoverflow dataset. You will need to set the following settings when building the index.
+1. **Index Settings** - As a first step we will be setting up our search index to hold the stackoverflow dataset. You will need to set the following settings when building the index. [Configure Analyzers](https://www.elastic.co/guide/en/elasticsearch/guide/current/configuring-analyzers.html) and [Index Settings](https://www.elastic.co/guide/en/elasticsearch/reference/current/indices-update-settings.html)
     * **Number of Shards** - This control how distributed you want your index, the primary reason to this is to limit number of documents on a single host. Given our small dataset a *single* sharded index should suffice.
     * **Analysis** - This is crucial step that determines how string tokens are represented and stored in the inverted index. In this part you need to determine which analyzer suits the best needs for our usecase. You can read about analysis process here [Elasticsearch Analysis](https://www.elastic.co/blog/found-text-analysis-part-1). Given our usercase we recommend use of [edge n-grams analyzer](https://www.elastic.co/blog/found-text-analysis-part-1#using-ngrams-for-advanced-token-searches).
 

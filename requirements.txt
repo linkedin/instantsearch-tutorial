@@ -3,6 +3,6 @@ requests==2.10.0
 urllib3==1.16
 virtualenv==1.5.2
 web.py==0.37
-wheel==0.26.0
+wheel==0.38.1
 wsgiref==0.1.2
 xmltodict==0.10.2

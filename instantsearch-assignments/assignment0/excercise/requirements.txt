@@ -1,4 +1,4 @@
 elasticsearch==2.3.0
-requests==2.10.0
+requests==2.31.0
 web.py==0.37
 xmltodict==0.10.2
